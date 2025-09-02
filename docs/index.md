@@ -1,17 +1,79 @@
-# Prmbr
+# 精选提示词库
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+欢迎来到 **精选提示词库** - 一个精心策划的AI助手提示词集合，按类别组织，提升您的工作效率和创造力。
 
-## Commands
+## 🎯 分类导航
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 1. 💼 工作效率 (Productivity)
+使用专业提示词优化您的工作流程：
 
-## Project layout
+- **写作辅助** - 邮件撰写、报告编写、文档优化
+- **数据分析** - 表格处理、趋势分析、数据可视化
+- **项目管理** - 任务分解、进度跟踪、风险评估
+- **会议助手** - 会议纪要、议程规划、决策总结
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### 2. ✍️ 内容创作 (Content Creation)
+使用创意提示词制作精彩内容：
+
+- **营销文案** - 广告语、产品描述、社媒内容
+- **技术写作** - 文档、教程、API 说明
+- **创意写作** - 故事、脚本、诗歌创作
+- **翻译润色** - 多语言翻译、文本优化
+
+### 3. 🎨 图像创作 (Image Generation) ⭐ *新增*
+使用专业提示词生成精美图像：
+
+- **文生图** - 艺术创作、概念设计、插图生成
+- **图生图** - 图像编辑、风格转换、图像增强
+- **UI设计图** - 界面原型、图标设计、布局参考
+- **营销素材** - 海报、banner、产品展示图
+- **艺术风格** - 特定画风、流派模拟、创意表达
+
+### 4. 💻 编程开发 (Programming)
+使用开发提示词加速编码过程：
+
+- **代码生成** - 函数编写、算法实现
+- **代码审查** - Bug 查找、性能优化
+- **架构设计** - 系统设计、技术选型
+- **文档生成** - 注释、README、接口文档
+
+### 5. 📚 学习教育 (Learning & Education)
+使用教育提示词提升学习体验：
+
+- **知识解释** - 概念阐述、原理分析
+- **练习生成** - 题目创建、案例分析
+- **学习规划** - 课程设计、进度安排
+- **考试准备** - 复习计划、模拟测试
+
+### 6. 📊 商业分析 (Business Analysis)
+使用分析提示词驱动商业洞察：
+
+- **市场研究** - 竞品分析、用户调研
+- **策略规划** - 商业计划、增长策略
+- **财务分析** - 预算规划、成本分析
+- **风险管理** - 风险识别、应对策略
+
+### 7. 🎯 设计创意 (Design & Creative)
+使用创意提示词激发灵感：
+
+- **UI/UX 设计** - 界面描述、用户体验优化
+- **品牌策划** - 品牌定位、视觉概念
+- **产品创意** - 功能设计、创新思路
+
+## 🚀 使用指南
+1. 导航至您需要的分类
+2. 复制提示词模板
+3. 根据具体需求进行定制
+4. 享受增强的AI交互体验！
+
+## 🤝 Contributing | 贡献
+
+We welcome contributions! Please feel free to submit pull requests with new prompts or improvements.
+
+欢迎贡献！请随时提交包含新提示词或改进的拉取请求。
+
+## 📄 License | 许可证
+
+This project is licensed under the MIT License.
+
+本项目采用 MIT 许可证。
