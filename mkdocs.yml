@@ -1,0 +1,24 @@
+site_name: Prmbr Docs
+site_url: https://docs.prmbr.com
+theme:
+  name: material
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          name: Chinese
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+# extra:
+#   alternate:
+#     - name: Chinese
+#       link: /zh/
+#       lang: zh
+#     - name: English
+#       link: /en/
+#       lang: en
