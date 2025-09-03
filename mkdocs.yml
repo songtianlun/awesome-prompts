@@ -12,6 +12,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       primary: brown
+      accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -22,7 +23,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-    #accent: orange
 
 extra:
   analytics:
