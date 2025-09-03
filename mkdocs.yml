@@ -25,6 +25,15 @@ theme:
         name: Switch to system preference
   logo: assets/logo.svg
   favicon: assets/favicon.ico
+  features:
+    - navigation.instant          # 即时加载
+    - navigation.instant.prefetch # 即时预取
+    - navigation.instant.progress # 进度指示器
+    - navigation.tracking         # 锚跟踪
+    - navigation.tabs
+    - navigation.expand           # 默认展开左侧导航栏
+    - navigation.path             # 导航路径 面包屑
+    - navigation.top              # 返回顶部按钮
 extra:
   analytics:
     provider: google
