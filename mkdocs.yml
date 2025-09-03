@@ -1,5 +1,8 @@
 site_name: Prmbr Docs
 site_url: https://prmbr.com
+repo_url: https://github.com/songtianlun/awesome-prompts
+repo_name: awesome-prompts
+edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
@@ -34,6 +37,11 @@ theme:
     - navigation.expand           # 默认展开左侧导航栏
     - navigation.path             # 导航路径 面包屑
     - navigation.top              # 返回顶部按钮
+    - search.suggest              # 搜索建议
+    - search.highlight            # 搜索高亮显示
+    - search.share                # 搜索共享
+  icon:
+    repo: fontawesome/brands/github
 extra:
   analytics:
     provider: google
@@ -73,6 +81,12 @@ plugins:
         - locale: en
           name: English
           build: true
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  # - git-committers:
+  #     repository: songtianlun/awesome-prompts
+  #     branch: main
 # extra:
 #   alternate:
 #     - name: Chinese
