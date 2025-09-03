@@ -1,4 +1,4 @@
-site_name: Prmbr Docs
+site_name: Awesome Prompts
 site_url: https://prmbr.com
 repo_url: https://github.com/songtianlun/awesome-prompts
 repo_name: awesome-prompts
@@ -82,6 +82,7 @@ plugins:
           name: English
           build: true
   - search
+  - tags
   - git-revision-date-localized:
       enable_creation_date: true
   # - git-committers:

@@ -1,3 +1,8 @@
+---
+tags:
+  - TextToImage
+  - NanoBanana
+---
 
 # Nano Banana 生成小红书封面图提示词
 
