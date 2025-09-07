@@ -84,8 +84,8 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/input0.jpg" width="200" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/output0.jpg" width="200" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/input.jpg" width="200" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/output.jpg" width="200" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/input0.jpg" width="200" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/output0.jpg" width="200" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/input.jpg" width="200" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/output.jpg" width="200" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片作为生成手办的对象
 
@@ -100,9 +100,9 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/output.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/input3.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/output3.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/input2.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/output2.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/input3.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/output3.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/input2.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/output2.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需要上传一张包含红色箭头的google maps图像
 
@@ -119,7 +119,7 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case3/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case3/output.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -137,8 +137,8 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/output.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/input2.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/output2.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/input2.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/output2.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张包含对应物体的图像
 
@@ -156,7 +156,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case5/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case5/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case5/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case5/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物的照片
@@ -181,7 +181,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case6/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case6/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case6/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case6/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传多个参考图
@@ -200,7 +200,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case7/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case7/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case7/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case7/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张需要进行修正的图像
@@ -216,7 +216,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case8/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case8/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case8/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case8/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传角色的图像以及手绘草图
@@ -232,7 +232,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case9/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case9/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case9/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case9/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张地面上拍摄的照片
@@ -248,7 +248,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case10/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case10/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case10/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case10/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张贴纸参考图以及一张人物图像
@@ -264,7 +264,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case11/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case11/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case11/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case11/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张插画图像
@@ -280,7 +280,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case12/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case12/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case12/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case12/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张角色参考图像
@@ -306,7 +306,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case13/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case13/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case13/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case13/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张线稿图和一张色卡图
@@ -322,7 +322,7 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case14/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case14/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一段博客/文章
@@ -343,7 +343,7 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case15/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case15/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张需要更换发型的人像图片
@@ -359,7 +359,7 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case16/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case16/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -375,7 +375,7 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case17/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case17/output.jpg" width="300" alt="输出结果"> |
 
 **输入：** 需上传一张参考图像
 
@@ -390,9 +390,9 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/input1.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/output1.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/input2.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/output2.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/input3.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/output3.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/input1.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/output1.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/input2.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/output2.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/input3.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/output3.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张带有多种食材的照片
 
@@ -407,7 +407,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case19/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case19/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case19/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case19/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一道数学类的题目
@@ -423,7 +423,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case20/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case20/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case20/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case20/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张老旧、需要修复的照片
@@ -439,7 +439,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case21/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case21/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case21/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case21/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物图片和服装图片
@@ -455,7 +455,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case22/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case22/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case22/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case22/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传人物图像和衣服图像
@@ -471,7 +471,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case23/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case23/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case23/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case23/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -487,7 +487,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case24/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case24/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case24/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case24/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -503,7 +503,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case25/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case25/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case25/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case25/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -519,7 +519,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case26/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case26/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case26/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case26/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传线稿图和参考图像
@@ -535,7 +535,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case27/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case27/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case27/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case27/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -551,8 +551,8 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case28/output.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case28/output1.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case28/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case28/output1.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -565,7 +565,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case29/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case29/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case29/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case29/output.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -580,8 +580,8 @@ tags:
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case30/output.jpg" width="300" alt="输出结果"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case30/output1.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case30/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case30/output1.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -596,7 +596,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case31/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case31/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case31/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case31/output.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -611,7 +611,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case32/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case32/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case32/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case32/output.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -629,7 +629,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case33/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case33/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case33/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case33/output.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传地图的参考图像
 
@@ -644,7 +644,7 @@ tags:
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case34/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case34/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图和一张表情参考图
@@ -660,7 +660,7 @@ tags:
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case35/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case35/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -676,7 +676,7 @@ tags:
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case36/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case36/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像和一张妆造参考图片
@@ -692,7 +692,7 @@ tags:
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case37/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case37/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case37/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case37/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -709,7 +709,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case38/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case38/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -725,7 +725,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case39/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case39/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -741,7 +741,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case40/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case40/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -757,7 +757,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case41/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case41/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张物品参考图像和一张包装参考图片
@@ -773,7 +773,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case42/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case42/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像和一张滤镜/材质参考图片
@@ -792,7 +792,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case43/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case43/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像和一张脸型参考图片
@@ -808,7 +808,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 示例 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case44/case.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case44/case.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像和一张光影参考图片
@@ -824,7 +824,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case45/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case45/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case45/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case45/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -840,7 +840,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case46/input.jpg" width="300" alt="输入图片"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case46/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case46/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case46/output.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -856,7 +856,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 输出 |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case47/output.jpg" width="300" alt="输出结果"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case47/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 

@@ -83,8 +83,8 @@ If you like it, please ⭐ Star to bookmark it!
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/input0.jpg" width="200" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/output0.jpg" width="200" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/input.jpg" width="200" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case1/output.jpg" width="200" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/input0.jpg" width="200" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/output0.jpg" width="200" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/input.jpg" width="200" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case1/output.jpg" width="200" alt="Output Result"> |
 
 **input:** Need to upload a reference image as the object for generating the figure
 
@@ -99,9 +99,9 @@ turn this photo into a character figure. Behind it, place a box with the charact
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/output.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/input3.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/output3.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/input2.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case2/output2.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/input3.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/output3.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/input2.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case2/output2.jpg" width="300" alt="Output Result"> |
 
 **input:** Need to upload a Google Maps image containing a red arrow
 
@@ -118,7 +118,7 @@ draw the real world view from the red circle in the direction of the arrow.
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case3/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case3/output.jpg" width="300" alt="Output Result"> |
 
 **input:** Need to upload a reference image
 
@@ -136,8 +136,8 @@ you are a location-based AR experience generator. highlight [point of interest] 
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/output.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/input2.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case4/output2.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/input2.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case4/output2.jpg" width="300" alt="Output Result"> |
 
 **input:** Need to upload an image containing the corresponding object
 
@@ -155,7 +155,7 @@ Make Image Daytime and Isometric [Building Only]
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case5/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case5/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case5/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case5/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a photo of a person
@@ -180,7 +180,7 @@ Don't change the character's face
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case6/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case6/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case6/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case6/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload multiple reference images
@@ -199,7 +199,7 @@ A model is posing and leaning against a pink bmw. She is wearing the following i
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case7/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case7/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case7/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case7/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload an image that needs correction
@@ -215,7 +215,7 @@ This photo is very boring and plain. Enhance it! Increase the contrast, boost th
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case8/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case8/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case8/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case8/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload character images and hand-drawn sketches
@@ -231,7 +231,7 @@ Have these two characters fight using the pose from Figure 3. Add appropriate vi
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case9/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case9/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case9/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case9/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a photo taken from the ground
@@ -247,7 +247,7 @@ Convert the photo to a top-down view and mark the location of the photographer.
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case10/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case10/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case10/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case10/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a sticker reference image and a character image
@@ -263,7 +263,7 @@ Help me turn the character into a white outline sticker similar to Figure 2. The
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case11/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case11/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case11/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case11/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload an illustration image
@@ -279,7 +279,7 @@ Generate a photo of a girl cosplaying this illustration, with the background set
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case12/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case12/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case12/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case12/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a character reference image
@@ -305,7 +305,7 @@ Costume design (Costume Design)
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case13/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case13/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case13/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case13/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a line art image and a color palette image
@@ -321,7 +321,7 @@ Accurately use the color palette from Figure 2 to color the character in Figure 
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case14/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case14/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a blog/article
@@ -342,7 +342,7 @@ Requirements:
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case15/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case15/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a portrait image that needs hairstyle changes
@@ -358,7 +358,7 @@ Generate avatars of this person with different hairstyles in a 3x3 grid format
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case16/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case16/output.jpg" width="300" alt="Output Result"> |
 
 **prompt:**
 
@@ -374,7 +374,7 @@ Draw [3D human organ model display example heart] for academic presentation, wit
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case17/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case17/output.jpg" width="300" alt="Output Result"> |
 
 **input：** Need to upload a reference image
 
@@ -389,9 +389,9 @@ A photorealistic image of an ultra-detailed sculpture of the subject in image ma
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/input1.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/output1.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/input2.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/output2.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/input3.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case18/output3.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/input1.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/output1.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/input2.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/output2.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/input3.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case18/output3.jpg" width="300" alt="Output Result"> |
 
 **input:** Need to upload a photo with various ingredients
 
@@ -406,7 +406,7 @@ make me a delicious lunch with these ingredients, and put it on a plate , zoomed
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case19/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case19/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case19/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case19/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a math problem
@@ -422,7 +422,7 @@ Write the answer to the problem in the corresponding position based on the quest
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case20/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case20/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case20/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case20/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload an old photo that needs restoration
@@ -438,7 +438,7 @@ restore and colorize this photo.
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case21/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case21/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case21/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case21/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload a person image and clothing image
@@ -454,7 +454,7 @@ Choose the person in Image 1 and dress them in all the clothing and accessories 
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case22/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case22/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case22/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case22/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload person image and clothing image
@@ -470,7 +470,7 @@ Replace the person's clothing in the input image with the target clothing shown 
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case23/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case23/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case23/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case23/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload reference image
@@ -486,7 +486,7 @@ Generate the Front, Rear, Left, Right, Top, Bottom views on white. Evenly spaced
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case24/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case24/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case24/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case24/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload reference image
@@ -502,7 +502,7 @@ Create an addictively intriguing 12 part story with 12 images with these two cha
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case25/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case25/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case25/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case25/output.jpg" width="300" alt="Output Result"> |
 
 
 **input:** Need to upload reference image
@@ -518,7 +518,7 @@ Have the person in the picture look straight ahead
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case26/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case26/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case26/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case26/output.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload line drawings and reference images
@@ -534,7 +534,7 @@ Change the pose of the person in Figure 1 to that of Figure 2, and shoot in a pr
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case27/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case27/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case27/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case27/output.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a reference image
@@ -550,8 +550,8 @@ Watermark the word ‘TRUMP’ over and over again across the whole image.
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case28/output.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case28/output1.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case28/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case28/output1.jpg" width="300" alt="Output Result"> |
 
 **Prompt:**
 
@@ -564,7 +564,7 @@ Make me an infographic of 5 tallest buildings in the world / Make a colorful inf
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case29/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case29/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case29/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case29/output.jpg" width="300" alt="Output Result"> |
 
 **Input:** Need to upload a reference image
 
@@ -579,8 +579,8 @@ Analyze this image. Use red pen to denote where you can improve.
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case30/output.jpg" width="300" alt="Output Result"> |
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case30/output1.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case30/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case30/output1.jpg" width="300" alt="Output Result"> |
 
 **Input:** Need to upload a reference image
 
@@ -595,7 +595,7 @@ Photograph this product in a dramatic modern scene accompanied by explosive outw
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case31/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case31/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case31/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case31/output.jpg" width="300" alt="Output Result"> |
 
 **Input:** Need to upload a reference image
 
@@ -610,7 +610,7 @@ Based on the uploaded image, make a comic book strip, add text, write a compelli
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case32/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case32/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case32/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case32/output.jpg" width="300" alt="Output Result"> |
 
 **Input:** Need to upload a reference image
 
@@ -629,7 +629,7 @@ make an action figure of me that says [“AI Evangelist - Kris”] and features 
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case33/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case33/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case33/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case33/output.jpg" width="300" alt="Output Result"> |
 
 **Input:** Need to upload a map reference image
 
@@ -644,7 +644,7 @@ Take this location and make the landmark an isometric image (building only), in 
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case34/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case34/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a character reference image and an expression reference image
@@ -660,7 +660,7 @@ Character reference from Image 1 / Change to the expression from Image 2
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case35/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case35/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a character reference image
@@ -676,7 +676,7 @@ Generate a four-panel drawing process for the character: Step 1: Line art, Step 
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case36/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case36/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a character reference image and a makeup reference image
@@ -692,7 +692,7 @@ Apply the makeup from Image 2 to the character in Image 1, while maintaining the
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case37/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case37/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case37/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case37/output.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a character reference image
@@ -709,7 +709,7 @@ Analyze this image. Use a red pen to denote where you can improve
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case38/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case38/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt:**
 
@@ -725,7 +725,7 @@ Dashcam Google Street View shot | [Hobbiton Street] | [hobbits carrying out dail
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case39/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case39/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt:**
 
@@ -742,7 +742,7 @@ Create a minimalist black-and-white typographic illustration of the scene riding
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case40/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case40/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a character reference image
@@ -758,7 +758,7 @@ Please create a pose sheet for this illustration, making various poses!
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case41/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case41/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a product reference image and a packaging reference image
@@ -774,7 +774,7 @@ Apply the design from Image 1 to the can in Image 2, and place it in a minimalis
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case42/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case42/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a reference image and a filter/material reference image
@@ -793,7 +793,7 @@ Overlay the [glass] effect from Image 2 onto the photo in Image 1
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case43/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case43/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a reference image and a face shape reference image
@@ -809,7 +809,7 @@ Design the character from Image 1 as a chibi version according to the face shape
 
 | Example |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case44/case.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case44/case.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a reference image and a lighting reference image
@@ -825,7 +825,7 @@ Change the character from Image 1 to the lighting from Image 2, with dark areas 
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case45/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case45/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case45/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case45/output.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a reference image
@@ -841,7 +841,7 @@ Transform the person in the photo into a LEGO minifigure packaging box style, pr
 
 | Input | Output |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case46/input.jpg" width="300" alt="Input Image"> | <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case46/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case46/input.jpg" width="300" alt="Input Image"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case46/output.jpg" width="300" alt="Output Result"> |
 
 
 **Input:** Need to upload a reference image
@@ -857,7 +857,7 @@ Transform the person in the photo into a Gundam model kit packaging box style, p
 
 | Output |
 |:---:|
-| <img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/images/case47/output.jpg" width="300" alt="Output Result"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case47/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt:**
 
