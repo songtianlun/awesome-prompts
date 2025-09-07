@@ -8,6 +8,8 @@ nav:
     - index.md
     - similar-sites.md
     - tags.md
+  - ChatGPT Prompts:
+    - awesome-chatgpt-prompts.md
   - RolePlay:
     - role-play/therapist-session.md
   - TextToImage:
