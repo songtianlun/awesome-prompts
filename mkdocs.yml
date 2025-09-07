@@ -9,6 +9,8 @@ nav:
     - similar-sites.md
     - tags.md
     - prompts-zh.md
+  - ChatGPT Prompts:
+    - awesome-chatgpt-prompts.md
   - RolePlay:
     - role-play/therapist-session.md
   - ContentCreation:
@@ -16,7 +18,9 @@ nav:
   - Programming:
     - programming/javascript-console.md
   - TextToImage:
-    - nano-banana/xiaohongshu-card-generation.md
+    - Nano Banana:
+        - nano-banana/xiaohongshu-card-generation.md
+        - nano-banana/awesome-nano-banana-images.md
     - text-to-image/cyberpunk-city.md
   - TextToVideo:
     - text-to-video/cinematic-trailer.md
