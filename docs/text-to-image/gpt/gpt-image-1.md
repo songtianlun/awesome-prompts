@@ -7,12 +7,7 @@ tags:
 
 > 来源：[jamez-bondos/awesome-gpt4o-images/gpt-image-1](https://github.com/jamez-bondos/awesome-gpt4o-images/tree/main/gpt-image-1)
 
-<a id="readme-top"></a>
 # OpenAI gpt-image-1: 40 个精选图像案例及提示词
-
-[![English](https://img.shields.io/badge/English-Click-yellow)](https://github.com/jamez-bondos/awesome-gpt4o-images/blob/main/gpt-image-1/gpt-image-1-en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](https://github.com/jamez-bondos/awesome-gpt4o-images/blob/main/gpt-image-1/gpt-image-1.md)
-[![Back to Awesome List](https://img.shields.io/badge/Back%20to%20Awesome%20List-Click-blue)](https://github.com/jamez-bondos/awesome-gpt4o-images)
 
 `gpt-image-1` 是 OpenAI 最新发布的尖端图像模型，现已通过 API 对外开放。
 
@@ -26,54 +21,6 @@ tags:
 这些精彩案例全部来自于OpenAI官方，为方便学习和查看，现精心翻译为中文版本。OpenAI 官方示例，不受本仓库 CC BY 4.0 许可约束（详见对应 NOTICE 文件）。
 
 *注：gpt‑image‑1 和 GPT‑4o 都是 OpenAI 的最新图像生成产品，背后的支持模型是大致相同的。不同的是 gpt‑image‑1 仅提供 API 访问，且 gpt‑image‑1 目前较新一些。*
-
-<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
-
----
-
-<a id="contents-toc"></a>
-## 目录
-
-- [案例 1：色轮徽标](#example-1)
-- [案例 2：浮雕商务名片字母组合](#example-2)
-- [案例 3：极简家具照片](#example-3)
-- [案例 4：手袋搭配服装](#example-4)
-- [案例 5：家用音箱广告](#example-5)
-- [案例 6：球鞋材料再创想](#example-6)
-- [案例 7：3D 等距城市模拟视图](#example-7)
-- [案例 8：吹制玻璃音箱](#example-8)
-- [案例 9：巧克力包装口味变体](#example-9)
-- [案例 10：京都旅行指南封面](#example-10)
-- [案例 11：生日卡礼物插画](#example-11)
-- [案例 12：生活方式杂志封面（Urban Pulse）](#example-12)
-- [案例 13：牙买加 Jerk 餐车品牌化](#example-13)
-- [案例 14：意式咖啡馆菜单设计](#example-14)
-- [案例 15：停车场立柱图案应用](#example-15)
-- [案例 16：鳄梨酱食材排布](#example-16)
-- [案例 17：游戏角色精灵表(Sprite Sheet)](#example-17)
-- [案例 18：室内空间再设计](#example-18)
-- [案例 19：虚拟试衣](#example-19)
-- [案例 20：平面图到 3D 渲染](#example-20)
-- [案例 21：鲸鱼科普海报](#example-21)
-- [案例 22：蛋白棒包装（GPU Crunch）](#example-22)
-- [案例 23：独立专辑封面（Neon Dusk）](#example-23)
-- [案例 24：果冻外星角色渲染](#example-24)
-- [案例 25：水瓶形态探索](#example-25)
-- [案例 26：奇幻梦境环境](#example-26)
-- [案例 27：T-恤效果图 (mockup)](#example-27)
-- [案例 28：匹克球拍图形设计](#example-28)
-- [案例 29：演唱会门票设计（朋克风）](#example-29)
-- [案例 30：马跳跃动画关键帧](#example-30)
-- [案例 31：无缝平铺纺织图案](#example-31)
-- [案例 32：玻璃花瓶设计（琥珀球体）](#example-32)
-- [案例 33：中世纪体素建筑精灵图](#example-33)
-- [案例 34：重金属唱片封套设计](#example-34)
-- [案例 35：番茄酱广告包装镜头](#example-35)
-- [案例 36：回针教程（二战海报风）](#example-36)
-- [案例 37：温馨客厅氛围添加](#example-37)
-- [案例 38：透明 3D 图标](#example-38)
-- [案例 39：橄榄油瓶融入静物画](#example-39)
-- [案例 40：礼品篮合成图](#example-40)
 
 ---
 

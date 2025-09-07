@@ -7,12 +7,7 @@ tags:
 
 > Source: [jamez-bondos/awesome-gpt4o-images/gpt-image-1](https://github.com/jamez-bondos/awesome-gpt4o-images/tree/main/gpt-image-1)
 
-<a id="readme-top"></a>
 # OpenAI gpt-image-1: 40 Curated Prompt & Image Examples
-
-[![English](https://img.shields.io/badge/English-Click-yellow)](https://github.com/jamez-bondos/awesome-gpt4o-images/blob/main/gpt-image-1/gpt-image-1-en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](https://github.com/jamez-bondos/awesome-gpt4o-images/blob/main/gpt-image-1/gpt-image-1.md)
-[![Back to Awesome List](https://img.shields.io/badge/Back%20to%20Awesome%20List-Click-blue)](https://github.com/jamez-bondos/awesome-gpt4o-images)
 
 `gpt-image-1` is OpenAI’s brand-new, state-of-the-art image model now available via the API.
 
@@ -27,56 +22,8 @@ OpenAI official examples are not covered by this repository’s CC BY 4.0 licens
 
 *Note: Both `gpt-image-1` and GPT-4o are OpenAI's latest image generation products, supported by largely the same underlying models. The main difference is that the former is currently accessed via API, while the latter powers official products like ChatGPT and Sora. `gpt-image-1` represents the newer iteration available through the API.*
 
-<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
-
 ---
 
-<a id="contents-toc"></a>
-## Contents
-- [Example 1: Color Wheel Logo](#example-1)
-- [Example 2: Embossed Business Card Monogram](#example-2)
-- [Example 3: Minimalist Furniture Photo](#example-3)
-- [Example 4: Handbag Matching Outfit](#example-4)
-- [Example 5: Home Speaker Ad](#example-5)
-- [Example 6: Sneaker Material Reimagined](#example-6)
-- [Example 7: 3D Isometric City Simulation View](#example-7)
-- [Example 8: Blown Glass Speaker](#example-8)
-- [Example 9: Chocolate Packaging Variation](#example-9)
-- [Example 10: Kyoto Travel Guide Cover](#example-10)
-- [Example 11: Birthday Card with Gift Illustrations](#example-11)
-- [Example 12: Lifestyle Magazine Cover ('Urban Pulse')](#example-12)
-- [Example 13: Food Truck Rebranding (Jamaican Jerk)](#example-13)
-- [Example 14: Italian Cafe Menu Design](#example-14)
-- [Example 15: Parking Lot Column Pattern Application](#example-15)
-- [Example 16: Guacamole Ingredients Layout](#example-16)
-- [Example 17: Warrior Sprite Sheet (Gear Progression)](#example-17)
-- [Example 18: Interior Space Reimagined](#example-18)
-- [Example 19: Virtual Outfit Try-On](#example-19)
-- [Example 20: Floorplan to 3D Rendering](#example-20)
-- [Example 21: Educational Whale Poster](#example-21)
-- [Example 22: Protein Bar Packaging ('GPU Crunch')](#example-22)
-- [Example 23: Indie Album Cover ('Neon Dusk')](#example-23)
-- [Example 24: Blobby Alien Character Render](#example-24)
-- [Example 25: Water Bottle Shape Exploration](#example-25)
-- [Example 26: Fantasy Dreamscape Environment](#example-26)
-- [Example 27: T-Shirt Design Mockup ('Font Choice')](#example-27)
-- [Example 28: Pickleball Paddle Graphic Design](#example-28)
-- [Example 29: Concert Ticket Design (Punk Aesthetic)](#example-29)
-- [Example 30: Horse Jump Animation Keyframes](#example-30)
-- [Example 31: Repeatable Textile Pattern](#example-31)
-- [Example 32: Glass Vase Design (Amber Spheres)](#example-32)
-- [Example 33: Medieval Voxel Building Sprites](#example-33)
-- [Example 34: Heavy Metal Record Sleeve Design](#example-34)
-- [Example 35: Ketchup Ad Packshot](#example-35)
-- [Example 36: Backstitch Tutorial (WWII Poster Style)](#example-36)
-- [Example 37: Cozy Living Room Addition](#example-37)
-- [Example 38: Realistic Transparent 3D Icon](#example-38)
-- [Example 39: Olive Oil Bottle Integration](#example-39)
-- [Example 40: Gift Basket Composite Image](#example-40)
-
----
-
-<a id="examples-toc"></a>
 ## Examples
 
 <a id="example-1"></a>
