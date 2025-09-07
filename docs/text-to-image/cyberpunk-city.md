@@ -1,6 +1,7 @@
 ---
 tags:
   - TextToImage
+  - Midjourney
 ---
 
 # 赛博朋克城市文生图提示词
