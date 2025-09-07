@@ -5,25 +5,26 @@ repo_name: awesome-prompts
 edit_uri: edit/main/docs/
 nav:
   - Home:
-    - index.md
-    - similar-sites.md
-    - tags.md
-    - prompts-zh.md
-  - ChatGPT Prompts:
-    - awesome-chatgpt-prompts.md
-  - RolePlay:
-    - role-play/therapist-session.md
-  - ContentCreation:
-    - content-creation/advertising-campaign.md
-  - Programming:
-    - programming/javascript-console.md
-  - TextToImage:
-    - Nano Banana:
-        - nano-banana/xiaohongshu-card-generation.md
-        - nano-banana/awesome-nano-banana-images.md
-    - text-to-image/cyberpunk-city.md
-  - TextToVideo:
-    - text-to-video/cinematic-trailer.md
+      - index.md
+      - similar-sites.md
+      - tags.md
+  - Text-to-Text:
+      - Programming:
+          - text-to-text/programming/javascript-console.md
+      - Content Creation:
+          - text-to-text/content-creation/advertising-campaign.md
+      - Role Play:
+          - text-to-text/role-play/therapist-session.md
+      - Archives:
+          - text-to-text/archives/awesome-chatgpt-prompts.md
+          - text-to-text/archives/prompts-zh.md
+  - Text-to-Image:
+      - text-to-image/cyberpunk-city.md
+      - Nano Banana:
+          - text-to-image/nano-banana/xiaohongshu-card-generation.md
+          - text-to-image/nano-banana/awesome-nano-banana-images.md
+  - Text-to-Video:
+      - text-to-video/cinematic-trailer.md
 theme:
   name: material
   palette:
@@ -34,7 +35,7 @@ theme:
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       primary: brown
       accent: orange
       toggle:
@@ -69,7 +70,7 @@ extra:
     property: G-NML19W8SRD
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
@@ -85,8 +86,7 @@ extra:
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
-          note: >- 
-
+          note: >-
 
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.

@@ -1,6 +1,8 @@
 ---
 tags:
   - TextToVideo
+  - Runway Gen-2
+  - PikaLabs
 ---
 
 # 电影预告片文生视频提示词

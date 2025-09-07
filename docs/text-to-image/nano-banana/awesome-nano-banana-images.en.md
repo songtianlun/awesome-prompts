@@ -1,3 +1,8 @@
+---
+tags:
+  - TextToImage
+  - NanoBanana
+---
 <div align="center">
 
 # Awesome-Nano-Banana🍌-images

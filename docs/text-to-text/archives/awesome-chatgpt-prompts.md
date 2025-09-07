@@ -1,6 +1,10 @@
-# Prompts from prompts.chat
+---
+tags:
+  - ChatGPT
+---
+# prompts.chat 提示词
 
-The following prompts are sourced from [prompts.chat](https://prompts.chat) (MIT License). Use them with ChatGPT or other AI models.
+以下内容来自 [prompts.chat](https://prompts.chat) （MIT 协议），可与 ChatGPT 或其他 AI 模型一起使用。
 
 
 ## Act as an Ethereum Developer

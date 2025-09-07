@@ -2,6 +2,7 @@
 tags:
   - Programming
   - RolePlay
+  - ChatGPT
 ---
 
 # JavaScript 控制台角色扮演提示词

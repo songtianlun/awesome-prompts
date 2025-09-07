@@ -1,6 +1,7 @@
 ---
 tags:
   - ContentCreation
+  - ChatGPT
 ---
 
 # 广告活动策划提示词

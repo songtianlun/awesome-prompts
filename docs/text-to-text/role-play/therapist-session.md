@@ -1,6 +1,7 @@
 ---
 tags:
   - RolePlay
+  - ChatGPT
 ---
 
 # 心理咨询师角色扮演提示词

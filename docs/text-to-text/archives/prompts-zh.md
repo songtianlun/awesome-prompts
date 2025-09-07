@@ -1,3 +1,7 @@
+---
+tags:
+  - ChatGPT
+---
 # 完整提示词列表
 
 以下提示词来自 [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh).
