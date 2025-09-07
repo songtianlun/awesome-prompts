@@ -82,7 +82,7 @@ OpenAI official examples are not covered by this repository’s CC BY 4.0 licens
 <a id="example-1"></a>
 ### Example 1: Color Wheel Logo
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/color-wheel.png" width="300" alt="Color Wheel Logo">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/color-wheel.png" width="300" alt="Color Wheel Logo">
 
 **Prompt:**
 ```
@@ -98,7 +98,7 @@ A high-quality 3D-rendered illustration of a color wheel logo. The design featur
 <a id="example-2"></a>
 ### Example 2: Embossed Business Card Monogram
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/business-card-result.png" width="300" alt="Embossed Business Card Monogram">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/business-card-result.png" width="300" alt="Embossed Business Card Monogram">
 
 **Prompt:**
 ```
@@ -108,8 +108,8 @@ Add the G / I monogram on this business card. The monogram should be embossed.
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/business-card-input1.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/business-card-input2.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/business-card-input1.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/business-card-input2.png" width="100" alt="Reference Image 2">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -121,7 +121,7 @@ Add the G / I monogram on this business card. The monogram should be embossed.
 ### Example 3: Minimalist Furniture Photo
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/furniture-poster.png" width="300" alt="Minimalist Furniture Photo">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/furniture-poster.png" width="300" alt="Minimalist Furniture Photo">
 
 **Prompt:**
 ```
@@ -140,7 +140,7 @@ Generate a picture based on the prompt: Photo of a {item} on a white backdrop, i
 ### Example 4: Handbag Matching Outfit
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/handbag-output.png" width="300" alt="Handbag Matching Outfit">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/handbag-output.png" width="300" alt="Handbag Matching Outfit">
 
 **Prompt:**
 ```
@@ -150,7 +150,7 @@ Generate a picture of a handbag that would go well with this outfit
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/handbag-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/handbag-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -161,7 +161,7 @@ Generate a picture of a handbag that would go well with this outfit
 <a id="example-5"></a>
 ### Example 5: Home Speaker Ad
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/speaker-output.png" width="300" alt="Home Speaker Ad">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/speaker-output.png" width="300" alt="Home Speaker Ad">
 
 **Prompt:**
 ```
@@ -171,7 +171,7 @@ Generate an ad for a home bluetooth speaker. Add this product into a minimalist 
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/speaker-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/speaker-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -183,7 +183,7 @@ Generate an ad for a home bluetooth speaker. Add this product into a minimalist 
 ### Example 6: Sneaker Material Reimagined
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/sneakers-poster.png" width="300" alt="Sneaker Material Reimagined">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/sneakers-poster.png" width="300" alt="Sneaker Material Reimagined">
 
 **Prompt:**
 ```
@@ -193,7 +193,7 @@ I am designing a sneaker, and you are my design partner. Create a picture that r
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/sneakers-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/sneakers-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -205,7 +205,7 @@ I am designing a sneaker, and you are my design partner. Create a picture that r
 ### Example 7: 3D Isometric City Simulation View
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/3d-city.png" width="300" alt="3D Isometric City Simulation View">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/3d-city.png" width="300" alt="3D Isometric City Simulation View">
 
 **Prompt:**
 ```
@@ -222,7 +222,7 @@ Generate a super realistic 3D view of a city on an island for my city simulation
 ### Example 8: Blown Glass Speaker
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/glass-speaker.png" width="300" alt="Blown Glass Speaker">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/glass-speaker.png" width="300" alt="Blown Glass Speaker">
 
 **Prompt:**
 ```
@@ -239,7 +239,7 @@ Create a minimalist home speaker out of glass. It should have an organic shape a
 ### Example 9: Chocolate Packaging Variation
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/chocolate-poster.png" width="300" alt="Chocolate Packaging Variation">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/chocolate-poster.png" width="300" alt="Chocolate Packaging Variation">
 
 **Prompt:**
 ```
@@ -249,7 +249,7 @@ Create a variation of this chocolate packaging for a new flavor - {flavor}. Upda
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/chocolate-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/chocolate-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -261,7 +261,7 @@ Create a variation of this chocolate packaging for a new flavor - {flavor}. Upda
 ### Example 10: Kyoto Travel Guide Cover
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/kyoto-poster.png" width="300" alt="Kyoto Travel Guide Cover">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/kyoto-poster.png" width="300" alt="Kyoto Travel Guide Cover">
 
 **Prompt:**
 ```
@@ -278,7 +278,7 @@ Create an aesthetically compelling, inviting cover for a travel guide titled "Di
 ### Example 11: Birthday Card with Gift Illustrations
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket.png" width="300" alt="Birthday Card with Gift Illustrations">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket.png" width="300" alt="Birthday Card with Gift Illustrations">
 
 **Prompt:**
 ```
@@ -288,9 +288,9 @@ Make an image of a birthday card for my mom's 50th birthday, include all the gif
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket-input1.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket-input2.png" width="100" alt="Reference Image 2">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket-input3.png" width="100" alt="Reference Image 3">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket-input1.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket-input2.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket-input3.png" width="100" alt="Reference Image 3">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -302,7 +302,7 @@ Make an image of a birthday card for my mom's 50th birthday, include all the gif
 ### Example 12: Lifestyle Magazine Cover ('Urban Pulse')
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/magazine-cover.png" width="300" alt="Lifestyle Magazine Cover ('Urban Pulse')">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/magazine-cover.png" width="300" alt="Lifestyle Magazine Cover ('Urban Pulse')">
 
 **Prompt:**
 ```
@@ -319,7 +319,7 @@ Create a professional and visually engaging magazine cover for a lifestyle magaz
 ### Example 13: Food Truck Rebranding (Jamaican Jerk)
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/food-truck-output.png" width="300" alt="Food Truck Rebranding (Jamaican Jerk)">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/food-truck-output.png" width="300" alt="Food Truck Rebranding (Jamaican Jerk)">
 
 **Prompt:**
 ```
@@ -329,7 +329,7 @@ Adjust this foodtruck to be branded as home of jamaican jerk chicken. Create app
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/food-truck-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/food-truck-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -341,7 +341,7 @@ Adjust this foodtruck to be branded as home of jamaican jerk chicken. Create app
 ### Example 14: Italian Cafe Menu Design
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/italian-menu.png" width="300" alt="Italian Cafe Menu Design">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/italian-menu.png" width="300" alt="Italian Cafe Menu Design">
 
 **Prompt:**
 ```
@@ -357,7 +357,7 @@ Create a clean and charming one-page restaurant menu for a cozy Italian café na
 <a id="example-15"></a>
 ### Example 15: Parking Lot Column Pattern Application
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/parking-poster.png" width="300" alt="Parking Lot Column Pattern Application">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/parking-poster.png" width="300" alt="Parking Lot Column Pattern Application">
 
 **Prompt:**
 ```
@@ -367,8 +367,8 @@ Apply the {pattern-number} pattern to the columns of the parking lot as if they 
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/parking-input.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/parking-pattern.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/parking-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/parking-pattern.png" width="100" alt="Reference Image 2">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -379,7 +379,7 @@ Apply the {pattern-number} pattern to the columns of the parking lot as if they 
 <a id="example-16"></a>
 ### Example 16: Guacamole Ingredients Layout
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/guacamole-recipe.png" width="300" alt="Guacamole Ingredients Layout">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/guacamole-recipe.png" width="300" alt="Guacamole Ingredients Layout">
 
 **Prompt:**
 ```
@@ -396,7 +396,7 @@ Create a photo realistic image clearly illustrating all the ingredients needed f
 ### Example 17: Warrior Sprite Sheet
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/sprites.png" width="300" alt="Warrior Sprite Sheet (Gear Progression)">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/sprites.png" width="300" alt="Warrior Sprite Sheet (Gear Progression)">
 
 **Prompt:**
 ```
@@ -413,7 +413,7 @@ Create a detailed, square pixel-art image showcasing a fantasy warrior character
 ### Example 18: Interior Space Reimagined
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/interior-design-poster.png" width="300" alt="Interior Space Reimagined">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/interior-design-poster.png" width="300" alt="Interior Space Reimagined">
 
 **Prompt:**
 ```
@@ -423,7 +423,7 @@ Reimagine this space in {style} aesthetic. Add appropriate furnishings and acces
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/interior-design-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/interior-design-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -434,7 +434,7 @@ Reimagine this space in {style} aesthetic. Add appropriate furnishings and acces
 <a id="example-19"></a>
 ### Example 19: Virtual Outfit Try-On
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/tryon-output.png" width="300" alt="Virtual Outfit Try-On">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/tryon-output.png" width="300" alt="Virtual Outfit Try-On">
 
 **Prompt:**
 ```
@@ -444,8 +444,8 @@ Replace the outfit of the model in the photo with a new outfit. Return a square 
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/tryon-input.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/handbag-input.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/tryon-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/handbag-input.png" width="100" alt="Reference Image 2">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -456,7 +456,7 @@ Replace the outfit of the model in the photo with a new outfit. Return a square 
 <a id="example-20"></a>
 ### Example 20: Floorplan to 3D Rendering
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/floorplan-output.png" width="300" alt="Floorplan to 3D Rendering">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/floorplan-output.png" width="300" alt="Floorplan to 3D Rendering">
 
 **Prompt:**
 ```
@@ -466,7 +466,7 @@ Create a super realistic 3d rendering of this architectural rendering.. Do not c
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/floorplan-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/floorplan-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1536x1024
 
@@ -478,7 +478,7 @@ Create a super realistic 3d rendering of this architectural rendering.. Do not c
 ### Example 21: Educational Whale Poster
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/whales-poster.png" width="300" alt="Educational Whale Poster">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/whales-poster.png" width="300" alt="Educational Whale Poster">
 
 **Prompt:**
 ```
@@ -495,7 +495,7 @@ Create a cute, visually engaging educational poster featuring illustrations of a
 ### Example 22: Protein Bar Packaging ('GPU Crunch')
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-gpu-crunch.png" width="300" alt="Protein Bar Packaging ('GPU Crunch')">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-gpu-crunch.png" width="300" alt="Protein Bar Packaging ('GPU Crunch')">
 
 **Prompt:**
 ```
@@ -512,7 +512,7 @@ Create vibrant and appealing packaging for our tech-inspired protein snack bar, 
 ### Example 23: Indie Album Cover ('Neon Dusk')
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/album-cover.png" width="300" alt="Indie Album Cover ('Neon Dusk')">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/album-cover.png" width="300" alt="Indie Album Cover ('Neon Dusk')">
 
 **Prompt:**
 ```
@@ -529,7 +529,7 @@ Create stylish and visually striking album art for an indie-electronic album tit
 ### Example 24: Blobby Alien Character Render
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/alien.png" width="300" alt="Blobby Alien Character Render">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/alien.png" width="300" alt="Blobby Alien Character Render">
 
 **Prompt:**
 ```
@@ -545,7 +545,7 @@ Render a realistic image of this character: Blobby Alien Character Spec Name: Gl
 <a id="example-25"></a>
 ### Example 25: Water Bottle Shape Exploration
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/bottle-poster.png" width="300" alt="Water Bottle Shape Exploration">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/bottle-poster.png" width="300" alt="Water Bottle Shape Exploration">
 
 **Prompt:**
 ```
@@ -562,7 +562,7 @@ I am designing a shape of a water bottle and need your help exploring some new s
 <a id="example-26"></a>
 ### Example 26: Fantasy Dreamscape Environment
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/game-design.png" width="300" alt="Fantasy Dreamscape Environment">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/game-design.png" width="300" alt="Fantasy Dreamscape Environment">
 
 **Prompt:**
 ```
@@ -578,7 +578,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-27"></a>
 ### Example 27: T-Shirt Design Mockup ('Font Choice')
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/t-shirts.png" width="300" alt="T-Shirt Design Mockup ('Font Choice')">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/t-shirts.png" width="300" alt="T-Shirt Design Mockup ('Font Choice')">
 
 **Prompt:**
 ```
@@ -595,7 +595,7 @@ Create a t-shirt with "I'm silently judging your font choice" Include subtle, pl
 ### Example 28: Pickleball Paddle Graphic Design
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-pickle.png" width="300" alt="Pickleball Paddle Graphic Design">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-pickle.png" width="300" alt="Pickleball Paddle Graphic Design">
 
 **Prompt:**
 ```
@@ -612,7 +612,7 @@ Create a vibrant, funky graphic design for a pickleball paddle called "The Pickl
 ### Example 29: Concert Ticket Design (Punk Aesthetic)
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/concert-ticket.png" width="300" alt="Concert Ticket Design (Punk Aesthetic)">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/concert-ticket.png" width="300" alt="Concert Ticket Design (Punk Aesthetic)">
 
 **Prompt:**
 ```
@@ -622,7 +622,7 @@ Create a stylish, realistic concert ticket for indie-pop artist "Jax Bennett," p
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/concert-ticket-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/concert-ticket-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1536
 
@@ -634,7 +634,7 @@ Create a stylish, realistic concert ticket for indie-pop artist "Jax Bennett," p
 ### Example 30: Horse Jump Animation Keyframes
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/animation.png" width="300" alt="Horse Jump Animation Keyframes">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/animation.png" width="300" alt="Horse Jump Animation Keyframes">
 
 **Prompt:**
 ```
@@ -651,7 +651,7 @@ You are an animation assistant. Create image with 4 keyframes for the animation 
 ### Example 31: Repeatable Textile Pattern
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/patterns-poster.png" width="300" alt="Repeatable Textile Pattern">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/patterns-poster.png" width="300" alt="Repeatable Textile Pattern">
 
 **Prompt:**
 ```
@@ -669,7 +669,7 @@ Create a high-quality repeatable textile pattern in {style} tradition. The patte
 ### Example 32: Glass Vase Design (Amber Spheres)
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/vase.png" width="300" alt="Glass Vase Design (Amber Spheres)">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/vase.png" width="300" alt="Glass Vase Design (Amber Spheres)">
 
 **Prompt:**
 ```
@@ -686,7 +686,7 @@ Create a photo of a glass vase: material: amber / orange glass. Proportions: ver
 ### Example 33: Medieval Voxel Building Sprites
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/buildings-sprite.png" width="300" alt="Medieval Voxel Building Sprites">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/buildings-sprite.png" width="300" alt="Medieval Voxel Building Sprites">
 
 **Prompt:**
 ```
@@ -703,7 +703,7 @@ Create an image with renderings of different buildings for my real time medieval
 ### Example 34: Heavy Metal Record Sleeve Design
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/vinyl-output.png" width="300" alt="Heavy Metal Record Sleeve Design">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/vinyl-output.png" width="300" alt="Heavy Metal Record Sleeve Design">
 
 **Prompt:**
 ```
@@ -713,7 +713,7 @@ Create a picture with a record sleeve design for a heavy metal band. The main te
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/vinyl-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/vinyl-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -725,7 +725,7 @@ Create a picture with a record sleeve design for a heavy metal band. The main te
 ### Example 35: Ketchup Ad Packshot
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ketchup-ad.png" width="300" alt="Ketchup Ad Packshot">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ketchup-ad.png" width="300" alt="Ketchup Ad Packshot">
 
 **Prompt:**
 ```
@@ -735,7 +735,7 @@ Create a packshot for a ketchup ad. Place the ketchup bottle in a white space, i
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ketchup-ad-input.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ketchup-ad-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -746,7 +746,7 @@ Create a packshot for a ketchup ad. Place the ketchup bottle in a white space, i
 <a id="example-36"></a>
 ### Example 36: Backstitch Tutorial (WWII Poster Style)
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/backstitch-tutorial.png" width="300" alt="Backstitch Tutorial (WWII Poster Style)">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/backstitch-tutorial.png" width="300" alt="Backstitch Tutorial (WWII Poster Style)">
 
 **Prompt:**
 ```
@@ -762,7 +762,7 @@ Visualize the step-by-step process of making a backstitch with a simple explanat
 <a id="example-37"></a>
 ### Example 37: Cozy Living Room Addition
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-output-b.png" width="300" alt="Cozy Living Room Addition">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-output-b.png" width="300" alt="Cozy Living Room Addition">
 
 **Prompt:**
 ```
@@ -772,10 +772,10 @@ Add these items to the photo of the living room. Make it cozy.
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input1.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input2.png" width="100" alt="Reference Image 2">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input3.png" width="100" alt="Reference Image 3">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input-4.png" width="100" alt="Reference Image 4">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input1.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input2.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input3.png" width="100" alt="Reference Image 3">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input-4.png" width="100" alt="Reference Image 4">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1536x1024
 
@@ -787,7 +787,7 @@ Add these items to the photo of the living room. Make it cozy.
 ### Example 38: Realistic Transparent 3D Icon
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/icons-poster.png" width="300" alt="Realistic Transparent 3D Icon">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/icons-poster.png" width="300" alt="Realistic Transparent 3D Icon">
 
 **Prompt:**
 ```
@@ -804,7 +804,7 @@ Create a super realistic 3d icon of a {iconName}. It should be floating on a whi
 <a id="example-39"></a>
 ### Example 39: Olive Oil Bottle Integration
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-olive-oil.png" width="300" alt="Olive Oil Bottle Integration">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-olive-oil.png" width="300" alt="Olive Oil Bottle Integration">
 
 **Prompt:**
 ```
@@ -814,8 +814,8 @@ Seamlessly integrate this olive oil bottle into the still life painting. Make su
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-olive-oil-input2.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-olive-oil-input1.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-olive-oil-input2.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-olive-oil-input1.png" width="100" alt="Reference Image 2">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 
@@ -827,7 +827,7 @@ Seamlessly integrate this olive oil bottle into the still life painting. Make su
 ### Example 40: Gift Basket Composite Image
 
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/bath-set-result.png" width="300" alt="Gift Basket Composite Image">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/bath-set-result.png" width="300" alt="Gift Basket Composite Image">
 
 **Prompt:**
 ```
@@ -837,10 +837,10 @@ Generate a photorealistic image of a gift basket on a white background labeled '
 
 **Reference Image(s):**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/bath_bomb.png" width="100" alt="Reference Image 1">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/body-lotion.png" width="100" alt="Reference Image 2">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/soap.png" width="100" alt="Reference Image 3">
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/incense-kit.png" width="100" alt="Reference Image 4">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/bath_bomb.png" width="100" alt="Reference Image 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/body-lotion.png" width="100" alt="Reference Image 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/soap.png" width="100" alt="Reference Image 3">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/incense-kit.png" width="100" alt="Reference Image 4">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
 

@@ -82,7 +82,7 @@ tags:
 <a id="example-1"></a>
 ### 案例 1：色轮徽标
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/color-wheel.png" width="300" alt="色轮徽标">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/color-wheel.png" width="300" alt="色轮徽标">
 
 **提示词：**
 ```
@@ -98,7 +98,7 @@ tags:
 <a id="example-2"></a>
 ### 案例 2：浮雕商务名片字母组合
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/business-card-result.png" width="300" alt="浮雕商务名片字母组合">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/business-card-result.png" width="300" alt="浮雕商务名片字母组合">
 
 **提示词：**
 ```
@@ -109,7 +109,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/business-card-input1.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/business-card-input2.png" width="100" alt="参考图像 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/business-card-input1.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/business-card-input2.png" width="100" alt="参考图像 2">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -120,7 +120,7 @@ tags:
 <a id="example-3"></a>
 ### 案例 3：极简家具照片
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/furniture-poster.png" width="300" alt="极简家具照片">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/furniture-poster.png" width="300" alt="极简家具照片">
 
 **提示词：**
 ```
@@ -140,7 +140,7 @@ tags:
 <a id="example-4"></a>
 ### 案例 4：手袋搭配服装
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/handbag-output.png" width="300" alt="手袋搭配服装">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/handbag-output.png" width="300" alt="手袋搭配服装">
 
 **提示词：**
 ```
@@ -151,7 +151,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/handbag-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/handbag-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -162,7 +162,7 @@ tags:
 <a id="example-5"></a>
 ### 案例 5：家用音箱广告
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/speaker-output.png" width="300" alt="家用音箱广告">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/speaker-output.png" width="300" alt="家用音箱广告">
 
 **提示词：**
 ```
@@ -173,7 +173,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/speaker-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/speaker-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -184,7 +184,7 @@ tags:
 <a id="example-6"></a>
 ### 案例 6：球鞋材料再创想
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/sneakers-poster.png" width="300" alt="球鞋材料再创想">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/sneakers-poster.png" width="300" alt="球鞋材料再创想">
 
 **提示词：**
 ```  
@@ -195,7 +195,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/sneakers-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/sneakers-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024
 
@@ -206,7 +206,7 @@ tags:
 <a id="example-7"></a>
 ### 案例 7：3D 等距城市模拟视图
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/3d-city.png" width="300" alt="3D 等距城市模拟视图">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/3d-city.png" width="300" alt="3D 等距城市模拟视图">
 
 **提示词：**
 ```
@@ -222,7 +222,7 @@ tags:
 <a id="example-8"></a>
 ### 案例 8：吹制玻璃音箱
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/glass-speaker.png" width="300" alt="吹制玻璃音箱">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/glass-speaker.png" width="300" alt="吹制玻璃音箱">
 
 **提示词：**
 ```
@@ -238,7 +238,7 @@ tags:
 <a id="example-9"></a>
 ### 案例 9：巧克力包装口味变体
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/chocolate-poster.png" width="300" alt="巧克力包装口味变体">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/chocolate-poster.png" width="300" alt="巧克力包装口味变体">
 
 **提示词：**
 ```
@@ -253,7 +253,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/chocolate-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/chocolate-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -264,7 +264,7 @@ tags:
 <a id="example-10"></a>
 ### 案例 10：京都旅行指南封面
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/kyoto-poster.png" width="300" alt="京都旅行指南封面">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/kyoto-poster.png" width="300" alt="京都旅行指南封面">
 
 **提示词：**
 ```
@@ -280,7 +280,7 @@ tags:
 <a id="example-11"></a>
 ### 案例 11：生日卡礼物插画
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket.png" width="300" alt="生日卡礼物插画">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket.png" width="300" alt="生日卡礼物插画">
 
 **提示词：**
 ```
@@ -291,7 +291,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket-input1.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket-input2.png" width="100" alt="参考图像 2"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/gift-basket-input3.png" width="100" alt="参考图像 3">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket-input1.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket-input2.png" width="100" alt="参考图像 2"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/gift-basket-input3.png" width="100" alt="参考图像 3">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -302,7 +302,7 @@ tags:
 <a id="example-12"></a>
 ### 案例 12：生活方式杂志封面（Urban Pulse）
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/magazine-cover.png" width="300" alt="生活方式杂志封面（Urban Pulse）">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/magazine-cover.png" width="300" alt="生活方式杂志封面（Urban Pulse）">
 
 **提示词：**
 ```
@@ -322,7 +322,7 @@ tags:
 <a id="example-13"></a>
 ### 案例 13：牙买加 Jerk 餐车品牌化
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/food-truck-output.png" width="300" alt="jamaican jerk chicken 餐车品牌化">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/food-truck-output.png" width="300" alt="jamaican jerk chicken 餐车品牌化">
 
 **提示词：**
 ```
@@ -333,7 +333,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/food-truck-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/food-truck-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -344,7 +344,7 @@ tags:
 <a id="example-14"></a>
 ### 案例 14：意式咖啡馆菜单设计
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/italian-menu.png" width="300" alt="意式咖啡馆菜单设计">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/italian-menu.png" width="300" alt="意式咖啡馆菜单设计">
 
 **提示词：**
 ```
@@ -367,7 +367,7 @@ tags:
 <a id="example-15"></a>
 ### 案例 15：停车场立柱图案应用
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/parking-poster.png" width="300" alt="停车场立柱图案应用">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/parking-poster.png" width="300" alt="停车场立柱图案应用">
 
 **提示词：**
 ```
@@ -378,7 +378,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/parking-input.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/parking-pattern.png" width="100" alt="参考图像 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/parking-input.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/parking-pattern.png" width="100" alt="参考图像 2">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -389,7 +389,7 @@ tags:
 <a id="example-16"></a>
 ### 案例 16：鳄梨酱食材排布
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/guacamole-recipe.png" width="300" alt="鳄梨酱食材排布">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/guacamole-recipe.png" width="300" alt="鳄梨酱食材排布">
 
 **提示词：**
 ```
@@ -405,7 +405,7 @@ tags:
 <a id="example-17"></a>
 ### 案例 17：游戏角色精灵表(Sprite Sheet)
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/sprites.png" width="300" alt="游戏角色精灵表">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/sprites.png" width="300" alt="游戏角色精灵表">
 
 **提示词：**
 ```
@@ -426,7 +426,7 @@ tags:
 <a id="example-18"></a>
 ### 案例 18：室内空间再设计
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/interior-design-poster.png" width="300" alt="室内空间再设计">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/interior-design-poster.png" width="300" alt="室内空间再设计">
 
 **提示词：**
 ```
@@ -437,7 +437,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/interior-design-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/interior-design-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -448,7 +448,7 @@ tags:
 <a id="example-19"></a>
 ### 案例 19：虚拟试衣
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/tryon-output.png" width="300" alt="虚拟试衣">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/tryon-output.png" width="300" alt="虚拟试衣">
 
 **提示词：**
 ```
@@ -459,7 +459,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/tryon-input.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/handbag-input.png" width="100" alt="参考图像 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/tryon-input.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/handbag-input.png" width="100" alt="参考图像 2">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -470,7 +470,7 @@ tags:
 <a id="example-20"></a>
 ### 案例 20：平面图到 3D 渲染
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/floorplan-output.png" width="300" alt="平面图到 3D 渲染">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/floorplan-output.png" width="300" alt="平面图到 3D 渲染">
 
 **提示词：**
 ```
@@ -481,7 +481,7 @@ tags:
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/floorplan-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/floorplan-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1536×1024  
 
@@ -492,7 +492,7 @@ tags:
 <a id="example-21"></a>
 ### 案例 21：鲸鱼科普海报
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/whales-poster.png" width="300" alt="鲸鱼科普海报">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/whales-poster.png" width="300" alt="鲸鱼科普海报">
 
 **提示词：**
 ```
@@ -508,7 +508,7 @@ tags:
 <a id="example-22"></a>
 ### 案例 22：蛋白棒包装（GPU Crunch）
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-gpu-crunch.png" width="300" alt="蛋白棒包装 GPU Crunch">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-gpu-crunch.png" width="300" alt="蛋白棒包装 GPU Crunch">
 
 **提示词：**
 ```
@@ -524,7 +524,7 @@ tags:
 <a id="example-23"></a>
 ### 案例 23：独立专辑封面（Neon Dusk）
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/album-cover.png" width="300" alt="独立专辑封面 Neon Dusk">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/album-cover.png" width="300" alt="独立专辑封面 Neon Dusk">
 
 **提示词：**
 ```
@@ -541,7 +541,7 @@ tags:
 <a id="example-24"></a>
 ### 案例 24：果冻外星角色渲染
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/alien.png" width="300" alt="果冻外星角色渲染">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/alien.png" width="300" alt="果冻外星角色渲染">
 
 **提示词：**
 ```
@@ -580,7 +580,7 @@ tags:
 <a id="example-25"></a>
 ### 案例 25：水瓶形态探索
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/bottle-poster.png" width="300" alt="水瓶形态探索">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/bottle-poster.png" width="300" alt="水瓶形态探索">
 
 **提示词：**
 ```
@@ -598,7 +598,7 @@ tags:
 <a id="example-26"></a>
 ### 案例 26：奇幻梦境环境
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/game-design.png" width="300" alt="奇幻梦境环境">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/game-design.png" width="300" alt="奇幻梦境环境">
 
 **提示词：**
 ```
@@ -618,7 +618,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-27"></a>
 ### 案例 27：T-恤效果图 (mockup)
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/t-shirts.png" width="300" alt="T-恤效果图">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/t-shirts.png" width="300" alt="T-恤效果图">
 
 **提示词：**
 ```
@@ -634,7 +634,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-28"></a>
 ### 案例 28：匹克球拍图形设计
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-pickle.png" width="300" alt="匹克球拍图形设计">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-pickle.png" width="300" alt="匹克球拍图形设计">
 
 **提示词：**
 ```
@@ -652,7 +652,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-29"></a>
 ### 案例 29：演唱会门票设计（朋克风）
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/concert-ticket.png" width="300" alt="演唱会门票设计 朋克风">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/concert-ticket.png" width="300" alt="演唱会门票设计 朋克风">
 
 **提示词：**
 ```
@@ -671,7 +671,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/concert-ticket-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/concert-ticket-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1536  
 
@@ -682,7 +682,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-30"></a>
 ### 案例 30：马跳跃动画关键帧
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/animation.png" width="300" alt="马跳跃动画关键帧">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/animation.png" width="300" alt="马跳跃动画关键帧">
 
 **提示词：**
 ```
@@ -703,7 +703,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-31"></a>
 ### 案例 31：无缝平铺纺织图案
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/patterns-poster.png" width="300" alt="无缝平铺纺织图案">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/patterns-poster.png" width="300" alt="无缝平铺纺织图案">
 
 **提示词：**
 ```
@@ -721,7 +721,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-32"></a>
 ### 案例 32：玻璃花瓶设计（琥珀球体）
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/vase.png" width="300" alt="玻璃花瓶设计（琥珀球体）">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/vase.png" width="300" alt="玻璃花瓶设计（琥珀球体）">
 
 **提示词：**
 ```
@@ -741,7 +741,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-33"></a>
 ### 案例 33：中世纪体素建筑精灵图
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/buildings-sprite.png" width="300" alt="中世纪体素建筑精灵图">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/buildings-sprite.png" width="300" alt="中世纪体素建筑精灵图">
 
 **提示词：**
 ```
@@ -757,7 +757,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-34"></a>
 ### 案例 34：重金属唱片封套设计
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/vinyl-output.png" width="300" alt="重金属唱片封套设计">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/vinyl-output.png" width="300" alt="重金属唱片封套设计">
 
 **提示词：**
 ```
@@ -773,7 +773,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/vinyl-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/vinyl-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -784,7 +784,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-35"></a>
 ### 案例 35：番茄酱广告包装镜头
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ketchup-ad.png" width="300" alt="番茄酱广告包装镜头">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ketchup-ad.png" width="300" alt="番茄酱广告包装镜头">
 
 **提示词：**
 ```
@@ -795,7 +795,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ketchup-ad-input.png" width="100" alt="参考图像 1">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ketchup-ad-input.png" width="100" alt="参考图像 1">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -806,7 +806,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-36"></a>
 ### 案例 36：回针教程（二战海报风）
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/backstitch-tutorial.png" width="300" alt="回针教程（二战海报风）">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/backstitch-tutorial.png" width="300" alt="回针教程（二战海报风）">
 
 **提示词：**
 ```
@@ -822,7 +822,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-37"></a>
 ### 案例 37：温馨客厅氛围添加
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-output-b.png" width="300" alt="温馨客厅氛围添加">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-output-b.png" width="300" alt="温馨客厅氛围添加">
 
 **提示词：**
 ```
@@ -833,7 +833,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input1.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input2.png" width="100" alt="参考图像 2"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input3.png" width="100" alt="参考图像 3"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/living-room-input-4.png" width="100" alt="参考图像 4">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input1.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input2.png" width="100" alt="参考图像 2"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input3.png" width="100" alt="参考图像 3"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/living-room-input-4.png" width="100" alt="参考图像 4">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1536×1024  
 
@@ -844,7 +844,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-38"></a>
 ### 案例 38：透明 3D 图标
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/icons-poster.png" width="300" alt="透明 3D 图标">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/icons-poster.png" width="300" alt="透明 3D 图标">
 
 **提示词：**
 ```
@@ -862,7 +862,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-39"></a>
 ### 案例 39：橄榄油瓶融入静物画
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-olive-oil.png" width="300" alt="橄榄油瓶融入静物画">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-olive-oil.png" width="300" alt="橄榄油瓶融入静物画">
 
 **提示词：**
 ```
@@ -873,7 +873,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-olive-oil-input2.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/ad-olive-oil-input1.png" width="100" alt="参考图像 2">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-olive-oil-input2.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/ad-olive-oil-input1.png" width="100" alt="参考图像 2">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
@@ -884,7 +884,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 <a id="example-40"></a>
 ### 案例 40：礼品篮合成图
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/bath-set-result.png" width="300" alt="礼品篮合成图">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/bath-set-result.png" width="300" alt="礼品篮合成图">
 
 **提示词：**
 ```
@@ -895,7 +895,7 @@ In a sprawling ancient forest illuminated by the golden hues of a low-hanging tw
 
 **参考图像：**
 
-<img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/bath_bomb.png" width="100" alt="参考图像 1"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/body-lotion.png" width="100" alt="参考图像 2"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/soap.png" width="100" alt="参考图像 3"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/main/gpt-image-1/examples/incense-kit.png" width="100" alt="参考图像 4">
+<img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/bath_bomb.png" width="100" alt="参考图像 1"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/body-lotion.png" width="100" alt="参考图像 2"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/soap.png" width="100" alt="参考图像 3"><img src="/images/text-to-image/gpt4o/awesome-gpt4o-images/gpt-image-1/examples/incense-kit.png" width="100" alt="参考图像 4">
 
 **参数：** 模型：gpt-image-1，品质：high，尺寸：1024×1024  
 
