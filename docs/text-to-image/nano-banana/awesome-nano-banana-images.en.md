@@ -5,6 +5,8 @@ tags:
   - NanoBanana
 ---
 
+> Source: [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images/)
+
 ## 🍌 Introduction
 
 Welcome to the Nano-banana curated image gallery! 🤗 
