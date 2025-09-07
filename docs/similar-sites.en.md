@@ -1,5 +1,12 @@
 # Similar Sites & Resources
 
+The content on this site is collected from various places across the internet, including but not limited to:
+
+- https://github.com/PicoTrex/Awesome-Nano-Banana-images/
+- https://github.com/jamez-bondos/awesome-gpt4o-images
+
+All content is for learning and research purposes only; if there is any infringement, it will be removed immediately upon notification.
+
 Here are some excellent prompt-related resource websites that provide additional references and learning materials.
 
 ## 📖 Official Documentation

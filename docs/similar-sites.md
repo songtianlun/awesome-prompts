@@ -1,5 +1,12 @@
 # 类似网站推荐
 
+本站内容搜集自互联网各个地方，包括但不限于以下位置：
+
+- https://github.com/PicoTrex/Awesome-Nano-Banana-images/
+- https://github.com/jamez-bondos/awesome-gpt4o-images
+
+本站内容仅用于学习研究用途，如有侵权立即删除。
+
 以下是一些优秀的提示词相关资源网站，为您提供更多参考和学习资料。
 
 ## 📖 官方文档类
