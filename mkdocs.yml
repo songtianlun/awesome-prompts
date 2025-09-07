@@ -23,6 +23,9 @@ nav:
       - Nano Banana:
           - text-to-image/nano-banana/xiaohongshu-card-generation.md
           - text-to-image/nano-banana/awesome-nano-banana-images.md
+      - GPT:
+          - text-to-image/gpt/awesome-gpt4o-images.md
+          - text-to-image/gpt/gpt-image-1.md
   - Text-to-Video:
       - text-to-video/cinematic-trailer.md
 theme:
