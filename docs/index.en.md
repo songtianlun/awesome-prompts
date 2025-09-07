@@ -13,6 +13,7 @@ Welcome to **Awesome Prompts**. The collection is organized by modality and task
 ### 🎨 Text-to-Image
 - General examples
 - Nano Banana cases
+- GPT-4o cases
 
 ### 🎬 Text-to-Video
 - Sample prompts
