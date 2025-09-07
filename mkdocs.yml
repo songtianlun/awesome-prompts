@@ -8,10 +8,15 @@ nav:
     - index.md
     - similar-sites.md
     - tags.md
+  - RolePlay:
+    - role-play/therapist-session.md
   - TextToImage:
     - Nano Banana:
         - nano-banana/xiaohongshu-card-generation.md
         - nano-banana/awesome-nano-banana-images.md
+    - text-to-image/cyberpunk-city.md
+  - TextToVideo:
+    - text-to-video/cinematic-trailer.md
 theme:
   name: material
   palette:
