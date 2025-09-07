@@ -1,15 +1,9 @@
 ---
+title: Awesome Nano-banana Images
 tags:
   - TextToImage
   - NanoBanana
 ---
-<div align="center">
-
-# Awesome-Nano-Banana🍌-images
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
-
-</div>
 
 ## 🍌 Introduction
 
@@ -20,61 +14,6 @@ Welcome to the Nano-banana curated image gallery! 🤗
 These cases mainly come from Twitter/X 🐦, Xiaohongshu 📕 and other self-media platforms.
 
 If you like it, please ⭐ Star to bookmark it!
-
-## 📑 Menu
-
-- [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
-  - [🍌 Introduction](#-introduction)
-  - [📑 Menu](#-menu)
-  - [🖼️ Cases](#️-cases)
-    - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
-    - [Case 2: Generate Ground View from Map Arrow（by @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
-    - [Case 3: Real World AR Information（by @bilawalsidhu）](#case-3-real-world-ar-informationby-bilawalsidhu)
-    - [Case 4: Extract 3D Buildings/Make Isometric Models（by @Zieeett）](#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett)
-    - [Case 5: Photos of Yourself in Different Eras（by @AmirMushich）](#case-5-photos-of-yourself-in-different-erasby-amirmushich)
-    - [Case 6: Multi-Reference Image Generation（by @MrDavids1）](#case-6-multi-reference-image-generationby-mrdavids1)
-    - [Case 7: Automatic Photo Editing（by @op7418）](#case-7-automatic-photo-editingby-op7418)
-    - [Case 8: Hand Drawing Controls Multi-Character Poses（by @op7418）](#case-8-hand-drawing-controls-multi-character-posesby-op7418)
-    - [Case 9: Cross-View Image Generation（by @op7418）](#case-9-cross-view-image-generationby-op7418)
-    - [Case 10: Custom Character Stickers（by @op7418）](#case-10-custom-character-stickersby-op7418)
-    - [Case 11: Anime to Real Coser（by @ZHO\_ZHO\_ZHO）](#case-11-anime-to-real-coserby-zho_zho_zho)
-    - [Case 12: Generate Character Design（by @ZHO\_ZHO\_ZHO）](#case-12-generate-character-designby-zho_zho_zho)
-    - [Case 13: Color Line Art with Color Palette（by @ZHO\_ZHO\_ZHO）](#case-13-color-line-art-with-color-paletteby-zho_zho_zho)
-    - [Case 14: Article Infographic（by @黄建同学）](#case-14-article-infographicby-黄建同学)
-    - [Case 15: Change Multiple Hairstyles（by @balconychy）](#case-15-change-multiple-hairstylesby-balconychy)
-    - [Case 16: Model Annotation Explanation Diagram（by @berryxia\_ai）](#case-16-model-annotation-explanation-diagramby-berryxia_ai)
-    - [Case 17: Custom Marble Sculpture（by @umesh\_ai）](#case-17-custom-marble-sculptureby-umesh_ai)
-    - [Case 18: Cook Based on Ingredients（by @Gdgtify）](#case-18-cook-based-on-ingredientsby-gdgtify)
-    - [Case 19: Math Problem Reasoning（by @Gorden Sun）](#case-19-math-problem-reasoningby-gorden-sun)
-    - [Case 20: Old Photo Colorization（by @GeminiApp）](#case-20-old-photo-colorizationby-geminiapp)
-    - [Case 21: OOTD Outfit（by @302.AI）](#case-21-ootd-outfitby-302ai)
-    - [Case 22: Character Clothing Change（by @skirano）](#case-22-character-clothing-changeby-skirano)
-    - [Case 23: Multi-View Result Generation（by @Error\_HTTP\_404）](#case-23-multi-view-result-generationby-error_http_404)
-    - [Case 24: Movie Storyboard（by @GeminiApp）](#case-24-movie-storyboardby-geminiapp)
-    - [Case 25: Character Pose Modification（by @arrakis\_ai）](#case-25-character-pose-modificationby-arrakis_ai)
-    - [Case 26: Generate image from line drawing（by @ZHO\_ZHO\_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
-    - [Case 27: Add Watermark to Image（by @AiMachete）](#case-27-add-watermark-to-imageby-aimachete)
-    - [Case 28: Knowledge Reasoning Image Generation（by @icreatelife）](#case-28-knowledge-reasoning-image-generationby-icreatelife)
-    - [Case 29: Red Pen Annotations（by @AiMachete）](#case-29-red-pen-annotationsby-aimachete)
-    - [Case 30: Explosive Food（by @icreatelife）](#case-30-explosive-foodby-icreatelife)
-    - [Case 31: Create Comic Book（by @icreatelife）](#case-31-create-comic-bookby-icreatelife)
-    - [Case 32: Action Figure（by @icreatelife）](#case-32-action-figureby-icreatelife)
-    - [Case 33: Map to Isometric Buildings（by @demishassabis）](#case-33-map-to-isometric-buildingsby-demishassabis)
-    - [Case 34: Reference Image Controls Character Expression（by @ZHO\_ZHO\_ZHO）](#case-34-reference-image-controls-character-expressionby-zho_zho_zho)
-    - [Case 35: Illustration Drawing Process Four-Panel（by @ZHO\_ZHO\_ZHO）](#case-35-illustration-drawing-process-four-panelby-zho_zho_zho)
-    - [Case 36: Virtual Makeup Try-On（by @ZHO\_ZHO\_ZHO）](#case-36-virtual-makeup-try-onby-zho_zho_zho)
-    - [Case 37: Makeup Analysis（by @ZHO\_ZHO\_ZHO）](#case-37-makeup-analysisby-zho_zho_zho)
-    - [Case 38: Google Maps View of Middle-earth（by @TechHallo）](#case-38-google-maps-view-of-middle-earthby-techhallo)
-    - [Case 39: Typographic Illustration Generation（by @Umesh）](#case-39-typographic-illustration-generationby-umesh)
-    - [Case 40: Multiple Character Poses Generation（by @tapehead\_Lab）](#case-40-multiple-character-poses-generationby-tapehead_lab)
-    - [Case 41: Product Packaging Generation（by @ZHO\_ZHO\_ZHO）](#case-41-product-packaging-generationby-zho_zho_zho)
-    - [Case 42: Overlay Filter/Material（by @ZHO\_ZHO\_ZHO）](#case-42-overlay-filtermaterialby-zho_zho_zho)
-    - [Case 43: Control Character Face Shape（by @ZHO\_ZHO\_ZHO）](#case-43-control-character-face-shapeby-zho_zho_zho)
-    - [Case 44: Lighting Control（by @ZHO\_ZHO\_ZHO）](#case-44-lighting-controlby-zho_zho_zho)
-    - [Case 45: LEGO Minifigure（by @ZHO\_ZHO\_ZHO）](#case-45-lego-minifigureby-zho_zho_zho)
-    - [Case 46: Gundam Model Figure（by @ZHO\_ZHO\_ZHO）](#case-46-gundam-model-figureby-zho_zho_zho)
-    - [Case 47: Hardware Exploded View（by @AIimagined）](#case-47-hardware-exploded-viewby-aiimagined)
-  - [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ Cases
 
