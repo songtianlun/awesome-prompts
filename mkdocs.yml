@@ -63,6 +63,7 @@ theme:
     - navigation.expand           # 默认展开左侧导航栏
     - navigation.path             # 导航路径 面包屑
     - navigation.top              # 返回顶部按钮
+    - navigation.expand           # 展开所有可折叠的子部分
     - search.suggest              # 搜索建议
     - search.highlight            # 搜索高亮显示
     - search.share                # 搜索共享
