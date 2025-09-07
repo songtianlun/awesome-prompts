@@ -4,14 +4,21 @@ repo_url: https://github.com/songtianlun/awesome-prompts
 repo_name: awesome-prompts
 edit_uri: edit/main/docs/
 nav:
-  - Home: 
+  - Home:
     - index.md
     - similar-sites.md
     - tags.md
   - ChatGPT Prompts:
     - awesome-chatgpt-prompts.md
+  - RolePlay:
+    - role-play/therapist-session.md
   - TextToImage:
-    - nano-banana/xiaohongshu-card-generation.md
+    - Nano Banana:
+        - nano-banana/xiaohongshu-card-generation.md
+        - nano-banana/awesome-nano-banana-images.md
+    - text-to-image/cyberpunk-city.md
+  - TextToVideo:
+    - text-to-video/cinematic-trailer.md
 theme:
   name: material
   palette:

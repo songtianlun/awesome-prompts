@@ -60,6 +60,16 @@ Inspire creativity with prompts for:
 - **Brand Strategy** - Brand positioning, visual concepts
 - **Product Innovation** - Feature design, creative ideation
 
+### 8. 🎭 Role-play
+Immerse yourself in interactive scenarios:
+
+- **Therapist** - Listen and guide a client with empathy
+
+### 9. 🎬 Video Generation
+Bring scenes to life with text-to-video prompts:
+
+- **Movie Trailer** - Scene setup, camera work, cinematic style
+
 ## 🚀 How to Use
 1. Navigate to your desired category
 2. Copy the prompt template
