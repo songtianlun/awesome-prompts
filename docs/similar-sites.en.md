@@ -60,6 +60,28 @@ Here are some excellent prompt-related resource websites that provide additional
 
 ---
 
+## 🧭 Additional Resources
+
+- [Kimi Practice Form - Feishu Sheet](https://kh18s6uvdi.feishu.cn/share/base/view/shrcnm6JDJzeITUAee3sbsipUee)
+- [WaytoAGI Prompts - Feishu Wiki](https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tbldSgFt2xNUDNAz&view=vewo2g2ktO)
+- [Text-to-Image Examples](https://catjourney.life/)
+- [Curated Prompt Collections](https://dye87dshnj.feishu.cn/wiki/Hv6GwDhoji1ttikSUBUcAjHSnMe)
+- [Moonshot AI Official](https://www.moonshot.cn)
+
+## 📚 References
+
+- [Some common prompt collections](https://foresightnews.pro/article/detail/33656)
+- [Practical summary: 11 common prompt fields for AI drawing](https://www.uisdc.com/ai-prompt)
+- [160+ prompt instruction set](https://github.com/bytearch/chatgpt-prompts)
+- [Eight advanced prompts for academic writing with ChatGPT](https://mp.weixin.qq.com/s/6tRxJlJY5SxJa6RS6NAiPw)
+- [Using ChatGPT to break paper writing into nine stages](https://mp.weixin.qq.com/s/MXLMB5p83c4U3-7H0mreoQ)
+- [Progressive reading with Kimi Chat](https://mp.weixin.qq.com/s/fdvX_pYoS3q9OZ-NNESrAQ)
+- [Kimi prompt collection for productivity](https://mp.weixin.qq.com/s/Xp2mEw_R9p1NEkoV6zOJbw)
+- [Everyone is an AI Master - Prompt Engineering](https://mp.weixin.qq.com/s/ePylsPJy5z7NOTktG6VbFg)
+
+
+---
+
 ## 🌟 Why Choose Us?
 
 While there are many excellent resources available, our **Awesome Prompts** still offers unique value:
