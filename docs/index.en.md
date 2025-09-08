@@ -7,8 +7,7 @@ Welcome to **Awesome Prompts**. The collection is organized by modality and task
 ### 📝 Text-to-Text
 - [Programming](text-to-text/programming/javascript-console.md)
 - [Content Creation](text-to-text/content-creation/advertising-campaign.md)
-- [Role Play](text-to-text/role-play/therapist-session.md)
-- [Professional roles (ZH)](text-to-text/role-play/professional-roles.md)
+- [Role Play & Professional roles (ZH)](text-to-text/role-play/professional-roles.md)
 - [Tool & Skills (ZH)](text-to-text/tool-skills.md)
 - [Games & Entertainment (ZH)](text-to-text/game-entertainment.md)
 - [Academic Writing (ZH)](text-to-text/academic-writing.md)
