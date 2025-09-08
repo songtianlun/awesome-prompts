@@ -55,6 +55,7 @@ theme:
   logo: assets/logo.svg
   favicon: assets/favicon.ico
   features:
+    - content.code.copy           # 代码块一键复制
     - navigation.instant          # 即时加载
     - navigation.instant.prefetch # 即时预取
     - navigation.instant.progress # 进度指示器
@@ -69,6 +70,8 @@ theme:
     - search.share                # 搜索共享
   icon:
     repo: fontawesome/brands/github
+extra_css:
+  - stylesheets/code.css
 extra:
   analytics:
     provider: google
