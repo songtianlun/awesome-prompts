@@ -60,6 +60,27 @@
 
 ---
 
+## 🧭 拓展资源
+
+- [Kimi 实践在线表单 - 飞书表格](https://kh18s6uvdi.feishu.cn/share/base/view/shrcnm6JDJzeITUAee3sbsipUee)
+- [WaytoAGI Prompts - 飞书文档](https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tbldSgFt2xNUDNAz&view=vewo2g2ktO)
+- [文生图实例](https://catjourney.life/)
+- [一些优质 Prompt 精选站](https://dye87dshnj.feishu.cn/wiki/Hv6GwDhoji1ttikSUBUcAjHSnMe)
+- [月之暗面官方](https://www.moonshot.cn)
+
+## 📚 References
+
+- [一些常用的 prompt 整理](https://foresightnews.pro/article/detail/33656)
+- [实用总结！AI绘画最常用的11个领域 Prompt 都在这篇了！](https://www.uisdc.com/ai-prompt)
+- [160 多种 prompt 提示词指令合集](https://github.com/bytearch/chatgpt-prompts)
+- [8个ChatGPT写学术论文专属高级提示词指令，让你论文写出飞一般的感觉](https://mp.weixin.qq.com/s/6tRxJlJY5SxJa6RS6NAiPw)
+- [使用ChatGPT把论文撰写分解9个阶段，使用高阶写作提示词指令，按步骤操作，轻松搞定你的论文！](https://mp.weixin.qq.com/s/MXLMB5p83c4U3-7H0mreoQ)
+- [基于 Kimi Chat 的 AI 渐进式阅读法](https://mp.weixin.qq.com/s/fdvX_pYoS3q9OZ-NNESrAQ)
+- [为你工作和学习提效的 Kimi 提示词来了](https://mp.weixin.qq.com/s/Xp2mEw_R9p1NEkoV6zOJbw)
+- [人人都是AI大师 - Prompt工程](https://mp.weixin.qq.com/s/ePylsPJy5z7NOTktG6VbFg)
+
+---
+
 ## 🌟 为什么选择我们？
 
 虽然有这么多优秀的资源，我们的 **精选提示词库** 依然有其独特价值：
