@@ -1,0 +1,5 @@
+/* Wrap lines in code blocks and allow copy button compatibility */
+.md-typeset pre > code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
