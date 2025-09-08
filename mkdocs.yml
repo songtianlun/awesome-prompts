@@ -15,11 +15,21 @@ nav:
           - text-to-text/content-creation/advertising-campaign.md
       - Role Play:
           - text-to-text/role-play/therapist-session.md
+          - text-to-text/role-play/professional-roles.md
+      - Tool Skills:
+          - text-to-text/tool-skills.md
+      - Games & Entertainment:
+          - text-to-text/game-entertainment.md
+      - Academic Writing:
+          - text-to-text/academic-writing.md
+      - Examples:
+          - text-to-text/examples.md
       - Archives:
           - text-to-text/archives/awesome-chatgpt-prompts.md
           - text-to-text/archives/prompts-zh.md
   - Text-to-Image:
       - text-to-image/cyberpunk-city.md
+      - text-to-image/ai-prompt-guide.md
       - Nano Banana:
           - text-to-image/nano-banana/xiaohongshu-card-generation.md
           - text-to-image/nano-banana/awesome-nano-banana-images.md
