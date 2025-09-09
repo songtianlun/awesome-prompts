@@ -806,6 +806,24 @@ Transform the person in the photo into a Gundam model kit packaging box style, p
 Exploded view of a DSLR showing all its accessories and internal components such as lens, filter,  internal components, lens, sensor, screws, buttons, viewfinder, housing, and circuit board. Maintain red accents of the DSLR
 ```
 
+<!-- Case 48: Color Swatch Reference (by @ZHO_ZHO_ZHO) -->
+### Case 48: [Color Swatch Reference](https://x.com/ZHO_ZHO_ZHO/status/1964999848509530138)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+**prompt:**
+
+```
+create a color palette reference chart that lists background and highlight colors, each shown as a swatch with its name
+```
+
+<!-- Case 49: Material Sphere Preview (by @ZHO_ZHO_ZHO) -->
+### Case 49: [Material Sphere Preview](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+**prompt:**
+
+```
+render a material sphere with physically accurate texture and lighting for previewing materials
+```
+
 ## 🙏 Acknowledge
 
 The various cases in this repository rely on sharing from the AI community. Please allow us to express our sincere gratitude to all case contributors.

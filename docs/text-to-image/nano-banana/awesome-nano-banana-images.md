@@ -806,6 +806,24 @@ Analyze this image. Use red pen to denote where you can improve
 
 
 
+<!-- 例 48: 色卡参考图（by @ZHO_ZHO_ZHO） -->
+### 例 48: [色卡参考图](https://x.com/ZHO_ZHO_ZHO/status/1964999848509530138)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+**提示词:**
+
+```
+生成一张包含背景色和高光色的色卡，每种颜色以方块展示并标注名称，用于配色参考
+```
+
+<!-- 例 49: 材质球渲染预览（by @ZHO_ZHO_ZHO） -->
+### 例 49: [材质球渲染预览](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+**提示词:**
+
+```
+渲染一个物理准确的材质球，展现真实的质感和光影，用于材质预览
+```
+
 ## 🙏 Acknowledge
 
 本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
