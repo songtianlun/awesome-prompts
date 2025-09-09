@@ -58,6 +58,18 @@ Here are some excellent prompt-related resource websites that provide additional
 
 **🏷️ Tags**: `ChatGPT` `Chinese Prompts` `AI` `Open Source`
 
+### GPTS Prompt Collection
+**🔗 Link**: [https://github.com/B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection)
+
+**📋 Description**: Aggregates standout prompts from the GPTS Store, organized into categories like writing, developer tools, productivity, and business.
+
+**✨ Features**:
+- ⭐ 1k+ GitHub Stars
+- Category-based organization across writing, development, business, etc.
+- Community-maintained and regularly updated
+
+**🏷️ Tags**: `GPTS` `Prompt` `Chinese` `Open Source`
+
 ---
 
 ## 🧭 Additional Resources

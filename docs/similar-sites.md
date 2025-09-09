@@ -58,6 +58,18 @@
 
 **🏷️ 标签**: `ChatGPT` `中文提示词` `AI` `开源`
 
+### GPTS Prompt Collection
+**🔗 链接**: [https://github.com/B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection)
+
+**📋 简介**: 收集 GPTS Store 中的优秀 Prompt，按写作、开发、生产力等类别整理。
+
+**✨ 特色**:
+- ⭐ 1k+ GitHub Stars
+- 多分类整理，覆盖写作、开发、商业等场景
+- 持续更新维护
+
+**🏷️ 标签**: `GPTS` `Prompt` `中文` `开源`
+
 ---
 
 ## 🧭 拓展资源
