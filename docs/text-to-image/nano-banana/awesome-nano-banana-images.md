@@ -809,6 +809,10 @@ Analyze this image. Use red pen to denote where you can improve
 <!-- 例 48: 色卡参考图（by @ZHO_ZHO_ZHO） -->
 ### 例 48: [色卡参考图](https://x.com/ZHO_ZHO_ZHO/status/1964999848509530138)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case48/output.jpg" width="300" alt="Output Result"> |
+
 **提示词:**
 
 ```
@@ -817,6 +821,10 @@ Analyze this image. Use red pen to denote where you can improve
 
 <!-- 例 49: 材质球渲染预览（by @ZHO_ZHO_ZHO） -->
 ### 例 49: [材质球渲染预览](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case49/output.jpg" width="300" alt="Output Result"> |
 
 **提示词:**
 

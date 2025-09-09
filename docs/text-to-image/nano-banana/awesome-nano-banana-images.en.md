@@ -809,6 +809,10 @@ Exploded view of a DSLR showing all its accessories and internal components such
 <!-- Case 48: Color Swatch Reference (by @ZHO_ZHO_ZHO) -->
 ### Case 48: [Color Swatch Reference](https://x.com/ZHO_ZHO_ZHO/status/1964999848509530138)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case48/output.jpg" width="300" alt="Output Result"> |
+
 **prompt:**
 
 ```
@@ -817,6 +821,10 @@ create a color palette reference chart that lists background and highlight color
 
 <!-- Case 49: Material Sphere Preview (by @ZHO_ZHO_ZHO) -->
 ### Case 49: [Material Sphere Preview](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case49/output.jpg" width="300" alt="Output Result"> |
 
 **prompt:**
 
