@@ -832,6 +832,47 @@ Analyze this image. Use red pen to denote where you can improve
 渲染一个物理准确的材质球，展现真实的质感和光影，用于材质预览
 ```
 
+<!-- 例 50: 雾隐藏一切，唯有思绪除外（by @IamEmily2050） -->
+### 例 50: [雾隐藏一切，唯有思绪除外](https://x.com/IamEmily2050/status/1966758558483272144)（by [@IamEmily2050](https://x.com/IamEmily2050)）
+
+**提示词:**
+
+```
+Gemini Flash 2.5 Nano banana
+Fog hides everything, except your thoughts
+{
+  "description": "A hyper-realistic, 4K, full-body night-time portrait of a 23-year-old Korean woman with clear pale skin and long straight black hair tucked behind one ear.",
+  "subject": {
+    "age": 23,
+    "ethnicity": "Korean",
+    "skin_tone": "pale",
+    "hair": { "colour": "black", "style": "long, straight, tucked behind one ear" },
+    "pose": "standing at a frost-covered bus stop, arms folded against the cold",
+    "expression": "70% quiet annoyance, 30% amused resignation, as if re-reading a text she regrets sending"
+  },
+  "outfit": {
+    "top_layers": [ "black blazer", "navy sweatshirt", "crisp white dress shirt", "thin black tie" ],
+    "bottom": "ultra-short black pleated skirt",
+    "legwear": "brand-new white knee-length pelerine socks",
+    "footwear": "polished black shoes"
+  },
+  "environment": {
+    "location": "night-time city bus stop",
+    "ground": "icy pavement reflecting distant headlights",
+    "fog": "dense, occupying the top third of the frame",
+    "bus_shelter": { "glass": "steamed-up with one finger-drawn smiley that melts faster than the surrounding condensation" },
+    "lighting": "cool blue-white, high contrast, cinematic"
+  },
+  "hidden_detail": "reflection in her left shoe: a blurred red double-decker bus that may or may not be arriving",
+  "camera": {
+    "angle": "low eye-level, full body in frame",
+    "lens_simulation": "Phase-One medium-format realism",
+    "depth_of_field": "sharp focus on subject, soft bokeh on distant lights"
+  },
+  "output": { "style": "hyper-realistic, cinematic, cool colour grading" }
+}
+```
+
 ## 🙏 Acknowledge
 
 本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
