@@ -832,6 +832,51 @@ create a color palette reference chart that lists background and highlight color
 render a material sphere with physically accurate texture and lighting for previewing materials
 ```
 
+<!-- Case 50: Fog Hides Everything Except Your Thoughts (by @IamEmily2050) -->
+### Case 50: [Fog Hides Everything Except Your Thoughts](https://x.com/IamEmily2050/status/1966758558483272144) (by [@IamEmily2050](https://x.com/IamEmily2050))
+
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case50/output.jpg" width="300" alt="Output Result"> |
+
+**prompt:**
+
+```
+Gemini Flash 2.5 Nano banana
+Fog hides everything, except your thoughts
+{
+  "description": "A hyper-realistic, 4K, full-body night-time portrait of a 23-year-old Korean woman with clear pale skin and long straight black hair tucked behind one ear.",
+  "subject": {
+    "age": 23,
+    "ethnicity": "Korean",
+    "skin_tone": "pale",
+    "hair": { "colour": "black", "style": "long, straight, tucked behind one ear" },
+    "pose": "standing at a frost-covered bus stop, arms folded against the cold",
+    "expression": "70% quiet annoyance, 30% amused resignation, as if re-reading a text she regrets sending"
+  },
+  "outfit": {
+    "top_layers": [ "black blazer", "navy sweatshirt", "crisp white dress shirt", "thin black tie" ],
+    "bottom": "ultra-short black pleated skirt",
+    "legwear": "brand-new white knee-length pelerine socks",
+    "footwear": "polished black shoes"
+  },
+  "environment": {
+    "location": "night-time city bus stop",
+    "ground": "icy pavement reflecting distant headlights",
+    "fog": "dense, occupying the top third of the frame",
+    "bus_shelter": { "glass": "steamed-up with one finger-drawn smiley that melts faster than the surrounding condensation" },
+    "lighting": "cool blue-white, high contrast, cinematic"
+  },
+  "hidden_detail": "reflection in her left shoe: a blurred red double-decker bus that may or may not be arriving",
+  "camera": {
+    "angle": "low eye-level, full body in frame",
+    "lens_simulation": "Phase-One medium-format realism",
+    "depth_of_field": "sharp focus on subject, soft bokeh on distant lights"
+  },
+  "output": { "style": "hyper-realistic, cinematic, cool colour grading" }
+}
+```
+
 ## 🙏 Acknowledge
 
 The various cases in this repository rely on sharing from the AI community. Please allow us to express our sincere gratitude to all case contributors.
