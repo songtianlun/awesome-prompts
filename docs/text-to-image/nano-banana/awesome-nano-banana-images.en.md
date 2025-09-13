@@ -835,6 +835,10 @@ render a material sphere with physically accurate texture and lighting for previ
 <!-- Case 50: Fog Hides Everything Except Your Thoughts (by @IamEmily2050) -->
 ### Case 50: [Fog Hides Everything Except Your Thoughts](https://x.com/IamEmily2050/status/1966758558483272144) (by [@IamEmily2050](https://x.com/IamEmily2050))
 
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case50/output.jpg" width="300" alt="Output Result"> |
+
 **prompt:**
 
 ```

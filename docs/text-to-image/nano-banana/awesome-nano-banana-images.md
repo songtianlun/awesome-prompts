@@ -835,6 +835,10 @@ Analyze this image. Use red pen to denote where you can improve
 <!-- 例 50: 雾隐藏一切，唯有思绪除外（by @IamEmily2050） -->
 ### 例 50: [雾隐藏一切，唯有思绪除外](https://x.com/IamEmily2050/status/1966758558483272144)（by [@IamEmily2050](https://x.com/IamEmily2050)）
 
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case50/output.jpg" width="300" alt="Output Result"> |
+
 **提示词:**
 
 ```
