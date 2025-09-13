@@ -26,6 +26,7 @@ nav:
       - Archives:
           - text-to-text/archives/awesome-chatgpt-prompts.md
           - text-to-text/archives/prompts-zh.md
+          - GPTS Prompt Collection (Boutique): text-to-text/archives/gpts-prompt-collection/index.md
   - Text-to-Image:
       - text-to-image/cyberpunk-city.md
       - text-to-image/ai-prompt-guide.md
