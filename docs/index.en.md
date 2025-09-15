@@ -16,7 +16,7 @@ Welcome to **Awesome Prompts**. The collection is organized by modality and task
 
 ### 🎨 Text-to-Image
 - [General examples](text-to-image/cyberpunk-city.md)
-- [Nano Banana cases (49+examples)](text-to-image/nano-banana/awesome-nano-banana-images.en.md)
+- [Nano Banana cases (51+examples)](text-to-image/nano-banana/awesome-nano-banana-images.en.md)
 - [GPT cases (100+examples)](text-to-image/gpt/awesome-gpt4o-images.en.md)
 - [Illustration prompt tips (24+examples)](text-to-image/ai-prompt-guide.md)
 
