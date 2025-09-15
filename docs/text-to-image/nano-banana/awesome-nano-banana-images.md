@@ -880,9 +880,9 @@ Fog hides everything, except your thoughts
 <!-- 例 51: 真人3D艺术展（by @songguoxiansen） -->
 ### 例 51: [真人3D艺术展](https://x.com/songguoxiansen/status/1967415864782913900)（by [@songguoxiansen](https://x.com/songguoxiansen)）
 
-| Output |
-|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/output.jpg" width="300" alt="输出结果"> |
+| Inout | Output |
+|:-----:|:------:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/input.jpg" width="300" alt="输入内容"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 

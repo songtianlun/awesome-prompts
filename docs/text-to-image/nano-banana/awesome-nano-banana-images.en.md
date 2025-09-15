@@ -880,9 +880,9 @@ Fog hides everything, except your thoughts
 <!-- Case 51: Realistic 3D Art Exhibition (by @songguoxiansen) -->
 ### Case 51: [Realistic 3D Art Exhibition](https://x.com/songguoxiansen/status/1967415864782913900) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
-| Output |
-|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/output.jpg" width="300" alt="Output Result"> |
+| Inout | Output |
+|:-----:|:------:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/input.jpg" width="300" alt="Input"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt:**
 
