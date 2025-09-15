@@ -877,6 +877,19 @@ Fog hides everything, except your thoughts
 }
 ```
 
+<!-- 例 51: 真人3D艺术展（by @songguoxiansen） -->
+### 例 51: [真人3D艺术展](https://x.com/songguoxiansen/status/1967415864782913900)（by [@songguoxiansen](https://x.com/songguoxiansen)）
+
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/output.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+创建一张写实风格图片，图片中人物正参加艺术展览并和后方装置合影，装置为人物卡通样式，形象具有大眼睛的萌系艺术特征，装置参考输入图主体形象的服饰、配饰、发型、装饰，保持主体一致性，装置以自然站姿立在人物后方，体积大于人物，高于人物50%左右，营造比例反差，背景是简约观展现场，色系搭配与输入图一致，营造渐变、高级氛围。
+```
+
 ## 🙏 Acknowledge
 
 本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。

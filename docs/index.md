@@ -16,7 +16,7 @@
 
 ### 🎨 文生图 (Text-to-Image)
 - [通用示例](text-to-image/cyberpunk-city.md)
-- [Nano Banana 案例（49+实例）](text-to-image/nano-banana/awesome-nano-banana-images.md)
+- [Nano Banana 案例（51+实例）](text-to-image/nano-banana/awesome-nano-banana-images.md)
 - [GPT 案例（100+实例）](text-to-image/gpt/awesome-gpt4o-images.md)
 - [AI 绘画提示要点（24+实例）](text-to-image/ai-prompt-guide.md)
 

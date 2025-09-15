@@ -877,6 +877,19 @@ Fog hides everything, except your thoughts
 }
 ```
 
+<!-- Case 51: Realistic 3D Art Exhibition (by @songguoxiansen) -->
+### Case 51: [Realistic 3D Art Exhibition](https://x.com/songguoxiansen/status/1967415864782913900) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case51/output.jpg" width="300" alt="Output Result"> |
+
+**Prompt:**
+
+```
+Create a realistic-style image of a person attending an art exhibition and posing with a cartoonish installation behind them. The installation features a big-eyed, cute artistic style and should reference the subject's clothing, accessories, hairstyle, and decorations from the input image to maintain consistency. The installation stands naturally behind the person, is larger than the person, and about 50% taller to create a contrast in scale. The background is a simple exhibition scene, and the color scheme should match the input image with a gradient, upscale atmosphere.
+```
+
 ## 🙏 Acknowledge
 
 The various cases in this repository rely on sharing from the AI community. Please allow us to express our sincere gratitude to all case contributors.
