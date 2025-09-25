@@ -929,18 +929,12 @@ Create a Polaroid photo of two people posing closely together. Keep both faces c
 Minimalist food photograph, 1080x1080. A single [FOOD] rests on a light matte surface. One half stays intact while the other organically fragments into large floating 3D cubes that drift outward, revealing ingredients, textures, and colors. Studio lighting with soft realistic shadows, shallow depth of field, tasteful composition, hyperreal detail, geometric abstraction, subtle motion blur on the cubes, high resolution, cinematic close-up.
 ```
 
-<!-- Case 55: Live Polaroid Workflow (by @ZHO_ZHO_ZHO) -->
-### Case 55: [Live Polaroid Workflow](https://x.com/ZHO_ZHO_ZHO/status/1969018349977059382) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
-
-> [!TIP]
-> Use Nano Banana + Veo’s “Live Polaroid” template in the Banana Bananary store. Upload any characters and instantly generate animated Polaroid clips—no extra prompt required.
-
-<!-- Case 56: Fantasy Spellcasting Statue (by @iamfakhrealam) -->
-### Case 56: [Fantasy Spellcasting Statue](https://x.com/iamfakhrealam/status/1969035699904184510) (by [@iamfakhrealam](https://x.com/iamfakhrealam))
+<!-- Case 55: Fantasy Spellcasting Statue (by @iamfakhrealam) -->
+### Case 55: [Fantasy Spellcasting Statue](https://x.com/iamfakhrealam/status/1969035699904184510) (by [@iamfakhrealam](https://x.com/iamfakhrealam))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case56/output.png" width="300" alt="Fantasy statue"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case55/output.png" width="300" alt="Fantasy statue"> |
 
 **Prompt:**
 
@@ -948,12 +942,12 @@ Minimalist food photograph, 1080x1080. A single [FOOD] rests on a light matte su
 Create a detailed statue of a fantasy character holding a staff topped with a blue crystal, dressed in blue and gray robes with armor, casting swirling blue energy. The figure stands on a circular base adorned with blue crystals and mystical symbols, surrounded by small blue trees. Display the statue in a glass case with bright overhead lighting so every detail pops.
 ```
 
-<!-- Case 57: Cinematic B&W Portrait (by @rovvmut_) -->
-### Case 57: [Cinematic B&W Portrait](https://x.com/rovvmut_/status/1969278508045385873) (by [@rovvmut_](https://x.com/rovvmut_))
+<!-- Case 56: Cinematic B&W Portrait (by @rovvmut_) -->
+### Case 56: [Cinematic B&W Portrait](https://x.com/rovvmut_/status/1969278508045385873) (by [@rovvmut_](https://x.com/rovvmut_))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case57/output.jpg" width="300" alt="Cinematic black and white portrait"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case56/output.jpg" width="300" alt="Cinematic black and white portrait"> |
 
 **Prompt:**
 
@@ -961,12 +955,12 @@ Create a detailed statue of a fantasy character holding a staff topped with a bl
 Turn the uploaded subject into a cinematic black-and-white studio portrait: pure black backdrop, seated pose with arms crossed. Preserve the facial expression and outfit texture with refined lighting and tonal depth, evoking a classic studio look.
 ```
 
-<!-- Case 58: Cartoon Drip Fusion (by @Arminn_Ai) -->
-### Case 58: [Cartoon Drip Fusion](https://x.com/Arminn_Ai/status/1969324325162324163) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
+<!-- Case 57: Cartoon Drip Fusion (by @Arminn_Ai) -->
+### Case 57: [Cartoon Drip Fusion](https://x.com/Arminn_Ai/status/1969324325162324163) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="Color drip fusion"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case57/output.jpg" width="300" alt="Color drip fusion"> |
 
 **Prompt:**
 
@@ -974,12 +968,12 @@ Turn the uploaded subject into a cinematic black-and-white studio portrait: pure
 Transform the [OBJECT] in the uploaded photo into a bold, colorful cartoon illustration while keeping everything else realistic. Cartoon details: thick black outlines, vibrant flat colors (bright cyan, magenta, yellow, pink), dripping paint and splash effects, playful comic-book energy with most drips flowing downward. Make the cartoon object feel like it’s melting or bursting with color, blending naturally into the real photo. Leave the background and other elements untouched. Aim for high resolution, pop-art aesthetics, and a surreal contrast between realism and cartoon.
 ```
 
-<!-- Case 59: Family Photo Restoration (by @ShreyaYadav___) -->
-### Case 59: [Family Photo Restoration](https://x.com/ShreyaYadav___/status/1969328938158825942) (by [@ShreyaYadav___](https://x.com/ShreyaYadav___))
+<!-- Case 58: Family Photo Restoration (by @ShreyaYadav___) -->
+### Case 58: [Family Photo Restoration](https://x.com/ShreyaYadav___/status/1969328938158825942) (by [@ShreyaYadav___](https://x.com/ShreyaYadav___))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case59/output.jpg" width="300" alt="Restored family portrait"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="Restored family portrait"> |
 
 **Prompt:**
 
@@ -987,12 +981,12 @@ Transform the [OBJECT] in the uploaded photo into a bold, colorful cartoon illus
 Enhance the condition of the photo to be clean and highly detailed without changing the structure of the faces or hair. Improve the pose and background to match the reference and deliver ultra-realistic quality.
 ```
 
-<!-- Case 60: LEGO Crumble Effect (by @AmirMushich) -->
-### Case 60: [LEGO Crumble Effect](https://x.com/AmirMushich/status/1969076111628734881) (by [@AmirMushich](https://x.com/AmirMushich))
+<!-- Case 59: LEGO Crumble Effect (by @AmirMushich) -->
+### Case 59: [LEGO Crumble Effect](https://x.com/AmirMushich/status/1969076111628734881) (by [@AmirMushich](https://x.com/AmirMushich))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case60/output.jpg" width="300" alt="LEGO crumble effect"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case59/output.jpg" width="300" alt="LEGO crumble effect"> |
 
 **Prompt:**
 
@@ -1000,12 +994,12 @@ Enhance the condition of the photo to be clean and highly detailed without chang
 Turn [OBJECT] into a LEGO sculpture that partially crumbles into flying bricks. Keep the scene high-resolution with realistic lighting and dynamic motion.
 ```
 
-<!-- Case 61: Capsule Beverage Hero Shot (by @TechieBySA) -->
-### Case 61: [Capsule Beverage Hero Shot](https://x.com/TechieBySA/status/1969330027385831902) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 60: Capsule Beverage Hero Shot (by @TechieBySA) -->
+### Case 60: [Capsule Beverage Hero Shot](https://x.com/TechieBySA/status/1969330027385831902) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case61/output.jpg" width="300" alt="Capsule beverage packaging"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case60/output.jpg" width="300" alt="Capsule beverage packaging"> |
 
 **Prompt:**
 
@@ -1013,22 +1007,22 @@ Turn [OBJECT] into a LEGO sculpture that partially crumbles into flying bricks. 
 Shoot a futuristic capsule-shaped beverage inside a metallic blister pack. Hyper-realistic macro close-up. The capsule is glossy with realistic cold droplets, featuring a vivid gradient in [BRAND COLORS] and a bold white [BRAND NAME] logo. The blister reflects soft studio lighting on a dark elegant background. Ultra-detailed textures, high contrast, photorealistic style. 1080x1080 square composition optimized for Instagram.
 ```
 
-<!-- Case 62: BananaFace Stylist (by @ZHO_ZHO_ZHO) -->
-### Case 62: [BananaFace Stylist](https://x.com/ZHO_ZHO_ZHO/status/1969253686221410319) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+<!-- Case 61: BananaFace Stylist (by @ZHO_ZHO_ZHO) -->
+### Case 61: [BananaFace Stylist](https://x.com/ZHO_ZHO_ZHO/status/1969253686221410319) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="BananaFace styling"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case61/output.jpg" width="300" alt="BananaFace styling"> |
 
 > [!TIP]
 > BananaFace offers both text-to-image and image-to-image modes with 44 selectable parameters so you can mix-and-match hairstyles, makeup, and looks while keeping strong identity consistency.
 
-<!-- Case 63: 1080×1920 Old Photo Upgrade (by @ShreyaYadav___) -->
-### Case 63: [1080×1920 Old Photo Upgrade](https://x.com/ShreyaYadav___/status/1969281292094357880) (by [@ShreyaYadav___](https://x.com/ShreyaYadav___))
+<!-- Case 62: 1080×1920 Old Photo Upgrade (by @ShreyaYadav___) -->
+### Case 62: [1080×1920 Old Photo Upgrade](https://x.com/ShreyaYadav___/status/1969281292094357880) (by [@ShreyaYadav___](https://x.com/ShreyaYadav___))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case63/output.jpg" width="300" alt="Old photo restored"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="Old photo restored"> |
 
 **Prompt:**
 
@@ -1036,12 +1030,12 @@ Shoot a futuristic capsule-shaped beverage inside a metallic blister pack. Hyper
 Please edit my old photo into 1080 x 1920 pixels with an aesthetic, modern photography look—make it feel authentic and enhance the colors.
 ```
 
-<!-- Case 64: Surreal Brand Scenes (by @aziz4ai) -->
-### Case 64: [Surreal Brand Scenes](https://x.com/aziz4ai/status/1969500341696614569) (by [@aziz4ai](https://x.com/aziz4ai))
+<!-- Case 63: Surreal Brand Scenes (by @aziz4ai) -->
+### Case 63: [Surreal Brand Scenes](https://x.com/aziz4ai/status/1969500341696614569) (by [@aziz4ai](https://x.com/aziz4ai))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case64/output.jpg" width="300" alt="Surreal brand hero shots"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case63/output.jpg" width="300" alt="Surreal brand hero shots"> |
 
 **Prompt:**
 
@@ -1054,12 +1048,12 @@ Design surreal hero visuals for multiple consumer products:
 Use cinematic lighting, clean compositions, clear branding, and auto-generate campaign-ready taglines.
 ```
 
-<!-- Case 65: Puzzle Toy Character (by @Arminn_Ai) -->
-### Case 65: [Puzzle Toy Character](https://x.com/Arminn_Ai/status/1969446581788426252) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
+<!-- Case 64: Puzzle Toy Character (by @Arminn_Ai) -->
+### Case 64: [Puzzle Toy Character](https://x.com/Arminn_Ai/status/1969446581788426252) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case65/output.jpg" width="300" alt="Puzzle toy character"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case64/output.jpg" width="300" alt="Puzzle toy character"> |
 
 **Prompt:**
 
@@ -1067,12 +1061,12 @@ Use cinematic lighting, clean compositions, clear branding, and auto-generate ca
 Reimagine [CHARACTER NAME] as an ultra-cute puzzle toy: oversized head, stubby body, constructed entirely from interlocking jigsaw pieces. Matte pastel plastic with gentle highlights, seams slightly separated yet snug. Large glossy eyes and a tiny mouth aligned across puzzle cuts. Apply the character’s costume colors piece by piece. Have them hold a loose puzzle piece up playfully, with a few extra pieces floating around. Use soft studio lighting, subtle shadows, 1:1 aspect ratio, and an optional clean pastel gradient backdrop with scattered pieces on the floor.
 ```
 
-<!-- Case 66: Rooftop After Rain Goodbye (by @IamEmily2050) -->
-### Case 66: [Rooftop After Rain Goodbye](https://x.com/IamEmily2050/status/1968996441512436207) (by [@IamEmily2050](https://x.com/IamEmily2050))
+<!-- Case 65: Rooftop After Rain Goodbye (by @IamEmily2050) -->
+### Case 65: [Rooftop After Rain Goodbye](https://x.com/IamEmily2050/status/1968996441512436207) (by [@IamEmily2050](https://x.com/IamEmily2050))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output.jpg" width="300" alt="Blue-hour rooftop scene"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case65/output.jpg" width="300" alt="Blue-hour rooftop scene"> |
 
 **Prompt:**
 
@@ -1120,13 +1114,13 @@ Reimagine [CHARACTER NAME] as an ultra-cute puzzle toy: oversized head, stubby b
 }
 ```
 
-<!-- Case 67: Flying Product Ads (by @CharaspowerAI) -->
-### Case 67: [Flying Product Ads](https://x.com/CharaspowerAI/status/1969076535236710688) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+<!-- Case 66: Flying Product Ads (by @CharaspowerAI) -->
+### Case 66: [Flying Product Ads](https://x.com/CharaspowerAI/status/1969076535236710688) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output1.jpg" width="220" alt="VR headset ad"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output2.jpg" width="220" alt="Yogurt splash ad"> |
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output3.jpg" width="220" alt="Avocado splash ad"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output4.jpg" width="220" alt="French fries ad"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output1.jpg" width="220" alt="VR headset ad"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output2.jpg" width="220" alt="Yogurt splash ad"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output3.jpg" width="220" alt="Avocado splash ad"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output4.jpg" width="220" alt="French fries ad"> |
 
 **Prompt:**
 
@@ -1134,13 +1128,13 @@ Reimagine [CHARACTER NAME] as an ultra-cute puzzle toy: oversized head, stubby b
 Realistic advertising shot. Use a wide-angle view of [subject / product + visual action] with [surrounding elements or motion details] as the item flies through the air. Background color: [Background color]. Photorealistic product photography, studio lighting, sharp focus, high resolution.
 ```
 
-<!-- Case 68: Snow Haze Silhouettes (by @azed_ai) -->
-### Case 68: [Snow Haze Silhouettes](https://x.com/azed_ai/status/1969356639657738717) (by [@azed_ai](https://x.com/azed_ai))
+<!-- Case 67: Snow Haze Silhouettes (by @azed_ai) -->
+### Case 67: [Snow Haze Silhouettes](https://x.com/azed_ai/status/1969356639657738717) (by [@azed_ai](https://x.com/azed_ai))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case68/output1.jpg" width="220" alt="Fox snow haze"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case68/output2.jpg" width="220" alt="Knight snow haze"> |
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case68/output3.jpg" width="220" alt="Ballet snow haze"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case68/output4.jpg" width="220" alt="Girl snow haze"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output1.jpg" width="220" alt="Fox snow haze"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output2.jpg" width="220" alt="Knight snow haze"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output3.jpg" width="220" alt="Ballet snow haze"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output4.jpg" width="220" alt="Girl snow haze"> |
 
 **Prompt:**
 
@@ -1148,12 +1142,12 @@ Realistic advertising shot. Use a wide-angle view of [subject / product + visual
 [SUBJECT] emerging through a drifting snow haze, soft flurries swirling around quiet forms. Blend cool ivory and pale blue to balance motion and stillness. --ar 3:2 --v 7
 ```
 
-<!-- Case 69: Animal Texture Branding (by @Kerroudjm) -->
-### Case 69: [Animal Texture Branding](https://x.com/Kerroudjm/status/1969779989282246838) (by [@Kerroudjm](https://x.com/Kerroudjm))
+<!-- Case 68: Animal Texture Branding (by @Kerroudjm) -->
+### Case 68: [Animal Texture Branding](https://x.com/Kerroudjm/status/1969779989282246838) (by [@Kerroudjm](https://x.com/Kerroudjm))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case69/output.jpg" width="300" alt="Animal texture ad"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case68/output.jpg" width="300" alt="Animal texture ad"> |
 
 **Prompt:**
 
@@ -1161,8 +1155,8 @@ Realistic advertising shot. Use a wide-angle view of [subject / product + visual
 Create a high-end product ad showing a [BRAND] object fully covered in ultra-realistic [ANIMAL] texture (fur, feathers, skin, or scales) while retaining the original shape and brand identity. Use a soft neutral background. Place the official logo prominently and auto-generate a compelling slogan inspired by the animal’s traits. Keep the composition clean, with soft shadows, professional lighting, and extremely detailed textures—each hair, scale, or wrinkle visible. Format 1:1.
 ```
 
-<!-- Case 70: Self-Therapy Session (by @samann_ai) -->
-### Case 70: [Self-Therapy Session](https://x.com/samann_ai/status/1969743981157265867) (by [@samann_ai](https://x.com/samann_ai))
+<!-- Case 69: Self-Therapy Session (by @samann_ai) -->
+### Case 69: [Self-Therapy Session](https://x.com/samann_ai/status/1969743981157265867) (by [@samann_ai](https://x.com/samann_ai))
 
 > [!NOTE]
 > Upload one adult photo and one childhood photo to generate a counseling session between present-day you and your younger self. Nano Banana ensures matching outfits, a minimalist therapy room, soft daylight, and a vertical 3:4 frame.
@@ -1177,12 +1171,12 @@ Use two photos for likeness:
 Photorealistic minimalist therapy room with light walls, gray sofa, wooden coffee table (tissue box, notebook, glass of water), simple frame and floor lamp, soft natural daylight. The same person at two ages sits side-by-side: adult on the left speaking with open hands; child on the right listening with head slightly down. Both wear matching [OUTFIT] (same color & style). Clean studio vibe, centered composition, shallow depth of field, 50mm look, 4K, vertical 3:4. No extra people, no text, no watermark.
 ```
 
-<!-- Case 71: Fisheye Funko Figure (by @Arminn_Ai) -->
-### Case 71: [Fisheye Funko Figure](https://x.com/Arminn_Ai/status/1969848678652547334) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
+<!-- Case 70: Fisheye Funko Figure (by @Arminn_Ai) -->
+### Case 70: [Fisheye Funko Figure](https://x.com/Arminn_Ai/status/1969848678652547334) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output.jpg" width="300" alt="Fisheye Funko figure"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case70/output.jpg" width="300" alt="Fisheye Funko figure"> |
 
 **Prompt:**
 
@@ -1190,12 +1184,12 @@ Photorealistic minimalist therapy room with light walls, gray sofa, wooden coffe
 Funko Pop–style vinyl figure of [CHARACTER NAME], wearing their signature outfit and accessories. Pose: standing, looking upward toward the camera, expression curious yet slightly nonchalant. Camera directly above, ultra-wide fisheye lens for dramatic perspective with gently rounded frame edges. Soft studio lighting, glossy vinyl texture for skin and hair, outfit materials accentuated. High-resolution 3D render, clean neutral background, ultra-sharp collectible toy aesthetic.
 ```
 
-<!-- Case 72: Superhero Living Room (by @IqraSaifiii) -->
-### Case 72: [Superhero Living Room](https://x.com/IqraSaifiii/status/1969868863522423034) (by [@IqraSaifiii](https://x.com/IqraSaifiii))
+<!-- Case 71: Superhero Living Room (by @IqraSaifiii) -->
+### Case 71: [Superhero Living Room](https://x.com/IqraSaifiii/status/1969868863522423034) (by [@IqraSaifiii](https://x.com/IqraSaifiii))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case72/output.jpg" width="300" alt="Superhero living room"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output.jpg" width="300" alt="Superhero living room"> |
 
 **Prompt:**
 
@@ -1203,12 +1197,12 @@ Funko Pop–style vinyl figure of [CHARACTER NAME], wearing their signature outf
 A hyper-realistic, professional interior design photograph of a modern living room inspired by a [Superhero]. Clean lines, neutral palette of greys, blacks, and whites with [Theme Color] accents. A large stylized 3D wall sculpture of the [Superhero] dominates the main wall. Include subtle thematic details (blueprints, motif floor lamp, curated props). Contemporary minimalist furniture—large comfortable sofa, low coffee table. Dramatic lighting highlights the sculpture, with warm ambient light from windows and lamps. Sophisticated, elegant homage rather than overt fan art.
 ```
 
-<!-- Case 73: Top-Down Motorcycle Portrait (by @esalacupnamdhu) -->
-### Case 73: [Top-Down Motorcycle Portrait](https://x.com/esalacupnamdhu/status/1969791147632742603) (by [@esalacupnamdhu](https://x.com/esalacupnamdhu))
+<!-- Case 72: Top-Down Motorcycle Portrait (by @esalacupnamdhu) -->
+### Case 72: [Top-Down Motorcycle Portrait](https://x.com/esalacupnamdhu/status/1969791147632742603) (by [@esalacupnamdhu](https://x.com/esalacupnamdhu))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output.jpg" width="300" alt="Top-down motorcycle portrait"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case72/output.jpg" width="300" alt="Top-down motorcycle portrait"> |
 
 **Prompt:**
 
@@ -1216,13 +1210,13 @@ A hyper-realistic, professional interior design photograph of a modern living ro
 High-contrast black-and-white photograph shot from a top-down, perfectly symmetrical view. A man in a black leather jacket, dark cargo jeans, boots, and sunglasses lies on textured stone pavement with hands behind his head and legs crossed. Beside him, parallel to his body, is a vintage motorcycle with chrome details and a helmet on the seat. Shot on full-frame DSLR, 35 mm lens, f/5.6, ISO 100, 1/250 s. Natural daylight with soft shadows, rich textures, strong tonal contrast.
 ```
 
-<!-- Case 74: Embroidered Storybook Set (by @Artedeingenio) -->
-### Case 74: [Embroidered Storybook Set](https://x.com/Artedeingenio/status/1969789512822804897) (by [@Artedeingenio](https://x.com/Artedeingenio))
+<!-- Case 73: Embroidered Storybook Set (by @Artedeingenio) -->
+### Case 73: [Embroidered Storybook Set](https://x.com/Artedeingenio/status/1969789512822804897) (by [@Artedeingenio](https://x.com/Artedeingenio))
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case74/output1.jpg" width="220" alt="Embroidered puppy illustration"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case74/output2.jpg" width="220" alt="Embroidered cat illustration"> |
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case74/output3.jpg" width="220" alt="Embroidered crocodile illustration"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case74/output4.jpg" width="220" alt="Embroidered girl illustration"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output1.jpg" width="220" alt="Embroidered puppy illustration"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output2.jpg" width="220" alt="Embroidered cat illustration"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output3.jpg" width="220" alt="Embroidered crocodile illustration"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output4.jpg" width="220" alt="Embroidered girl illustration"> |
 
 **Prompt Examples:**
 
