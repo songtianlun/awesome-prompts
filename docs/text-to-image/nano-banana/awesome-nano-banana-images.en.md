@@ -971,9 +971,10 @@ Transform the [OBJECT] in the uploaded photo into a bold, colorful cartoon illus
 <!-- Case 58: Family Photo Restoration (by @ShreyaYadav___) -->
 ### Case 58: [Family Photo Restoration](https://x.com/ShreyaYadav___/status/1969328938158825942) (by [@ShreyaYadav___](https://x.com/ShreyaYadav___))
 
-| Output |
-|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="Restored family portrait"> |
+| Input | Output |
+|:-----:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/input.jpg" width="300" alt="Source of Restored family portrait"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="Restored family portrait"> |
+
 
 **Prompt:**
 
@@ -1020,9 +1021,9 @@ Shoot a futuristic capsule-shaped beverage inside a metallic blister pack. Hyper
 <!-- Case 62: 1080×1920 Old Photo Upgrade (by @ShreyaYadav___) -->
 ### Case 62: [1080×1920 Old Photo Upgrade](https://x.com/ShreyaYadav___/status/1969281292094357880) (by [@ShreyaYadav___](https://x.com/ShreyaYadav___))
 
-| Output |
-|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="Old photo restored"> |
+| Input | Output |
+|:-----:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/input.jpg" width="300" alt="Old photo"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="Old photo restored"> |
 
 **Prompt:**
 
@@ -1161,6 +1162,11 @@ Create a high-end product ad showing a [BRAND] object fully covered in ultra-rea
 > [!NOTE]
 > Upload one adult photo and one childhood photo to generate a counseling session between present-day you and your younger self. Nano Banana ensures matching outfits, a minimalist therapy room, soft daylight, and a vertical 3:4 frame.
 
+| Output |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case69/output.jpg" width="300" alt="Self-Therapy Session"> |
+
+
 **Prompt:**
 
 ```
@@ -1189,7 +1195,8 @@ Funko Pop–style vinyl figure of [CHARACTER NAME], wearing their signature outf
 
 | Output |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output.jpg" width="300" alt="Superhero living room"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output1.jpg" width="300" alt="Superhero living room 1"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output2.jpg" width="300" alt="Superhero living room 2"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output3.jpg" width="300" alt="Superhero living room 3"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output4.jpg" width="300" alt="Superhero living room 4"> |
 
 **Prompt:**
 

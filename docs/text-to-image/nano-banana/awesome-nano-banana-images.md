@@ -971,9 +971,9 @@ Fog hides everything, except your thoughts
 <!-- 例 58: 家庭合影修复（by @ShreyaYadav___） -->
 ### 例 58: [家庭合影修复](https://x.com/ShreyaYadav___/status/1969328938158825942)（by [@ShreyaYadav___](https://x.com/ShreyaYadav___)）
 
-| 输出 |
-|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="家庭合影修复效果"> |
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/input.jpg" width="300" alt="家庭合影旧照片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="家庭合影修复效果"> |
 
 **提示词:**
 
@@ -1020,9 +1020,9 @@ Fog hides everything, except your thoughts
 <!-- 例 62: 旧照 1080×1920 翻修（by @ShreyaYadav___） -->
 ### 例 62: [旧照 1080×1920 翻修](https://x.com/ShreyaYadav___/status/1969281292094357880)（by [@ShreyaYadav___](https://x.com/ShreyaYadav___)）
 
-| 输出 |
-|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="旧照翻修成品"> |
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/input.jpg" width="300" alt="旧照"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="旧照翻修成品"> |
 
 **提示词:**
 
@@ -1161,6 +1161,10 @@ Fog hides everything, except your thoughts
 > [!NOTE]
 > 上传成年照片与童年照片各一张，即可通过 Nano Banana 生成同一人在不同年龄相对而坐的心理疗愈场景。提示词要求两人着装一致、坐在极简治疗室中，光线柔和，构图为 3:4 竖图。
 
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case69/output.jpg" width="300" alt="自我疗愈会谈"> |
+
 **提示词:**
 
 ```
@@ -1189,7 +1193,8 @@ Fog hides everything, except your thoughts
 
 | 输出 |
 |:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output.jpg" width="300" alt="超级英雄客厅设计"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output1.jpg" width="300" alt="超级英雄客厅设计 1"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output2.jpg" width="300" alt="超级英雄客厅设计 2"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output3.jpg" width="300" alt="超级英雄客厅设计 3"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output4.jpg" width="300" alt="超级英雄客厅设计 4"> |
 
 **提示词:**
 
