@@ -890,6 +890,350 @@ Fog hides everything, except your thoughts
 创建一张写实风格图片，图片中人物正参加艺术展览并和后方装置合影，装置为人物卡通样式，形象具有大眼睛的萌系艺术特征，装置参考输入图主体形象的服饰、配饰、发型、装饰，保持主体一致性，装置以自然站姿立在人物后方，体积大于人物，高于人物50%左右，营造比例反差，背景是简约观展现场，色系搭配与输入图一致，营造渐变、高级氛围。
 ```
 
+<!-- 例 52: 品牌沙发棚拍（by @samann_ai） -->
+### 例 52: [品牌沙发棚拍](https://x.com/samann_ai/status/1968656265673871644)（by [@samann_ai](https://x.com/samann_ai)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case52/output.jpg" width="300" alt="品牌沙发棚拍效果"> |
+
+**提示词:**
+
+```
+[CHARACTER] 坐在一张超大、蓬松的休闲沙发中央，沙发颜色为 [SOFA_COLOR]，单手托腮、放松地全身入镜。背景是纯白无缝棚拍，采用时尚杂志级的打光，画面写实且极简。背后墙面用喷漆写上 “[TEXT]”，带有柔和喷溅与少量滴痕。85mm 视角、细节清晰，无杂物、无水印。--ar 3:4
+```
+
+<!-- 例 53: 双人拍立得合照（by @ZHO_ZHO_ZHO） -->
+### 例 53: [双人拍立得合照](https://x.com/ZHO_ZHO_ZHO/status/1969003733280346457)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case53/output.jpg" width="300" alt="拍立得合照效果"> |
+
+**提示词:**
+
+```
+生成一张两人亲密合照的拍立得照片，保持两张脸的一致性。照片略带模糊，室内闪光灯直打，氛围像派对刚结束。两人摆出亲密又搞笑的姿势。
+```
+
+<!-- 例 54: 3D 像素化食物（by @TechieBySA） -->
+### 例 54: [3D 像素化食物](https://x.com/TechieBySA/status/1968967345239396842)（by [@TechieBySA](https://x.com/TechieBySA)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case54/output.jpg" width="300" alt="像素碎块水果"> |
+
+**提示词:**
+
+```
+极简美食摄影，画面尺寸 1080x1080。将单个 [FOOD] 放在浅色哑光桌面上，一半保持完整，另一半自然破碎成漂浮的 3D 大像素方块，方块向外散开，并呈现食材的纹理、配料与颜色。使用柔和棚拍光影、浅景深和精致构图，细节写实，几何抽象风格，像素块带轻微运动模糊，高分辨率、电影感特写。
+```
+
+<!-- 例 55: 奇幻魔法雕像（by @iamfakhrealam） -->
+### 例 55: [奇幻魔法雕像](https://x.com/iamfakhrealam/status/1969035699904184510)（by [@iamfakhrealam](https://x.com/iamfakhrealam)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case55/output.png" width="300" alt="魔法雕像成品"> |
+
+**提示词:**
+
+```
+打造一尊奇幻角色的精细雕像：角色手持镶嵌蓝色水晶的法杖，身穿蓝灰相间的长袍与护甲，施展缠绕的蓝色魔法能量。雕像立于圆形底座，上面点缀蓝色水晶与神秘符文，周围有小型蓝色树木。整体陈列在玻璃展柜内，顶部灯光明亮，细节一览无遗。
+```
+
+<!-- 例 56: 黑白棚拍肖像（by @rovvmut_） -->
+### 例 56: [黑白棚拍肖像](https://x.com/rovvmut_/status/1969278508045385873)（by [@rovvmut_](https://x.com/rovvmut_)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case56/output.jpg" width="300" alt="黑白棚拍肖像"> |
+
+**提示词:**
+
+```
+将上传的形象转换成一张电影感的黑白棚拍肖像：纯黑背景，主体坐在椅子上、双臂交叉。光线细腻，层次分明，保留人物神情与衣着的质感，营造经典影楼氛围。
+```
+
+<!-- 例 57: 漫画滴彩融合（by @Arminn_Ai） -->
+### 例 57: [漫画滴彩融合](https://x.com/Arminn_Ai/status/1969324325162324163)（by [@Arminn_Ai](https://x.com/Arminn_Ai)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case57/output.jpg" width="300" alt="彩色滴彩融合效果"> |
+
+**提示词:**
+
+```
+将上传照片中的 [OBJECT] 转换成大胆、色彩鲜艳的卡通插画风，而画面其他部分保持真实原貌。卡通部分需要厚重黑描边、明亮纯色（如青色、洋红、黄色、粉色）、流淌的滴彩与飞溅效果，营造漫画感能量，色彩大多向下滴落。卡通对象看起来像在融化或爆发色彩，并与真实照片自然融合。背景与其他元素保持写实，不做修改。画面分辨率高，呈现超现实的写实与卡通对比。
+```
+
+<!-- 例 58: 家庭合影修复（by @ShreyaYadav___） -->
+### 例 58: [家庭合影修复](https://x.com/ShreyaYadav___/status/1969328938158825942)（by [@ShreyaYadav___](https://x.com/ShreyaYadav___)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/input.jpg" width="300" alt="家庭合影旧照片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case58/output.jpg" width="300" alt="家庭合影修复效果"> |
+
+**提示词:**
+
+```
+在不改变人物脸部与发型结构的前提下，让整张合影变得清晰且细节丰富。优化姿态与背景，使之与参考照片一致，画面质感达到超写实级别。
+```
+
+<!-- 例 59: LEGO 崩解特效（by @AmirMushich） -->
+### 例 59: [LEGO 崩解特效](https://x.com/AmirMushich/status/1969076111628734881)（by [@AmirMushich](https://x.com/AmirMushich)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case59/output.jpg" width="300" alt="LEGO 崩解效果"> |
+
+**提示词:**
+
+```
+将 [OBJECT] 变成由 LEGO 积木构成的雕塑，并让它的一部分崩解成飞散的积木块。画面保持高分辨率、光影真实，动感十足。
+```
+
+<!-- 例 60: 胶囊饮品硬广（by @TechieBySA） -->
+### 例 60: [胶囊饮品硬广](https://x.com/TechieBySA/status/1969330027385831902)（by [@TechieBySA](https://x.com/TechieBySA)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case60/output.jpg" width="300" alt="胶囊饮品包装"> |
+
+**提示词:**
+
+```
+拍摄一颗置于金属泡罩中的未来感饮品胶囊，写实微距特写。胶囊表面覆有真实的冷凝水珠，整体呈现 [BRAND COLORS] 渐变色，并以白色展示 [BRAND NAME] 标志与字样。泡罩在柔和棚拍光下反射细腻高光，背景深邃优雅，凸显主体。要求纹理超细腻、对比强、高度写实，1080x1080 正方形构图，适配社媒展示。
+```
+
+<!-- 例 61: BananaFace 造型师（by @ZHO_ZHO_ZHO） -->
+### 例 61: [BananaFace 造型师](https://x.com/ZHO_ZHO_ZHO/status/1969253686221410319)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case61/output.jpg" width="300" alt="BananaFace 造型示例"> |
+
+> [!TIP]
+> BananaFace 提供文生图与图生图两种模式，44 项专业参数点选即可定制发型、妆容与风格，快速获得人物一致性极高的造型成片。
+
+<!-- 例 62: 旧照 1080×1920 翻修（by @ShreyaYadav___） -->
+### 例 62: [旧照 1080×1920 翻修](https://x.com/ShreyaYadav___/status/1969281292094357880)（by [@ShreyaYadav___](https://x.com/ShreyaYadav___)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/input.jpg" width="300" alt="旧照"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case62/output.jpg" width="300" alt="旧照翻修成品"> |
+
+**提示词:**
+
+```
+请将我的旧照片修复为 1080 x 1920 像素，呈现现代审美的摄影质感，让画面真实且色彩更出众。
+```
+
+<!-- 例 63: 品牌超现实场景（by @aziz4ai） -->
+### 例 63: [品牌超现实场景](https://x.com/aziz4ai/status/1969500341696614569)（by [@aziz4ai](https://x.com/aziz4ai)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case63/output.jpg" width="300" alt="品牌英雄海报组合"> |
+
+**提示词:**
+
+```
+为多款消费品打造超现实的英雄海报：
+- 让 [饮料品牌] 的瓶身置于热带平台上，周围有棕榈树与沙滩；
+- 将 [洗护品牌] 的瓶子化为雪山瀑布；
+- 为未来感跑鞋打造城市赛道场景，加入动感标语；
+- 将巨型耳机或耳机盒置于现代水景装置中。
+要求电影级打光、品牌标识清晰、构图干净，并自动生成贴合产品气质的广告语。
+```
+
+<!-- 例 64: 拼图玩偶角色（by @Arminn_Ai） -->
+### 例 64: [拼图玩偶角色](https://x.com/Arminn_Ai/status/1969446581788426252)（by [@Arminn_Ai](https://x.com/Arminn_Ai)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case64/output.jpg" width="300" alt="拼图玩偶角色"> |
+
+**提示词:**
+
+```
+将 [CHARACTER NAME] 打造成拼图玩具造型的 Q 版角色：头大身小，整个身体与头部由互相嵌合的拼图块组成，表面为亚光马卡龙塑料，带柔和高光。拼缝清晰、略有分离但紧密衔接。角色拥有大而光亮的眼睛与简洁嘴巴，服装颜色逐块铺陈。让角色单手举起一块拼图，周围漂浮少量额外拼块。使用柔和棚拍光、细腻阴影、1:1 构图，可选干净的渐变背景并在地面散落几块拼图。
+```
+
+<!-- 例 65: 雨后屋顶告别（by @IamEmily2050） -->
+### 例 65: [雨后屋顶告别](https://x.com/IamEmily2050/status/1968996441512436207)（by [@IamEmily2050](https://x.com/IamEmily2050)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case65/output.jpg" width="300" alt="雨后屋顶场景"> |
+
+**提示词:**
+
+```json
+{
+  "prompt": {
+    "concept": "雨后傍晚的学校屋顶；静谧的电影感告别",
+    "subject": "成年韩国女性（非未成年），身穿校风西装外套、针织背心、领带与百褶裙；及膝长袜，擦得锃亮的黑色乐福鞋，耳机连着手机",
+    "pose": "全身站在铁网栅栏旁，一手垂握手机，另一手搭在栅栏上，目光平静直视镜头",
+    "environment": {
+      "setting": "混凝土屋顶，地面有球场弧线与浅浅积水倒映城市霓虹；铁网围栏；金属楼梯间的门半掩；远处可见天际线与驶过的列车灯光",
+      "weather_time": "刚下过雨，薄雾萦绕，天空从青绿过渡到暖橙",
+      "props_micro": [
+        "栅栏上贴着课程表，边缘被风吹起",
+        "鞋旁有一支粉笔",
+        "湿润地面写着略被雨水模糊的 'i miss you' 与笑脸",
+        "旋转屋顶通风口",
+        "靠栏杆放着折叠伞"
+      ]
+    },
+    "lighting": {
+      "key": "蓝调天空的环境光",
+      "rim": "楼梯间暖色钠灯在身后形成轮廓光",
+      "practicals": "城市窗户与屋顶安全灯在水洼里反射",
+      "accents": "手机屏光打亮指尖，眼中有高光，微风扬起发梢"
+    },
+    "camera": {
+      "lens_mm": 35,
+      "aperture": 2.0,
+      "iso": 200,
+      "shutter_speed": "1/160",
+      "angle": "略微仰角以纳入天空和栅栏引导线",
+      "focus": "面部清晰，鞋子细节可辨，背景轻微虚化",
+      "framing": "竖构图全身，保留头顶空间，并将粉笔字纳入画面"
+    },
+    "grade": "青橙电影调色，低对比胶片曲线，适度颗粒（6-8），黑位纯净，无高光溢出",
+    "emotion_notes": "雨过天晴的怀旧与向前感",
+    "output": { "resolution": "2048x2560", "format": "png" }
+  },
+  "negative": [
+    "任何额外文字或水印（唯一允许的文字是粉笔写的 'i miss you'）",
+    "塑料质感的皮肤、卡通效果、HDR 光晕、色带",
+    "畸变的人体比例"
+  ]
+}
+```
+
+<!-- 例 66: 飞行硬广组合（by @CharaspowerAI） -->
+### 例 66: [飞行硬广组合](https://x.com/CharaspowerAI/status/1969076535236710688)（by [@CharaspowerAI](https://x.com/CharaspowerAI)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output1.jpg" width="220" alt="VR 头显硬广"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output2.jpg" width="220" alt="酸奶飞溅广告"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output3.jpg" width="220" alt="牛油果切面广告"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case66/output4.jpg" width="220" alt="薯条飞溅广告"> |
+
+**提示词:**
+
+```
+写实产品广告拍摄。用广角视角捕捉 [主体 / 产品 + 动态动作]，并加入 [周围元素或动感细节]，让主体在空中飞行。背景色设为 [Background color]。画面需具备棚拍级打光、锐利对焦与高分辨率。
+```
+
+<!-- 例 67: 雪雾剪影组（by @azed_ai） -->
+### 例 67: [雪雾剪影组](https://x.com/azed_ai/status/1969356639657738717)（by [@azed_ai](https://x.com/azed_ai)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output1.jpg" width="220" alt="雪雾狐狸"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output2.jpg" width="220" alt="雪雾骑士"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output3.jpg" width="220" alt="雪雾芭蕾"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case67/output4.jpg" width="220" alt="雪雾少女"> |
+
+**提示词:**
+
+```
+[SUBJECT] 穿行于飘动的雪雾中，轻盈雪花环绕静谧身影。整体色调以冷白与浅蓝对比，营造静与动的平衡。--ar 3:2 --v 7
+```
+
+<!-- 例 68: 动物纹理品牌（by @Kerroudjm） -->
+### 例 68: [动物纹理品牌](https://x.com/Kerroudjm/status/1969779989282246838)（by [@Kerroudjm](https://x.com/Kerroudjm)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case68/output.jpg" width="300" alt="动物纹理品牌广告"> |
+
+**提示词:**
+
+```
+拍摄一张高品质产品广告：让 [BRAND] 的主体完全覆盖 [ANIMAL] 的真实皮毛／羽毛／鳞片纹理，但保留原有的造型与品牌识别。背景选用柔和的中性色，突出主体。画面需显著展示品牌 logo，并自动生成借鉴动物特性、符合高端广告语气的 slogan。整体构图极简，棚拍光影柔和，每根毛发、鳞片或皱纹都需清晰可见。格式 1:1。
+```
+
+<!-- 例 69: 自我疗愈会谈（by @samann_ai） -->
+### 例 69: [自我疗愈会谈](https://x.com/samann_ai/status/1969743981157265867)（by [@samann_ai](https://x.com/samann_ai)）
+
+> [!NOTE]
+> 上传成年照片与童年照片各一张，即可通过 Nano Banana 生成同一人在不同年龄相对而坐的心理疗愈场景。提示词要求两人着装一致、坐在极简治疗室中，光线柔和，构图为 3:4 竖图。
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case69/output.jpg" width="300" alt="自我疗愈会谈"> |
+
+**提示词:**
+
+```
+使用两张照片来保持相似度：
+- 成年参考：[ADULT_PHOTO]
+- 童年参考：[CHILD_PHOTO]
+
+生成极简写实风的心理咨询室，浅色墙面、灰色沙发、木质茶几，上面放置纸巾盒、笔记本与水杯，搭配简洁画框与落地灯，光线为自然日光。让同一个人以两个年龄段坐在一起：左侧成年自我双手摊开说话，右侧童年自我微微低头倾听。两人穿着匹配的 [OUTFIT]（同色同款）。构图居中、景深浅、50mm 质感，4K 分辨率，竖版 3:4。画面中不出现额外人物、文字或水印。
+```
+
+<!-- 例 70: Fisheye Funko 公仔（by @Arminn_Ai） -->
+### 例 70: [Fisheye Funko 公仔](https://x.com/Arminn_Ai/status/1969848678652547334)（by [@Arminn_Ai](https://x.com/Arminn_Ai)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case70/output.jpg" width="300" alt="Funko 公仔俯拍"> |
+
+**提示词:**
+
+```
+制作一只 Funko Pop 风格的 [CHARACTER NAME] 公仔：保留标志性服装与配件。姿态站立，抬头望向镜头，表情好奇又略显悠然。相机从正上方非常近距离拍摄，使用超广角鱼眼镜头形成夸张透视和圆角边框。光线柔和，皮肤与头发呈现亮面乙烯材质，服装材质根据角色可为绗缝、亮面或哑光。画面为高分辨率 3D 渲染，背景干净中性，呈现收藏级玩具质感。
+```
+
+<!-- 例 71: 超级英雄客厅（by @IqraSaifiii） -->
+### 例 71: [超级英雄客厅](https://x.com/IqraSaifiii/status/1969868863522423034)（by [@IqraSaifiii](https://x.com/IqraSaifiii)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output1.jpg" width="300" alt="超级英雄客厅设计 1"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output2.jpg" width="300" alt="超级英雄客厅设计 2"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output3.jpg" width="300" alt="超级英雄客厅设计 3"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case71/output4.jpg" width="300" alt="超级英雄客厅设计 4"> |
+
+**提示词:**
+
+```
+打造一张超写实、专业的室内设计照片，客厅灵感来自 [Superhero]。整体线条利落，配色以灰、黑、白为主，并加入 [Theme Color] 点缀。主墙上有大型 3D 浮雕，呈现 [Superhero] 的象征造型。空间中散布细致的主题元素，例如蓝图风格的挂画、带图案的落地灯、桌面小型道具等。家具选用现代极简风，沙发宽大舒适、茶几低矮。主墙有重点打光，窗户与灯具提供温暖的环境光，整体风格雅致而含蓄。
+```
+
+<!-- 例 72: 摩托顶视大片（by @esalacupnamdhu） -->
+### 例 72: [摩托顶视大片](https://x.com/esalacupnamdhu/status/1969791147632742603)（by [@esalacupnamdhu](https://x.com/esalacupnamdhu)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case72/output.jpg" width="300" alt="顶视摩托写真"> |
+
+**提示词:**
+
+```
+高对比度黑白照片，俯拍对称构图。一名身穿黑色皮夹克、工装裤、靴子与墨镜的男子躺在纹理石板地面上，双手枕于脑后、双腿交叉。旁边平行放置复古摩托车，带有镀铬细节与坐垫上的头盔。使用全画幅相机，35mm 镜头，f/5.6，ISO 100，1/250s，保留丰富纹理与强烈明暗对比。
+```
+
+<!-- 例 73: 刺绣童话画册（by @Artedeingenio） -->
+### 例 73: [刺绣童话画册](https://x.com/Artedeingenio/status/1969789512822804897)（by [@Artedeingenio](https://x.com/Artedeingenio)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output1.jpg" width="220" alt="刺绣小狗插画"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output2.jpg" width="220" alt="刺绣小猫追蝴蝶"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output3.jpg" width="220" alt="刺绣鳄鱼插画"> <img src="/images/text-to-image/nano-banana/awesome-nano-banana-images/case73/output4.jpg" width="220" alt="刺绣女孩插画"> |
+
+**提示词示例:**
+
+```
+1. 可爱的儿童读物插画：笑脸下垂耳小狗，夸张卡通比例，呈现刺绣与织物质感，色彩丰富的线条与布料纹理，手作温馨氛围。--ar 1:1 --raw --p
+2. 儿童故事场景：小猫追逐蝴蝶，俏皮漫画风，带刺绣针脚与暖色面料质感，整体明亮舒适。--ar 1:1 --raw --p
+3. 儿童故事用的卡通鳄鱼，身体以橙黑线条缝制，刺绣纹理明显，夸张的眼睛与牙齿，手工质感。--ar 1:1 --raw --p
+4. 可爱的刺绣女孩插画：双马尾、小红裙，黑色线条勾边、彩色布料填充，营造温暖俏皮的童话氛围。--ar 1:1 --raw --p
+```
+
+
+
 ## 🙏 Acknowledge
 
 本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
