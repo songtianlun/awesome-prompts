@@ -2,6 +2,17 @@
 
 Welcome to **Awesome Prompts**. The collection is organized by modality and task type with multilingual support.
 
+<!-- prmbr-horizon -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7296634171837358"
+     data-ad-slot="2056784980"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 📂 Modalities & Categories
 
 ### 📝 Text-to-Text
