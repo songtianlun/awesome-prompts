@@ -17,6 +17,17 @@ These cases mainly come from Twitter/X 🐦, Xiaohongshu 📕 and other self-med
 
 If you like it, please ⭐ Star to bookmark it!
 
+<!-- prmbr-horizon -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7296634171837358"
+     data-ad-slot="2056784980"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 🖼️ Cases
 
 <!-- Case 1: Illustration to Figure (by @ZHO_ZHO_ZHO) -->
