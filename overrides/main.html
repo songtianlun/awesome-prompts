@@ -22,3 +22,49 @@
   ></script>
 {% endblock %}
 
+{% block right %}
+  {{ super() }}
+  {% if page and page.file and page.file.src_path in [
+    "index.md",
+    "text-to-image/nano-banana/awesome-nano-banana-images.md"
+  ] %}
+    <aside class="md-ad-slot">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-7296634171837358"
+        data-ad-slot="2056784980"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    </aside>
+  {% endif %}
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script>
+    if (typeof document$ !== "undefined") {
+      document$.subscribe(function () {
+        var slots = document.querySelectorAll(".md-ad-slot ins.adsbygoogle");
+        if (!slots.length) {
+          return;
+        }
+
+        window.adsbygoogle = window.adsbygoogle || [];
+
+        slots.forEach(function (slot) {
+          if (slot.dataset.adLoaded === "true") {
+            return;
+          }
+
+          try {
+            window.adsbygoogle.push({});
+            slot.dataset.adLoaded = "true";
+          } catch (error) {
+            console.warn("Adsense slot error", error);
+          }
+        });
+      });
+    }
+  </script>
+{% endblock %}
+

@@ -1,0 +1,13 @@
+.md-ad-slot {
+  margin-top: 1.5rem;
+}
+
+.md-sidebar--secondary .md-ad-slot {
+  max-width: 100%;
+}
+
+@media (max-width: 959px) {
+  .md-ad-slot {
+    display: none;
+  }
+}
