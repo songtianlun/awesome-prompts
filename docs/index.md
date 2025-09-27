@@ -2,17 +2,6 @@
 
 欢迎来到 **精选提示词库**，本项目按模态和任务类型整理常用提示词，并提供多语言支持。
 
-<!-- prmbr-horizon -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7296634171837358"
-     data-ad-slot="2056784980"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## 📂 模态与分类
 
 ### 📝 文本生成 (Text-to-Text)

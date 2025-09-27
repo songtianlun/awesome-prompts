@@ -17,17 +17,6 @@ tags:
 
 喜欢就点 ⭐ Star 收藏起来吧！
 
-<!-- prmbr-horizon -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7296634171837358"
-     data-ad-slot="2056784980"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## 🖼️ 例子
 
 <!-- 例 1: 插画变手办（by @ZHO_ZHO_ZHO） -->
