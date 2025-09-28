@@ -26,6 +26,7 @@ Welcome to **Awesome Prompts**. The collection is organized by modality and task
 - [Content Creation](text-to-text/content-creation/advertising-campaign.md)
 
 ### 🎨 Text-to-Image
+- [Tencent Hunyuan Image 3.0 cases (32 examples)](text-to-image/hunyuan-image-3-0.en.md)
 - [GPT cases (100+examples)](text-to-image/gpt/awesome-gpt4o-images.en.md)
 - [Nano Banana cases (73+examples)](text-to-image/nano-banana/awesome-nano-banana-images.en.md)
 - [Illustration prompt tips (11+tips)](text-to-image/ai-prompt-guide.md)
