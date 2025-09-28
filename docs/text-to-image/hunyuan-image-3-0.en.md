@@ -20,7 +20,7 @@ Casual snapshot style, not elaborately composed or lit. A fresh-looking beauty w
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example01.jpg" width="320" alt="Example 1 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example01.webp" width="320" alt="Example 1 result"> |
 
 
 ### Example 2: Everyday Indoor Girl with Glasses
@@ -31,7 +31,7 @@ Ordinary room with solid-color curtains in the background. Casual snapshot style
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example02.jpg" width="320" alt="Example 2 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example02.webp" width="320" alt="Example 2 result"> |
 
 
 ### Example 3: Proud Chinese Teen Portrait
@@ -42,7 +42,7 @@ Handsome, proud Chinese teenage boy in a half-length frontal portrait. Cinematic
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example03.jpg" width="320" alt="Example 3 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example03.webp" width="320" alt="Example 3 result"> |
 
 
 ### Example 4: Cool Ancient-Style Anime Beauty
@@ -53,7 +53,7 @@ Anime-style illustration of a long-haired beauty who exudes a captivating aura. 
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example04.jpg" width="320" alt="Example 4 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example04.webp" width="320" alt="Example 4 result"> |
 
 
 ### Example 5: Pure Super-Anime Girl
@@ -64,7 +64,7 @@ A pure and adorable super-anime-style girl.
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example05.jpg" width="320" alt="Example 5 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example05.webp" width="320" alt="Example 5 result"> |
 
 
 ### Example 6: Urban Fashionable Male Model
@@ -75,7 +75,7 @@ A handsome foreign male model.
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example06.jpg" width="320" alt="Example 6 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example06.webp" width="320" alt="Example 6 result"> |
 
 
 ### Example 7: Elon Musk Portrait Recreation
@@ -86,7 +86,7 @@ Generate Elon Musk.
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example07.jpg" width="320" alt="Example 7 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example07.webp" width="320" alt="Example 7 result"> |
 
 
 ## Style & Material Exploration
@@ -101,7 +101,7 @@ Watercolor painting of the CCTV Headquarters building with transparent washes an
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example08.jpg" width="320" alt="Example 8 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example08.webp" width="320" alt="Example 8 result"> |
 
 
 ### Example 9: Multi-Style CCTV Headquarters Collection
@@ -112,7 +112,7 @@ Render the CCTV Headquarters in distinct styles: watercolor, Impressionism, oil 
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example09.jpg" width="320" alt="Example 9 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example09.webp" width="320" alt="Example 9 result"> |
 
 
 ### Material Understanding
@@ -125,7 +125,7 @@ Create a high-resolution 3D rendering of typography. The first line spells "XIAN
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example10.jpg" width="320" alt="Example 10 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example10.webp" width="320" alt="Example 10 result"> |
 
 
 ### Example 11: Multi-Material WeChat Logo Set
@@ -136,7 +136,7 @@ Front-view collection of WeChat logos in multiple materials. Square icon design 
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example11.jpg" width="320" alt="Example 11 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example11.webp" width="320" alt="Example 11 result"> |
 
 
 ## Typography & Poster Design
@@ -151,7 +151,7 @@ Typography design in seal-script calligraphy for the phrase "产品蝗虫群" (P
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example12.jpg" width="320" alt="Example 12 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example12.webp" width="320" alt="Example 12 result"> |
 
 
 ### Example 13: Typography Style Showcase Poster
@@ -162,7 +162,7 @@ Poster showcasing a variety of Chinese type styles. Divide the layout into 10 se
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example13.jpg" width="320" alt="Example 13 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example13.webp" width="320" alt="Example 13 result"> |
 
 
 ### Poster Design
@@ -175,7 +175,7 @@ Chinese new-wave (Guochao) Dragon Boat Festival poster with creative traditional
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example14.jpg" width="320" alt="Example 14 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example14.webp" width="320" alt="Example 14 result"> |
 
 
 ### Example 15: Cosmic WeChat Splash Screen
@@ -186,7 +186,7 @@ Minimalist WeChat splash screen with a deep-space backdrop. Earth floats in dark
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example15.jpg" width="320" alt="Example 15 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example15.webp" width="320" alt="Example 15 result"> |
 
 
 ### Example 16: National Day Film Poster
@@ -197,7 +197,7 @@ Oscar-worthy movie poster design featuring a giant red ink splash symbolizing Ch
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example16.jpg" width="320" alt="Example 16 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example16.webp" width="320" alt="Example 16 result"> |
 
 
 ## Icons, Emojis & Illustrations
@@ -212,7 +212,7 @@ Frosted-glass ring chart made from three arrows labeled with large language mode
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example17.jpg" width="320" alt="Example 17 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example17.webp" width="320" alt="Example 17 result"> |
 
 
 ### Example 18: Glassy 3D Bar Chart
@@ -223,7 +223,7 @@ Frosted-glass ring chart made from three arrows labeled with large language mode
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example18.jpg" width="320" alt="Example 18 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example18.webp" width="320" alt="Example 18 result"> |
 
 
 ### Example 19: Corporate Hierarchy Pyramid
@@ -234,7 +234,7 @@ Frosted-glass ring chart made from three arrows labeled with large language mode
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example19.jpg" width="320" alt="Example 19 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example19.webp" width="320" alt="Example 19 result"> |
 
 
 ### Logos & Icons
@@ -247,7 +247,7 @@ Minimalist black-and-white logo design. The top features an abstract, symmetrica
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example20.jpg" width="320" alt="Example 20 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example20.webp" width="320" alt="Example 20 result"> |
 
 
 ### Example 21: Minimal QM Monogram Logo
@@ -258,7 +258,7 @@ Logo design that cleverly fuses the letters “Q” and “M.” Minimalist grap
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example21.jpg" width="320" alt="Example 21 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example21.webp" width="320" alt="Example 21 result"> |
 
 
 ### Example 22: Everyday Objects Line Icons
@@ -269,7 +269,7 @@ Commercial illustration-style set of 20 everyday object icons with clean line wo
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example22.jpg" width="320" alt="Example 22 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example22.webp" width="320" alt="Example 22 result"> |
 
 
 ### Example 23: Liquid Glass App Icons
@@ -280,7 +280,7 @@ Icon set in Apple's liquid-glass aesthetic. Include the following icons in order
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example23.jpg" width="320" alt="Example 23 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example23.webp" width="320" alt="Example 23 result"> |
 
 
 ### Example 24: Cute 3D Browser Icons
@@ -291,7 +291,7 @@ Icon set designed in a cute cartoon style with strong 3D presence. Include icons
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example24.jpg" width="320" alt="Example 24 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example24.webp" width="320" alt="Example 24 result"> |
 
 
 ### Emojis & Avatars
@@ -304,7 +304,7 @@ Create nine emoji stickers in a chibi Ghost Rider style.
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example25.jpg" width="320" alt="Example 25 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example25.webp" width="320" alt="Example 25 result"> |
 
 
 ## E-Commerce Ads & Knowledge Reasoning
@@ -319,7 +319,7 @@ Slightly upward-looking frontal composition. A bold 3D headline reading “双11
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example26.jpg" width="320" alt="Example 26 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example26.webp" width="320" alt="Example 26 result"> |
 
 
 ### Example 27: Yellow Bouquet Body Wash Poster
@@ -330,7 +330,7 @@ High-end yellow body wash with the “QIAOMU” brandmark on a transparent bottl
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example27.jpg" width="320" alt="Example 27 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example27.webp" width="320" alt="Example 27 result"> |
 
 
 ### Example 28: QIAOMU Body Wash Campaign
@@ -341,7 +341,7 @@ Poster in yellow and white tones showcasing the QIAOMU body wash line. Bold head
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example28.jpg" width="320" alt="Example 28 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example28.webp" width="320" alt="Example 28 result"> |
 
 
 ### Example 29: Shimano Fishing Rod Advertisement
@@ -352,7 +352,7 @@ Poster in blue and white tones for Shimano lure rods. Prominent header “SHIMAN
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example29.jpg" width="320" alt="Example 29 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example29.webp" width="320" alt="Example 29 result"> |
 
 
 ### World Knowledge Understanding
@@ -365,7 +365,7 @@ Poster in blue and white tones for Shimano lure rods. Prominent header “SHIMAN
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example30.jpg" width="320" alt="Example 30 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example30.webp" width="320" alt="Example 30 result"> |
 
 
 ### Example 31: Photosynthesis Four-Panel Comic
@@ -376,7 +376,7 @@ Generate a four-panel comic explaining the process of photosynthesis. Cartoon sc
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example31.jpg" width="320" alt="Example 31 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example31.webp" width="320" alt="Example 31 result"> |
 
 
 ### Example 32: Rainy-Day Essentials Checklist
@@ -387,7 +387,7 @@ Illustrated checklist of “must-have items for going out on a rainy day.”
 
 | Result |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example32.jpg" width="320" alt="Example 32 result"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example32.webp" width="320" alt="Example 32 result"> |
 
 
 > All prompts are sourced from the original article. Feel free to swap subjects or style keywords to explore even more capabilities of Hunyuan Image 3.0.

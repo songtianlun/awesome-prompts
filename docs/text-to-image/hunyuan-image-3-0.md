@@ -6,9 +6,15 @@ tags:
   - Tencent
 ---
 
-> 出处：[我去！这种尖货都免费开源，腾讯家底太厚了](https://mp.weixin.qq.com/s/j5wiB1vCfxcPnw6yeUmlhg)
+> 例1～例32出处：[我去！这种尖货都免费开源，腾讯家底太厚了](https://mp.weixin.qq.com/s/j5wiB1vCfxcPnw6yeUmlhg)
 
-腾讯最新发布的混元图像 3.0 是全球首个工业级原生多模态生图模型，支持中英文长文本描述，能够理解复杂语义并生成具有高级审美的作品。文章作者实测了数百张图片，展示了模型在人物、风格、材质、字体、海报、图标、电商广告等场景的可玩性与稳定性。以下整理了文中的代表性提示词，方便快速上手。
+腾讯最新发布（2025 年 9 月 28 日）的混元图像 3.0 是全球首个工业级原生多模态生图模型，支持中英文长文本描述，能够理解复杂语义并生成具有高级审美的作品。文章作者实测了数百张图片，展示了模型在人物、风格、材质、字体、海报、图标、电商广告等场景的可玩性与稳定性。以下整理了文中的代表性提示词，方便快速上手。
+
+模型相关链接：
+
+- 腾讯混元官网PC端: <https://hunyuan.tencent.com/image>
+- Github 仓库: <https://github.com/Tencent-Hunyuan/HunyuanImage-3.0>
+- HuggingFace 仓库: <https://huggingface.co/tencent/HunyuanImage-3.0>
 
 ## 人物生成
 
@@ -20,7 +26,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example01.jpg" width="320" alt="例 1 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example01.webp" width="320" alt="例 1 生成结果"> |
 
 
 ### 例 2: 日常室内眼镜少女
@@ -31,7 +37,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example02.jpg" width="320" alt="例 2 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example02.webp" width="320" alt="例 2 生成结果"> |
 
 
 ### 例 3: 高傲华人少年肖像
@@ -42,7 +48,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example03.jpg" width="320" alt="例 3 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example03.webp" width="320" alt="例 3 生成结果"> |
 
 
 ### 例 4: 酷飒古风动漫美女
@@ -53,7 +59,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example04.jpg" width="320" alt="例 4 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example04.webp" width="320" alt="例 4 生成结果"> |
 
 
 ### 例 5: 清纯超动漫少女
@@ -64,7 +70,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example05.jpg" width="320" alt="例 5 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example05.webp" width="320" alt="例 5 生成结果"> |
 
 
 ### 例 6: 都市时尚型男
@@ -75,7 +81,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example06.jpg" width="320" alt="例 6 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example06.webp" width="320" alt="例 6 生成结果"> |
 
 
 ### 例 7: 马斯克肖像再现
@@ -86,12 +92,10 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example07.jpg" width="320" alt="例 7 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example07.webp" width="320" alt="例 7 生成结果"> |
 
 
 ## 风格与材质探索
-
-### 绘画风格
 
 ### 例 8: 水彩央视大楼
 
@@ -101,7 +105,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example08.jpg" width="320" alt="例 8 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example08.webp" width="320" alt="例 8 生成结果"> |
 
 
 ### 例 9: 多风格央视大楼合集
@@ -112,10 +116,8 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example09.jpg" width="320" alt="例 9 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example09.webp" width="320" alt="例 9 生成结果"> |
 
-
-### 材质理解
 
 ### 例 10: 多材质字母雕塑
 
@@ -125,7 +127,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example10.jpg" width="320" alt="例 10 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example10.webp" width="320" alt="例 10 生成结果"> |
 
 
 ### 例 11: 多材质微信 Logo 合集
@@ -136,12 +138,10 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example11.jpg" width="320" alt="例 11 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example11.webp" width="320" alt="例 11 生成结果"> |
 
 
 ## 字体与海报设计
-
-### 中文字体渲染
 
 ### 例 12: 篆刻风格书法设计
 
@@ -151,7 +151,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example12.jpg" width="320" alt="例 12 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example12.webp" width="320" alt="例 12 生成结果"> |
 
 
 ### 例 13: 字体风格大全海报
@@ -162,10 +162,8 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example13.jpg" width="320" alt="例 13 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example13.webp" width="320" alt="例 13 生成结果"> |
 
-
-### 海报设计
 
 ### 例 14: 国潮端午节海报
 
@@ -175,7 +173,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example14.jpg" width="320" alt="例 14 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example14.webp" width="320" alt="例 14 生成结果"> |
 
 
 ### 例 15: 宇宙风微信启动页
@@ -186,7 +184,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example15.jpg" width="320" alt="例 15 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example15.webp" width="320" alt="例 15 生成结果"> |
 
 
 ### 例 16: 国庆主题电影海报
@@ -197,12 +195,10 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example16.jpg" width="320" alt="例 16 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example16.webp" width="320" alt="例 16 生成结果"> |
 
 
 ## 图标、表情与配图
-
-### PPT 配图
 
 ### 例 17: 大模型训练阶段环形图
 
@@ -212,7 +208,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example17.jpg" width="320" alt="例 17 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example17.webp" width="320" alt="例 17 生成结果"> |
 
 
 ### 例 18: 玻璃质感 3D 柱状图
@@ -223,7 +219,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example18.jpg" width="320" alt="例 18 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example18.webp" width="320" alt="例 18 生成结果"> |
 
 
 ### 例 19: 企业层级金字塔
@@ -234,10 +230,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example19.jpg" width="320" alt="例 19 生成结果"> |
-
-
-### Logo 与图标
+| <img src="/images/text-to-image/hunyuan-image-3-0/example19.webp" width="320" alt="例 19 生成结果"> |
 
 ### 例 20: “乔木” 篆意标志
 
@@ -247,7 +240,7 @@ tags:
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example20.jpg" width="320" alt="例 20 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example20.webp" width="320" alt="例 20 生成结果"> |
 
 
 ### 例 21: QM 融合极简 Logo
@@ -258,8 +251,7 @@ LOGO 设计，品牌标志，极简，图形设计，“Q”“M” 巧妙地创
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example21.jpg" width="320" alt="例 21 生成结果"> |
-
+| <img src="/images/text-to-image/hunyuan-image-3-0/example21.webp" width="320" alt="例 21 生成结果"> |
 
 ### 例 22: 生活用品线描 Icon 合集
 
@@ -269,8 +261,7 @@ LOGO 设计，品牌标志，极简，图形设计，“Q”“M” 巧妙地创
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example22.jpg" width="320" alt="例 22 生成结果"> |
-
+| <img src="/images/text-to-image/hunyuan-image-3-0/example22.webp" width="320" alt="例 22 生成结果"> |
 
 ### 例 23: Liquid Glass App Icons
 
@@ -280,8 +271,7 @@ icon 图标设计，图标顺序依次为：Safari 浏览器、邮件、信息�
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example23.jpg" width="320" alt="例 23 生成结果"> |
-
+| <img src="/images/text-to-image/hunyuan-image-3-0/example23.webp" width="320" alt="例 23 生成结果"> |
 
 ### 例 24: 可爱 3D 浏览器图标组
 
@@ -291,10 +281,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example24.jpg" width="320" alt="例 24 生成结果"> |
-
-
-### 表情与头像
+| <img src="/images/text-to-image/hunyuan-image-3-0/example24.webp" width="320" alt="例 24 生成结果"> |
 
 ### 例 25: 恶灵骑士表情包九宫格
 
@@ -304,12 +291,10 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example25.jpg" width="320" alt="例 25 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example25.webp" width="320" alt="例 25 生成结果"> |
 
 
 ## 电商广告与知识推理
-
-### 电商与产品渲染
 
 ### 例 26: 双11 立体字标题
 
@@ -319,7 +304,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example26.jpg" width="320" alt="例 26 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example26.webp" width="320" alt="例 26 生成结果"> |
 
 
 ### 例 27: 黄色花束沐浴露海报
@@ -330,7 +315,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example27.jpg" width="320" alt="例 27 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example27.webp" width="320" alt="例 27 生成结果"> |
 
 
 ### 例 28: QIAOMU 沐浴露系列广告
@@ -341,7 +326,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example28.jpg" width="320" alt="例 28 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example28.webp" width="320" alt="例 28 生成结果"> |
 
 
 ### 例 29: 禧玛诺路亚竿广告
@@ -352,10 +337,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example29.jpg" width="320" alt="例 29 生成结果"> |
-
-
-### 世界知识理解示例
+| <img src="/images/text-to-image/hunyuan-image-3-0/example29.webp" width="320" alt="例 29 生成结果"> |
 
 ### 例 30: 明月寄情插画
 
@@ -365,7 +347,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example30.jpg" width="320" alt="例 30 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example30.webp" width="320" alt="例 30 生成结果"> |
 
 
 ### 例 31: 光合作用四格漫画
@@ -376,7 +358,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example31.jpg" width="320" alt="例 31 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example31.webp" width="320" alt="例 31 生成结果"> |
 
 
 ### 例 32: 雨天出门物品清单
@@ -387,7 +369,7 @@ icon 图标设计，图标顺序依次为：主页、书签、历史记录、下
 
 | 生成结果 |
 |:---:|
-| <img src="/images/text-to-image/hunyuan-image-3-0/example32.jpg" width="320" alt="例 32 生成结果"> |
+| <img src="/images/text-to-image/hunyuan-image-3-0/example32.webp" width="320" alt="例 32 生成结果"> |
 
 
 > 以上提示词均来自原文测试示例，可按需替换主体或风格关键词，探索混元图像 3.0 的更多能力。
