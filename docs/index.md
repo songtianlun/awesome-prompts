@@ -30,6 +30,7 @@
 - [Nano Banana 案例（73+实例）](text-to-image/nano-banana/awesome-nano-banana-images.md)
 - [AI 绘画提示要点（11+要点）](text-to-image/ai-prompt-guide.md)
 - [通用示例](text-to-image/cyberpunk-city.md)
+- [腾讯混元图像 3.0 案例（70+实例）](text-to-image/hunyuan-image-3-0.md)
 
 ### 🎬 文生视频 (Text-to-Video)
 - [示例集合](text-to-video/cinematic-trailer.md)
