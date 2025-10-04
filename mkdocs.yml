@@ -39,6 +39,7 @@ nav:
           - text-to-image/gpt/gpt-image-1.md
   - Text-to-Video:
       - text-to-video/cinematic-trailer.md
+      - text-to-video/awesome-sora2.md
 theme:
   name: material
   custom_dir: overrides
