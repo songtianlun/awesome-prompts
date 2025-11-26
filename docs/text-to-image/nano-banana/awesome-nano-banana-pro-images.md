@@ -160,9 +160,12 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 
 ### 例 7: [小红书风格女星穿搭](https://x.com/servasyy/status/1992891515186925952)（by [@servasyy](https://x.com/servasyy)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case7/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case7/output.jpg" width="300" alt="输出结果"> |
+| 输出示例 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case7/output1.jpg" width="300" alt="输出结果1"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case7/output2.jpg" width="300" alt="输出结果2"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case7/output3.jpg" width="300" alt="输出结果3"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case7/output4.jpg" width="300" alt="输出结果4"> |
 
 **提示词:**
 
@@ -173,9 +176,11 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 风格：小红书博主风格，自然亲和，生活化
 ```
 
+> 提示词在推文评论区，具体内容需访问原推文查看。
+
 ---
 
-### 例 8: [AI 绘画风格转换](https://x.com/dotey/status/1993042754008686712)（by [@dotey](https://x.com/dotey)）
+### 例 8: [Q版表情包生成（LINE风格）](https://x.com/dotey/status/1993042754008686712)（by [@dotey](https://x.com/dotey)）
 
 | 输入 | 输出 |
 |:---:|:---:|
@@ -184,61 +189,101 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 **提示词:**
 
 ```
-将这张照片转换为[风格类型]风格
-风格选项：水彩画、油画、赛博朋克、动漫、素描、像素艺术等
-保持原有构图和主题，只改变艺术风格
+Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown, ensuring accurate depiction of their head accessories.
+
+Arrange the images in a 4x6 layout, featuring common chat phrases or relevant humorous memes.
+Use handwritten-style fonts for text.
+Output must be original—avoid direct copying of the reference image.
+Final image should be in 4K resolution, 16:9 aspect ratio.
 ```
+
+**中文版提示词:**
+
+```
+为我生成图中角色的绘制 Q 版的，LINE 风格的半身像表情包，注意头饰要正确
+彩色手绘风格，使用 4x6 布局，涵盖各种各样的常用聊天语句，或是一些有关的娱乐 meme
+其他需求：不要原图复制。所有标注为手写简体中文。
+生成的图片需为 4K 分辨率 16:9
+```
+
+> 💡 需要上传参考图片作为角色输入。
 
 ---
 
-### 例 9: [产品图 3D 可视化](https://x.com/bozhou_ai/status/1993148760223023422)（by [@bozhou_ai](https://x.com/bozhou_ai)）
+### 例 9: [美食解构海报（垂直堆叠风格）](https://x.com/bozhou_ai/status/1993148760223023422)（by [@bozhou_ai](https://x.com/bozhou_ai)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case9/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case9/output.jpg" width="300" alt="输出结果"> |
+| 输出示例 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case9/output1.jpg" width="300" alt="西红柿炒鸡蛋"> |
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case9/output2.jpg" width="300" alt="红烧肉"> |
+
+**提示词模板结构:**
+
+```
+【总述】：对象 + 风格 + 核心构图（Deconstructed/Vertical stack） + 背景色。
+
+例如：Premium tech poster, deconstructed iPhone 16, vertical stack, pure black background.
+
+【分层列表 1-N】：从上到下，详细描述每一层的材质、颜色、状态。
+
+例如：Layer 1: Ceramic Shield screen; Layer 2: A18 Bionic chip...
+
+【过渡层/留白】：这很重要！ 专门写一层叫 "Empty space/Gap"，加入漂浮的粒子或光效。
+
+【成品层】：最底部放一个完整的产品，形成"零件 vs 整体"的呼应。
+
+【光影归拢】：统一视角（Same perspective），统一光线（Studio lighting, Rim light），统一质感（Hyper-realistic）。
+```
+
+> 💡 **使用说明:** 这是一个通用的解构海报模板，适用于美食、产品、科技产品等各类物品的创意海报制作。详细提示词示例请查看推文。
+
+---
+
+### 例 10: [分格漫画生成（鬼灭风格）](https://x.com/lijigang_com/status/1992900099484320208)（by [@lijigang_com](https://x.com/lijigang_com)）
+
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case10/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
 ```
-创建一个专业的产品 3D 渲染图。
-产品：[产品名称]
-风格：干净的工作室背景，专业照明，突出产品细节
-视角：45度角，展示产品的最佳角度
-材质：逼真的材质渲染，带有自然的阴影和反光
+你是一个擅长中文的日本漫画家，有着强烈的个人手绘风格。《鬼灭之刃》的原始草稿手绘图，你是作者之一。
+
+请使用你擅长的个人漫画线稿图风格, 调用Nano Banana Pro 将如下内容，基于你的理解，生成你的分格漫画手稿图！
+
+不要输出分析内容，直接输出分格漫画图片，图中使用中文表达。
+────────────────
+{你提供的待分析内容在此}
 ```
+
+> 💡 **使用说明:** 将花括号内容替换为你的剧情或故事内容，AI 会自动生成日式漫画分格。
 
 ---
 
-### 例 10: [老照片修复与上色](https://x.com/lijigang_com/status/1992900099484320208)（by [@lijigang_com](https://x.com/lijigang_com)）
+### 例 11: [摄影指导与照片优化](https://x.com/ZeroZ_JQ/status/1993229404093517906)（by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case10/input.jpg" width="300" alt="输入图片（黑白老照片）"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case10/output.jpg" width="300" alt="输出结果（彩色修复）"> |
+| 修改建议批注 | 原图 | 优化后 |
+|:---:|:---:|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case11/annotation.jpg" width="250" alt="AI批注建议"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case11/input.jpg" width="250" alt="原图"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case11/output.jpg" width="250" alt="优化后"> |
 
-**提示词:**
-
-```
-修复并为这张黑白老照片上色。
-保持原有人物特征和构图，自然的色彩还原，修复照片瑕疵和划痕。
-提高分辨率和清晰度。
-```
-
----
-
-### 例 11: [动漫角色真人化](https://x.com/ZeroZ_JQ/status/1993229404093517906)（by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)）
-
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case11/input.jpg" width="300" alt="输入图片（动漫角色）"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case11/output.jpg" width="300" alt="输出结果（真人风格）"> |
-
-**提示词:**
+**使用方法:**
 
 ```
-将这个动漫角色转换为真人照片风格。
-保持角色的核心特征：发型、发色、眼睛颜色、服装等
-风格：专业人像摄影，自然光线，逼真的皮肤纹理
-背景：[简洁/虚化/工作室背景]
+学习摄影靠 Nano Banana！让 AI 为你调整和修改照片，提供专业的摄影指导建议。
+
+步骤：
+1. 上传你拍摄的照片
+2. 让 Nano Banana Pro 分析并提供修改建议（会生成标注图）
+3. 根据建议生成优化后的照片
+
+功能：
+- AI 自动分析照片构图、光线、色彩等问题
+- 提供专业的修改建议批注
+- 生成优化后的效果图
 ```
+
+> 💡 **使用说明:** 这是一个摄影学习和照片优化的创新用法，AI 会像摄影老师一样给出批注和改进建议。
 
 ---
 
@@ -260,22 +305,34 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 
 ---
 
-### 例 13: [美食摄影增强](https://x.com/berryxia_ai/status/1992989895850430908)（by [@berryxia_ai](https://x.com/berryxia_ai)）
+### 例 13: [高级美食解构海报（担担面示例）](https://x.com/berryxia_ai/status/1992989895850430908)（by [@berryxia_ai](https://x.com/berryxia_ai)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case13/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case13/output.jpg" width="300" alt="输出结果"> |
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case13/output.jpg" width="300" alt="担担面解构海报"> |
 
-**提示词:**
+**提示词核心结构:**
 
 ```
-将这张美食照片提升为专业美食摄影作品。
-光线：柔和的自然光或专业摄影棚灯光
-摆盘：优化食物摆盘和构图
-色彩：增强食物的色泽和质感
-细节：突出食物的新鲜度和诱人细节
-背景：简洁优雅，不抢主体
+At the very top center of the composition, floating prominently above the ingredient layers, is a luxurious title label. The text reads "[菜名 ENGLISH NAME]" rendered in expressive, handwritten Chinese brush calligraphy (毛笔字) style. The lettering possesses a heavy, three-dimensional sculpted gold metal texture (金属质感) with a brushed finish, warm golden sheen, and realistic metallic reflections catching the dramatic studio lighting.
+
+Premium Chinese [food type] restaurant food poster featuring deconstructed layers of [Dish Name] floating in vertical stack on pure black background (#000000).
+
+Seven distinct layers from top to bottom (below the main gold title) with extra spacing before the final dish:
+* Top layer: [主要调料描述]
+* Second layer: [配料1描述]
+* Third layer: [主食材描述，如面条]
+* Fourth layer: [配菜描述]
+* Fifth layer: [汤底/酱汁描述]
+* Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room
+* Bottom/Final layer (with significantly larger gap above): a complete finished dish...
+
+Chinese and English bilingual labels with elegant arrows pointing to each component.
+
+NO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures. Subtle steam effects, oil droplets floating around layers. Star sparkle effect in bottom right corner. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
 ```
+
+> 💡 **使用说明:** 这是一个完整的美食解构海报模板，适合制作高端餐厅菜品宣传海报。可替换菜名和食材描述来生成不同菜品。完整提示词详见推文。
 
 ---
 
