@@ -6,29 +6,11 @@ tags:
   - NanoBananaPro
 ---
 
-> 说明：本页模仿「Nano Banana 精选图集」的结构，持续收集与整理 Nano Banana Pro 的可复现案例（提示词 + 输入/输出）。上方将逐步补全带图示与提示词的“例 X”，文末保留原始链接作为参考文献。
-
 ## 🍌 Introduction
 
 欢迎来到 Nano-banana Pro 提示词与案例合集！
 
 Nano Banana Pro 是 Google 推出的高级图像生成与编辑模型，支持文生图、图生图、图像编辑等多种功能。本文档收录来自 X/Twitter 社区的优秀案例，帮助你快速上手并发挥 Nano Banana Pro 的强大能力。
-
-### 📚 文档包含内容
-
-- **输入/输出效果图**：直观展示效果对比
-- **可复现提示词**：可直接复制使用的提示词模板
-- **使用说明**：必要的参数说明与注意事项
-- **实战案例**：15+ 个不同应用场景的实例
-
-### 🎯 适用场景
-
-- **创意设计**：插画风格转换、艺术风格迁移
-- **照片编辑**：老照片修复、图像增强、风格化处理
-- **商业应用**：产品可视化、建筑渲染、美食摄影
-- **个性化创作**：虚拟形象、时间穿越、角色设计
-
-喜欢就点 ⭐ Star 收藏，欢迎 PR 一起完善！
 
 ## 🖼️ 例子
 
@@ -120,23 +102,30 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 
 ---
 
-### 例 5: [词汇标注（记忆宫殿：宠物商店）](https://x.com/lxfater/status/1993238777033105634)（by [@lxfater](https://x.com/lxfater)）
+### 例 5: [词汇标注识字小报（记忆宫殿学习法）](https://x.com/lxfater/status/1993238777033105634)（by [@lxfater](https://x.com/lxfater)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case5/input.jpg" width="300" alt="输入图片/主题"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case5/output.jpg" width="300" alt="输出结果（带三行标注）"> |
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case5/output.jpg" width="300" alt="输出结果（带三行标注）"> |
 
 **提示词:**
 
 ```
-为我绘制一个详细的「宠物商店」场景，并标注所有物体的英语单词。
-标注格式：
-第一行：英文单词
-第二行：音标（国际音标 IPA 格式）
-第三行：中文翻译
+不用操心给孩子做识字小报了
+
+铁锤花了一下午，研究出识字小报元提示词
+
+输入元提示词，就会问你
+
+主题是什么
+标题是什么
+
+轻松生成给孩子的识字小报
+
+元提示词放评论区
 ```
 
-> 将「宠物商店」替换为你的学习主题，如「厨房」「卧室」「超市」。
+> 💡 **使用说明:** 这是一个通用模板，可生成任意主题的识字小报。将主题替换为「宠物商店」「游乐园」「厨房」「卧室」「超市」等场景，AI会自动生成配图并标注英文单词、音标和中文翻译。
 
 ---
 
@@ -158,7 +147,7 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 
 ---
 
-### 例 7: [小红书风格女星穿搭](https://x.com/servasyy/status/1992891515186925952)（by [@servasyy](https://x.com/servasyy)）
+### 例 7: [小红书风格穿搭信息图（带单品推荐）](https://x.com/servasyy/status/1992891515186925952)（by [@servasyy](https://x.com/servasyy)）
 
 | 输出示例 |
 |:---:|
@@ -170,13 +159,20 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 **提示词:**
 
 ```
-小红书风格的女性时尚穿搭照片。自然光线，清新干净的背景，展现日常穿搭的高级感。
-服装：[描述具体穿搭风格，如"针织开衫+白色T恤+牛仔裤"]
-场景：[描述场景，如"咖啡厅/街道/公园"]
-风格：小红书博主风格，自然亲和，生活化
+Nano Banana Pro不太注意肖像权哦
+
+来几张女星，小红书风格穿搭指南
+
+提示词在评论区👇
 ```
 
-> 提示词在推文评论区，具体内容需访问原推文查看。
+**使用方法：**
+生成小红书风格的时尚穿搭信息图，包含：
+1. 左侧：真人街拍穿搭效果图
+2. 右侧：单品清单，展示具体服装和配饰单品，包括品牌和价格信息
+3. 风格：小红书典型的拼图排版，简洁清爽
+
+> 💡 **使用说明:** 提示词在推文评论区。可生成多种穿搭风格，如格纹外套+黑包、橘色夹克+牛仔裤、黑色卫衣+短裙等，右侧自动匹配相应的单品推荐。
 
 ---
 
@@ -287,21 +283,36 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 
 ---
 
-### 例 12: [建筑设计概念图](https://x.com/ZeroZ_JQ/status/1992818675376906723)（by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)）
+### 例 12: [英语词汇动词卡片（儿童教学）](https://x.com/ZeroZ_JQ/status/1992818675376906723)（by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case12/input.jpg" width="300" alt="输入图片"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case12/output.jpg" width="300" alt="输出结果"> |
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case12/output.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
 ```
-创建一个现代建筑设计概念图。
-建筑类型：[住宅/商业/公共建筑]
-风格：[现代主义/未来主义/极简主义]
-环境：展示建筑在环境中的效果，包括周围景观
-渲染：专业建筑可视化，带有真实的光影效果
+最近有点上头背单词和毛玻璃
+
+那就结合一下！
+
+🍌启动！！
+
+创建一组 2x2 的英语动词教学卡片，如 Run（跑）、Jump（跳）、Laugh（笑）、Lie（躺）等。
+
+格式要求：
+- 每张卡片展示一个动作的卡通儿童插图
+- 顶部显示英文单词（如"Run"）
+- 下方列出：
+  - 同义词（Synonyms）
+  - 反义词（Antonyms）
+  - 例句（Example）
+- 使用温暖明亮的背景色（蓝天、绿地等自然场景）
+- 插画风格：可爱的3D卡通儿童角色
+- 适合儿童学习，视觉友好
 ```
+
+> 💡 **使用说明:** 这是一个英语教学卡片模板，可替换不同的动词单词生成学习卡片，适合制作儿童英语教材。
 
 ---
 
@@ -336,25 +347,91 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 
 ---
 
-### 例 14: [服装设计可视化](https://x.com/servasyy/status/1992800747830816768)（by [@servasyy](https://x.com/servasyy)）
+### 例 14: [美食教学信息图（手绘风格食谱）](https://x.com/servasyy/status/1992800747830816768)（by [@servasyy](https://x.com/servasyy)）
 
-| 输入 | 输出 |
-|:---:|:---:|
-| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case14/input.jpg" width="300" alt="输入图片（草图/设计稿）"> | <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case14/output.jpg" width="300" alt="输出结果（成品效果）"> |
+| 输出 |
+|:---:|
+| <img src="/images/text-to-image/nano-banana/awesome-nano-banana-pro-images/case14/output.jpg" width="300" alt="输出结果"> |
 
-**提示词:**
+**提示词核心结构:**
 
 ```
-将服装设计草图转换为真实的成品效果图。
-模特：专业时装模特
-场景：T台/工作室/户外场景
-光线：专业摄影布光
-细节：展现服装的面料质感、剪裁和设计细节
+中午了，午饭怎么吃？
+用 @cnyzgkc 的提示词做了红烧肉
+
+提示词如下：
+
+手绘风格教学食谱信息图。
+
+整体风格要求：
+• 由专业厨师写给普通人的教学食谱
+• 使用 Z 字形动线排版（左上 → 右上 → 左下）,阅读顺畅
+• 彩色水彩笔速写风格，搭配细腻墨线轮廓
+• 采用 2025 主流插画配色与笔触
+• 米色纸张纹理背景，温暖、质朴、亲切
+• 插图必须让人"看了就想做"
+
+—————
+
+内容结构（通用）
+
+1. 顶部标题（醒目）
+
+《[菜名]》
+
+—————
+
+2. 步骤区块（Z动线排版，3~5步）
+
+每个步骤包含：
+
+• 小标题 + 步骤图（手绘水彩 + 墨线描边）
+• 每步附简短文字说明（如"翻炒至变色"）
+• 步骤间有视觉引导箭头或虚线连接
+
+示例格式：
+
+步骤 1️⃣：[标题]
+→ 插图
+→ 简要说明（1~2行）
+
+步骤 2️⃣：[标题]
+→ 插图
+→ 简要说明
+
+...以此类推
+
+—————
+
+3. 额外提示框（可选，放在留白处）
+
+• 标题："💡小贴士" 或 "⚠️注意事项"
+• 内容：关键技巧 / 常见错误 / 替代食材建议
+
+—————
+
+4. 装饰元素（适量点缀）
+
+• 食材小图标（蔬菜、调料瓶、锅具等）
+• 手写风格注释或表情符号
+• 边角小插画（如飘香符号、爱心等）
+
+—————
+
+视觉氛围总结
+
+✅ 温暖、友好、易读
+✅ Z字动线自然流畅
+✅ 水彩+线条结合的质感
+✅ 信息层次清晰，一目了然
+✅ 插图让人"看完就想动手试试"
 ```
+
+> 💡 **使用说明:** 这是一个通用的美食教学信息图模板，可替换不同菜品生成手绘风格食谱。将「[菜名]」替换为具体菜品，如「红烧肉」「西红柿炒鸡蛋」等。
 
 ---
 
-### 例 15: [游戏角色概念设计](https://x.com/cellinlab/status/1992880634096959811)（by [@cellinlab](https://x.com/cellinlab)）
+### 例 15: [工程爆炸图（复古技术插图）](https://x.com/cellinlab/status/1992880634096959811)（by [@cellinlab](https://x.com/cellinlab)）
 
 | 输入 | 输出 |
 |:---:|:---:|
@@ -363,15 +440,14 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 **提示词:**
 
 ```
-创建游戏角色概念设计图。
-角色类型：[战士/法师/刺客/等]
-风格：[奇幻/科幻/蒸汽朋克/等]
-展示：全身角色设计，包括服装、武器、配饰细节
-背景：简洁的概念设计背景或相关环境
-艺术风格：专业游戏美术风格，高细节度
+呀～酷！
+
+提示词见图片描述
+
+Prompt: 请创建该物连接的复古风格工程爆炸图，里面的文字是中文
 ```
 
-> 💡 **说明：** 以上例 7-15 的案例框架已创建，需要补充实际的提示词和效果图。这些案例基于参考链接中的推文整理，具体内容需要访问对应推文获取详细信息。
+> 💡 **使用说明:** 这是一个工程爆炸图生成模板，可以上传任何物品的图片（如 AK-47、iPhone、相机等），AI 会生成该物品的复古风格工程解剖图，展示内部结构和各部件名称（中文标注）。适合制作技术说明书、教学材料或设计海报。
 
 ---
 
