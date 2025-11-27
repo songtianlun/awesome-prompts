@@ -1,5 +1,5 @@
 ---
-title: Nano-banana Pro 精选图集（提示词/案例）
+title: Nano-banana Pro 精选图集
 tags:
   - TextToImage
   - NanoBanana
