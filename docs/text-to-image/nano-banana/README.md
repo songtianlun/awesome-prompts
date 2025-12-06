@@ -3,3 +3,4 @@
 - https://opennana.com/awesome-prompt-gallery/
 - https://aiart.pics/
 - https://youmind.com/zh-CN/nano-banana-pro-prompts
+- https://picotrex.github.io/Awesome-Nano-Banana-images/
