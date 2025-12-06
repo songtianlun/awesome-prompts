@@ -2,6 +2,8 @@
 
 欢迎来到 **精选提示词库**，本项目按模态和任务类型整理常用提示词，并提供多语言支持。
 
+推荐在 [AI 创作阁楼](https://ailoft.net/) 尝试这些提示词，使用方便，价格便宜，注册即送积分。
+
 <!-- prmbr-horizon -->
 <ins class="adsbygoogle"
      style="display:block"
