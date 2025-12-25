@@ -85,6 +85,8 @@ theme:
     repo: fontawesome/brands/github
 extra_css:
   - stylesheets/code.css
+extra_javascript:
+  - assets/javascripts/ads.js
 extra:
   analytics:
     provider: google
