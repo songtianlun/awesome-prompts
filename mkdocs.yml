@@ -41,6 +41,50 @@ nav:
   - Text-to-Video:
       - text-to-video/cinematic-trailer.md
       - text-to-video/awesome-sora2.md
+  - OpenClaw101:
+      - openclaw101/index.md
+      - 社交媒体:
+          - openclaw101/usecases/daily-reddit-digest.md
+          - openclaw101/usecases/daily-youtube-digest.md
+          - openclaw101/usecases/x-account-analysis.md
+          - openclaw101/usecases/multi-source-tech-news-digest.md
+      - 创意与构建:
+          - openclaw101/usecases/overnight-mini-app-builder.md
+          - openclaw101/usecases/youtube-content-pipeline.md
+          - openclaw101/usecases/content-factory.md
+          - openclaw101/usecases/autonomous-game-dev-pipeline.md
+          - openclaw101/usecases/podcast-production-pipeline.md
+      - 基础设施与 DevOps:
+          - openclaw101/usecases/n8n-workflow-orchestration.md
+          - openclaw101/usecases/self-healing-home-server.md
+      - 生产力:
+          - openclaw101/usecases/autonomous-project-management.md
+          - openclaw101/usecases/multi-channel-customer-service.md
+          - openclaw101/usecases/phone-based-personal-assistant.md
+          - openclaw101/usecases/inbox-declutter.md
+          - openclaw101/usecases/personal-crm.md
+          - openclaw101/usecases/health-symptom-tracker.md
+          - openclaw101/usecases/multi-channel-assistant.md
+          - openclaw101/usecases/project-state-management.md
+          - openclaw101/usecases/dynamic-dashboard.md
+          - openclaw101/usecases/todoist-task-manager.md
+          - openclaw101/usecases/family-calendar-household-assistant.md
+          - openclaw101/usecases/multi-agent-team.md
+          - openclaw101/usecases/aionui-cowork-desktop.md
+          - openclaw101/usecases/custom-morning-brief.md
+          - openclaw101/usecases/meeting-notes-action-items.md
+          - openclaw101/usecases/habit-tracker-accountability-coach.md
+          - openclaw101/usecases/second-brain.md
+          - openclaw101/usecases/event-guest-confirmation.md
+          - openclaw101/usecases/phone-call-notifications.md
+      - 研究与学习:
+          - openclaw101/usecases/earnings-tracker.md
+          - openclaw101/usecases/knowledge-base-rag.md
+          - openclaw101/usecases/market-research-product-factory.md
+          - openclaw101/usecases/pre-build-idea-validator.md
+          - openclaw101/usecases/semantic-memory-search.md
+      - 金融与交易:
+          - openclaw101/usecases/polymarket-autopilot.md
 theme:
   name: material
   custom_dir: overrides
