@@ -4,6 +4,12 @@
 
 推荐在 [AI 创作阁楼](https://ailoft.net/) 尝试这些提示词，使用方便，价格便宜，注册即送积分。
 
+## 加入微信交流群
+
+欢迎扫码添加微信，或在微信搜索微信号 `frytea26`，加入微信交流群，一起交流讨论提示词、AI 创作与工具实践。
+
+<img src="/assets/wechat-tls2.jpg" width="220" alt="微信二维码">
+
 <!-- prmbr-horizon -->
 <ins class="adsbygoogle"
      style="display:block"
