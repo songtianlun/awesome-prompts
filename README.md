@@ -19,3 +19,13 @@ To join the WeChat community, scan the QR code below or search WeChat ID `frytea
 欢迎扫码添加微信，或在微信搜索微信号 `frytea26`，加入微信交流群，一起交流讨论提示词、AI 创作与工具实践。
 
 <img src="docs/assets/wechat-tls2.jpg" width="220" alt="微信二维码">
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=songtianlun%2Fawesome-prompts&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=songtianlun/awesome-prompts&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=songtianlun/awesome-prompts&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=songtianlun/awesome-prompts&type=timeline&legend=top-left" />
+ </picture>
+</a>
