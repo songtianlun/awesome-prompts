@@ -27,6 +27,11 @@ tags:
 | [Post-Edit Test Guard](#post-edit-test-guard) | 每批文件编辑后运行相关测试，提前发现回归 | 事件 | `npm test -- --findRelatedTests <edited files>` | 相关测试通过 |
 | [Pre-Commit Guard](#pre-commit-guard) | 提交前运行测试，阻止红灯提交 | 事件 | `npm test` | 提交前测试通过 |
 | [Deploy Verification Loop](#deploy-verification-loop) | 部署后定时检查健康检查与冒烟端点 | 定时 | `curl -fsS <your-health-url>` | 所有端点成功 |
+| [Guardrails Learning Loop](#guardrails-learning-loop) | 同类失败重复出现时，把经验写入 guardrails | 手动 | `npm test && npm run lint` | 测试和 Lint 通过，且不重复旧失败模式 |
+| [Flaky Test Triage](#flaky-test-triage) | 反复运行失败测试，区分 flaky 与真实回归 | 手动 | `npm test -- --testPathPattern=<failing-suite>` | 失败均已分类，真实回归已修复或延期 |
+| [Docs Sync After Edits](#docs-sync-after-edits) | 代码变更后同步 README、API 文档和注释 | 手动 | `git diff main...HEAD --name-only` | 受影响文档已更新并验证 |
+| [npm Audit Fix Loop](#npm-audit-fix-loop) | 逐个修复高危或严重 npm audit 漏洞 | 手动 | `npm audit --audit-level=high && npm test` | 无 high/critical 漏洞 |
+| [A11y Audit Until Clean](#a11y-audit-until-clean) | 对变更 UI 运行无障碍审计，修复严重问题 | 手动 | `npm run test:a11y` | 无障碍审计退出码为 0 |
 
 ## 通用防作弊规则
 
@@ -177,6 +182,165 @@ Max iterations: 8.
 Between iterations run: curl -fsS <your-health-url>
 Exit when: every configured endpoint succeeds.
 Step 1: Hit health/smoke URLs. If any fail, inspect deploy logs and fix or escalate.
+```
+
+
+## Guardrails Learning Loop
+
+**适用场景：** 当测试或 Lint 以相同方式失败两次时，把可复用的“护栏标记”写入 `.ralph/guardrails.md`，让下一轮迭代避免重复犯错。
+
+**工作步骤：**
+
+1. 读取 `.ralph/guardrails.md` 中已有的护栏。
+2. 运行测试和 Lint，观察失败模式是否重复。
+3. 如果同类失败第二次出现，先追加一条 guardrail sign，再修复问题。
+4. 每轮修复后重新运行检查，直到所有检查通过。
+
+**Kickoff Prompt：**
+
+```text
+Start the "Guardrails Learning Loop" loop.
+
+Goal: tests and lint pass without repeating prior failure patterns
+Max iterations: 12
+Between iterations run: npm test && npm run lint
+Exit when: all checks pass
+
+Step 1: Read .ralph/guardrails.md, run checks, and if a failure repeats, add a sign before fixing.
+
+Self-pace this loop. After each iteration, run the check command, read the output, and only continue if the exit condition is not met. Stop when the exit condition passes or max iterations is reached. Give a short status update each pass.
+
+Guardrails (do not skip):
+- Do not modify the check command or exit criteria to force success
+- Do not skip, disable, or bypass checks to pass the exit condition
+- If stuck after several iterations, stop and report blockers instead of gaming metrics
+```
+
+## Flaky Test Triage
+
+**适用场景：** 某个测试套件失败但不确定是否为 flaky，需要反复运行并分类，避免把不稳定测试与真实回归混在一起处理。
+
+**工作步骤：**
+
+1. 多次运行失败的测试套件。
+2. 将每个失败分类为 flaky 或真实回归。
+3. 只修复已确认的真实回归。
+4. 记录 flaky 行为，必要时明确延期处理。
+
+**Kickoff Prompt：**
+
+```text
+Start the "Flaky Test Triage" loop.
+
+Goal: classify failing tests as flaky vs real and fix only real regressions
+Max iterations: 5
+Between iterations run: npm test -- --testPathPattern=<failing-suite>
+Exit when: every failure is classified and real regressions are fixed or explicitly deferred
+
+Step 1: Run the failing suite multiple times. Classify each failure, fix real ones, and document flaky behavior.
+
+Self-pace this loop. After each iteration, run the check command, read the output, and only continue if the exit condition is not met. Stop when the exit condition passes or max iterations is reached. Give a short status update each pass.
+
+Guardrails (do not skip):
+- Do not modify the check command or exit criteria to force success
+- Do not skip, disable, or bypass checks to pass the exit condition
+- If stuck after several iterations, stop and report blockers instead of gaming metrics
+- Do not weaken, delete, or skip tests to make the suite pass
+- Do not replace real assertions with trivial always-pass tests
+- Prefer fixing production code over patching tests to go green
+```
+
+## Docs Sync After Edits
+
+**适用场景：** 代码修改后需要同步 README、API reference、示例和行内注释，防止文档与实现脱节。
+
+**工作步骤：**
+
+1. 查看当前分支相对 `main` 的改动文件。
+2. 找出受影响的 README、API 文档、示例和行内注释。
+3. 更新过期内容，并核对描述与当前代码一致。
+4. 重新检查 diff，确认相关文档已覆盖。
+
+**Kickoff Prompt：**
+
+```text
+Start the "Docs Sync After Edits" loop.
+
+Goal: documentation matches the current code changes
+Max iterations: 3
+Between iterations run: git diff main...HEAD --name-only
+Exit when: all affected docs are updated and verified
+
+Step 1: Review the diff, find stale docs, update them, and verify accuracy.
+
+Self-pace this loop. After each iteration, run the check command, read the output, and only continue if the exit condition is not met. Stop when the exit condition passes or max iterations is reached. Give a short status update each pass.
+
+Guardrails (do not skip):
+- Do not modify the check command or exit criteria to force success
+- Do not skip, disable, or bypass checks to pass the exit condition
+- If stuck after several iterations, stop and report blockers instead of gaming metrics
+```
+
+## npm Audit Fix Loop
+
+**适用场景：** `npm audit` 发现 high 或 critical 漏洞，需要逐个选择安全修复并验证测试，而不是盲目执行破坏性 `npm audit fix --force`。
+
+**工作步骤：**
+
+1. 选择一个 high/critical advisory。
+2. 应用最安全、影响最小的修复方案。
+3. 运行 audit 和测试验证。
+4. 通过后再处理下一个 advisory。
+
+**Kickoff Prompt：**
+
+```text
+Start the "npm Audit Fix Loop" loop.
+
+Goal: no high or critical npm audit vulnerabilities
+Max iterations: 10
+Between iterations run: npm audit --audit-level=high && npm test
+Exit when: npm audit reports no high/critical issues
+
+Step 1: Pick one high/critical advisory, apply the safest fix, run tests, and repeat.
+
+Self-pace this loop. After each iteration, run the check command, read the output, and only continue if the exit condition is not met. Stop when the exit condition passes or max iterations is reached. Give a short status update each pass.
+
+Guardrails (do not skip):
+- Do not modify the check command or exit criteria to force success
+- Do not skip, disable, or bypass checks to pass the exit condition
+- If stuck after several iterations, stop and report blockers instead of gaming metrics
+```
+
+## A11y Audit Until Clean
+
+**适用场景：** UI 路由有变更后，对变更页面运行自动化无障碍审计，优先修复键盘导航和屏幕阅读器相关的严重问题。
+
+**工作步骤：**
+
+1. 对变更路由运行无障碍审计。
+2. 逐项修复审计发现的 violation。
+3. 优先处理键盘可达性、语义结构和屏幕阅读器体验。
+4. 重复审计，直到命令退出码为 0。
+
+**Kickoff Prompt：**
+
+```text
+Start the "A11y Audit Until Clean" loop.
+
+Goal: zero serious accessibility violations on changed UI
+Max iterations: 8
+Between iterations run: npm run test:a11y
+Exit when: a11y audit exits 0
+
+Step 1: Run the a11y audit on changed routes. Fix each violation, prioritizing keyboard and screen reader issues.
+
+Self-pace this loop. After each iteration, run the check command, read the output, and only continue if the exit condition is not met. Stop when the exit condition passes or max iterations is reached. Give a short status update each pass.
+
+Guardrails (do not skip):
+- Do not modify the check command or exit criteria to force success
+- Do not skip, disable, or bypass checks to pass the exit condition
+- If stuck after several iterations, stop and report blockers instead of gaming metrics
 ```
 
 ## 设计自己的 Loop Prompt 模板
