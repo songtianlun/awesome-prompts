@@ -10,6 +10,7 @@ nav:
       - tags.md
   - Text-to-Text:
       - Programming:
+          - text-to-text/programming/loop-engineering.md
           - text-to-text/programming/javascript-console.md
       - Content Creation:
           - text-to-text/content-creation/advertising-campaign.md
