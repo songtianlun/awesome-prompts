@@ -2,7 +2,7 @@
 
 Welcome to **Awesome Prompts**. The collection is organized by modality and task type with multilingual support.
 
-Try these prompts at [AI Creation Loft](https://ailoft.net/). It's easy to use, affordable, and you get free credits upon registration.
+Try these prompts at [AI Creation Loft](https://new.ailoft.net/). It's easy to use, affordable, and you get free credits upon registration.
 
 ## Join the WeChat Community
 
