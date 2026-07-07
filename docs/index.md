@@ -32,6 +32,7 @@
 - [游戏娱乐篇](text-to-text/game-entertainment.md)
 - [编程开发](text-to-text/programming/javascript-console.md)
 - [内容创作](text-to-text/content-creation/advertising-campaign.md)
+- [AI PPT 版面生成提示词合集](text-to-text/content-creation/ai-ppt-layout-prompts.md)
 
 ### 🎨 文生图 (Text-to-Image)
 - [GPT 案例（100+实例）](text-to-image/gpt/awesome-gpt4o-images.md)
