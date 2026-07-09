@@ -32,6 +32,7 @@ Scan the QR code below or search WeChat ID `frytea26` to join the WeChat communi
 - [Games & Entertainment (ZH)](text-to-text/game-entertainment.md)
 - [Programming](text-to-text/programming/javascript-console.md)
 - [Content Creation](text-to-text/content-creation/advertising-campaign.md)
+- [AI PPT Layout Generation Prompts (ZH)](text-to-text/content-creation/ai-ppt-layout-prompts.md)
 
 ### 🎨 Text-to-Image
 - [Tencent Hunyuan Image 3.0 cases (32 examples)](text-to-image/hunyuan-image-3-0.en.md)
