@@ -4,11 +4,13 @@ Welcome to **Awesome Prompts**. The collection is organized by modality and task
 
 Try these prompts at [AI Creation Loft](https://new.ailoft.net/). It's easy to use, affordable, and you get free credits upon registration.
 
-## Join the WeChat Community
+## Join the Community
 
 Scan the QR code below or search WeChat ID `frytea26` to join the WeChat community and discuss prompts, AI creation, and tools together.
 
 <img src="/assets/wechat-tls2.jpg" width="220" alt="WeChat QR code">
+
+You can also join our QQ group: [click here to join](https://qm.qq.com/q/zPIlAhAzNC) or search group number `1121758805`.
 
 <!-- prmbr-horizon -->
 <ins class="adsbygoogle"
