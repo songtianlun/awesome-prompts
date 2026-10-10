@@ -26,10 +26,10 @@ You can also join our QQ group: [click here to join](https://qm.qq.com/q/zPIlAhA
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=songtianlun%2Fawesome-prompts&type=timeline&legend=top-left">
+<a href="https://star-history.dera.page/#songtianlun/awesome-prompts&type=timeline&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=songtianlun/awesome-prompts&type=timeline&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=songtianlun/awesome-prompts&type=timeline&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=songtianlun/awesome-prompts&type=timeline&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=songtianlun/awesome-prompts&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=songtianlun/awesome-prompts&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=songtianlun/awesome-prompts&type=timeline&legend=top-left" />
  </picture>
 </a>
