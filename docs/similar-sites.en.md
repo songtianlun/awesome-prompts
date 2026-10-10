@@ -77,6 +77,7 @@ Here are some excellent prompt-related resource websites that provide additional
 - [Kimi Practice Form - Feishu Sheet](https://kh18s6uvdi.feishu.cn/share/base/view/shrcnm6JDJzeITUAee3sbsipUee)
 - [WaytoAGI Prompts - Feishu Wiki](https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tbldSgFt2xNUDNAz&view=vewo2g2ktO)
 - [Text-to-Image Examples](https://catjourney.life/)
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - [Curated Prompt Collections](https://dye87dshnj.feishu.cn/wiki/Hv6GwDhoji1ttikSUBUcAjHSnMe)
 - [Moonshot AI Official](https://www.moonshot.cn)
 

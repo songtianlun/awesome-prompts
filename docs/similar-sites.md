@@ -77,6 +77,7 @@
 - [Kimi 实践在线表单 - 飞书表格](https://kh18s6uvdi.feishu.cn/share/base/view/shrcnm6JDJzeITUAee3sbsipUee)
 - [WaytoAGI Prompts - 飞书文档](https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tbldSgFt2xNUDNAz&view=vewo2g2ktO)
 - [文生图实例](https://catjourney.life/)
+- [Eimu](https://eimu.art) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
 - [一些优质 Prompt 精选站](https://dye87dshnj.feishu.cn/wiki/Hv6GwDhoji1ttikSUBUcAjHSnMe)
 - [月之暗面官方](https://www.moonshot.cn)
 
