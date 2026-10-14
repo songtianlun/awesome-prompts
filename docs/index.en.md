@@ -37,6 +37,7 @@ You can also join our QQ group: [click here to join](https://qm.qq.com/q/zPIlAhA
 - [AI PPT Layout Generation Prompts (ZH)](text-to-text/content-creation/ai-ppt-layout-prompts.md)
 
 ### 🎨 Text-to-Image
+- [Visual case gallery (filter and copy)](cases/index.en.md)
 - [Tencent Hunyuan Image 3.0 cases (32 examples)](text-to-image/hunyuan-image-3-0.en.md)
 - [GPT cases (100+examples)](text-to-image/gpt/awesome-gpt4o-images.en.md)
 - [Nano Banana cases (73+examples)](text-to-image/nano-banana/awesome-nano-banana-images.en.md)
