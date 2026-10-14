@@ -194,16 +194,36 @@
         });
       }
 
+      function fallbackCopy(value) {
+        var area = document.createElement("textarea");
+        area.value = value;
+        area.setAttribute("readonly", "");
+        area.style.position = "fixed";
+        area.style.top = "0";
+        area.style.left = "0";
+        area.style.opacity = "0";
+        document.body.appendChild(area);
+        area.focus();
+        area.select();
+        var ok = false;
+        try { ok = document.execCommand("copy"); } catch (error) { ok = false; }
+        document.body.removeChild(area);
+        return ok;
+      }
+
       function copyText(value, button) {
-        var done = function () {
-          var previous = button.textContent;
-          button.textContent = ui.copied;
-          setTimeout(function () { button.textContent = previous; }, 1200);
+        var previous = button.textContent;
+        button.textContent = ui.copied;
+        window.setTimeout(function () {
+          if (button.textContent === ui.copied) button.textContent = previous;
+        }, 1600);
+        var legacy = function () {
+          if (!fallbackCopy(value)) window.prompt(ui.copy, value);
         };
         if (navigator.clipboard && navigator.clipboard.writeText) {
-          navigator.clipboard.writeText(value).then(done).catch(function () { window.prompt(ui.copy, value); });
+          navigator.clipboard.writeText(value).then(function () {}).catch(legacy);
         } else {
-          window.prompt(ui.copy, value);
+          legacy();
         }
       }
 

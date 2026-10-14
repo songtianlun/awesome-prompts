@@ -248,6 +248,10 @@
 }
 
 @media (max-width: 720px) {
+  .case-grid {
+    grid-template-columns: 1fr;
+  }
+
   .case-legacy ul {
     columns: 1;
   }
