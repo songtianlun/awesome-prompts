@@ -236,7 +236,7 @@
             "<figcaption>" + esc(caption) + "</figcaption></figure>";
         }).join("");
         var translation = item.prompt_translations && item.prompt_translations.zh;
-        dialog.innerHTML = '<div class="case-dialog__scroll"><button type="button" class="case-dialog__close" aria-label="' + esc(ui.close) + '">×</button>' +
+        dialog.innerHTML = '<div class="case-dialog__bar"><button type="button" class="case-dialog__close" aria-label="' + esc(ui.close) + '">×</button></div><div class="case-dialog__scroll">' +
           "<h2>" + esc(text(item.title)) + "</h2>" +
           '<p class="case-chips"><span class="case-chip">' + esc(labelOf(data.models, item.model)) + "</span>" +
           '<span class="case-chip">' + esc(labelOf(data.categories, item.category)) + "</span>" +
@@ -265,6 +265,7 @@
           });
         });
         if (!dialog.open) dialog.showModal();
+        document.documentElement.classList.add("case-scroll-lock");
         if (location.hash !== "#" + id) history.replaceState(null, "", location.pathname + location.search + "#" + id);
       }
 
@@ -284,6 +285,7 @@
         draw();
       });
       dialog.addEventListener("close", function () {
+        document.documentElement.classList.remove("case-scroll-lock");
         if (location.hash) history.replaceState(null, "", location.pathname + location.search);
       });
       dialog.addEventListener("click", function (event) {

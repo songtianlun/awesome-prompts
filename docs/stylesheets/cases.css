@@ -145,11 +145,19 @@
   color: var(--md-default-fg-color--light);
 }
 
+html.case-scroll-lock,
+html.case-scroll-lock body {
+  overflow: hidden;
+}
+
 .case-dialog {
+  display: flex;
+  flex-direction: column;
   width: min(960px, calc(100vw - 1.5rem));
-  max-height: min(920px, calc(100vh - 1.5rem));
+  max-height: min(920px, calc(100dvh - 1.5rem));
   margin: auto;
   padding: 0;
+  overflow: hidden;
   border: 1px solid var(--case-line);
   border-radius: 0.9rem;
   background: var(--md-default-bg-color);
@@ -160,15 +168,26 @@
   background: rgba(0, 0, 0, 0.55);
 }
 
+.case-dialog__bar {
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.35rem 0.45rem 0;
+}
+
 .case-dialog__scroll {
-  max-height: min(920px, calc(100vh - 1.5rem));
   overflow: auto;
-  padding: 1rem 1rem 1.25rem;
+  overscroll-behavior: contain;
+  min-height: 0;
+  max-height: calc(min(920px, 100dvh - 1.5rem) - 2.6rem);
+  padding: 0.15rem 1rem 1.25rem;
 }
 
 .case-dialog__close {
-  float: right;
   border: 0;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.4rem;
   background: transparent;
   color: inherit;
   font-size: 1.4rem;
