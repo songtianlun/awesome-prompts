@@ -37,6 +37,7 @@
 - [AI PPT 版面生成提示词合集](text-to-text/content-creation/ai-ppt-layout-prompts.md)
 
 ### 🎨 文生图 (Text-to-Image)
+- [视觉案例库（可筛选、可复制）](cases/index.md)
 - [GPT 案例（100+实例）](text-to-image/gpt/awesome-gpt4o-images.md)
 - [Nano Banana 案例（73+实例）](text-to-image/nano-banana/awesome-nano-banana-images.md)
 - [AI 绘画提示要点（11+要点）](text-to-image/ai-prompt-guide.md)

@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prmbr.com/data/cases.schema.json",
+  "title": "Awesome Prompts visual cases",
+  "type": "object",
+  "required": ["version", "updated", "categories", "models", "cases"],
+  "additionalProperties": true,
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "updated": { "type": "string" },
+    "categories": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/labeled" }
+    },
+    "models": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/labeled" }
+    },
+    "legacy_collections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "href", "model"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "$ref": "#/$defs/i18n" },
+          "href": { "type": "string" },
+          "href_en": { "type": "string" },
+          "model": { "type": "string" },
+          "note": { "$ref": "#/$defs/i18n" }
+        }
+      }
+    },
+    "cases": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/case" }
+    }
+  },
+  "$defs": {
+    "i18n": {
+      "type": "object",
+      "required": ["zh", "en"],
+      "properties": {
+        "zh": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    },
+    "labeled": {
+      "type": "object",
+      "required": ["id", "label"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9.-]*$" },
+        "label": { "$ref": "#/$defs/i18n" }
+      }
+    },
+    "image": {
+      "type": "object",
+      "required": ["role", "src", "alt"],
+      "properties": {
+        "role": { "enum": ["output", "input"] },
+        "src": { "type": "string", "minLength": 1 },
+        "remote": { "type": "boolean" },
+        "alt": { "$ref": "#/$defs/i18n" },
+        "width": { "type": "integer" },
+        "height": { "type": "integer" }
+      }
+    },
+    "case": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "description",
+        "tips",
+        "category",
+        "tags",
+        "model",
+        "modality",
+        "prompt",
+        "prompt_language",
+        "prompt_translations",
+        "images",
+        "source"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "title": { "$ref": "#/$defs/i18n" },
+        "description": { "$ref": "#/$defs/i18n" },
+        "tips": { "$ref": "#/$defs/i18n" },
+        "category": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "model": { "type": "string" },
+        "modality": {
+          "enum": ["text-to-image", "image-editing", "text-to-video", "video-to-image"]
+        },
+        "requires_reference": { "type": "boolean" },
+        "parameters": { "type": "string" },
+        "prompt": { "type": "string", "minLength": 1 },
+        "prompt_language": { "type": "string" },
+        "prompt_translations": {
+          "type": "object",
+          "required": ["zh"],
+          "properties": { "zh": { "type": "string", "minLength": 1 } }
+        },
+        "images": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/image" }
+        },
+        "source": {
+          "type": "object",
+          "required": ["author", "url", "license"],
+          "properties": {
+            "author": { "type": "string" },
+            "author_url": { "type": "string" },
+            "title": { "type": "string" },
+            "url": { "type": "string", "format": "uri" },
+            "section": { "type": "string" },
+            "license": { "type": "string" },
+            "license_url": { "type": "string" },
+            "changes": { "type": "string" },
+            "retrieved": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

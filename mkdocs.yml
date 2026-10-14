@@ -29,6 +29,7 @@ nav:
           - text-to-text/archives/awesome-chatgpt-prompts.md
           - text-to-text/archives/prompts-zh.md
           - GPTS Prompt Collection (Boutique): text-to-text/archives/gpts-prompt-collection/index.md
+  - Case Gallery: cases/index.md
   - Text-to-Image:
       - text-to-image/cyberpunk-city.md
       - text-to-image/ai-prompt-guide.md
@@ -131,6 +132,9 @@ theme:
     repo: fontawesome/brands/github
 extra_css:
   - stylesheets/code.css
+  - stylesheets/cases.css
+extra_javascript:
+  - javascripts/cases.js
 extra:
   analytics:
     provider: google

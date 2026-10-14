@@ -1,0 +1,3264 @@
+{
+  "version": 1,
+  "updated": "2026-10-14",
+  "categories": [
+    {
+      "id": "portrait",
+      "label": {
+        "zh": "人像",
+        "en": "Portraits"
+      }
+    },
+    {
+      "id": "product",
+      "label": {
+        "zh": "产品摄影",
+        "en": "Product shots"
+      }
+    },
+    {
+      "id": "infographic",
+      "label": {
+        "zh": "信息图",
+        "en": "Infographics"
+      }
+    },
+    {
+      "id": "figurine",
+      "label": {
+        "zh": "3D / 手办",
+        "en": "3D and figurines"
+      }
+    },
+    {
+      "id": "style-transfer",
+      "label": {
+        "zh": "风格迁移",
+        "en": "Style transfer"
+      }
+    },
+    {
+      "id": "editing",
+      "label": {
+        "zh": "图像编辑",
+        "en": "Image editing"
+      }
+    },
+    {
+      "id": "video",
+      "label": {
+        "zh": "视频",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "typography",
+      "label": {
+        "zh": "文字排版",
+        "en": "Typography"
+      }
+    },
+    {
+      "id": "logo",
+      "label": {
+        "zh": "标志",
+        "en": "Logos"
+      }
+    },
+    {
+      "id": "fashion",
+      "label": {
+        "zh": "时尚",
+        "en": "Fashion"
+      }
+    },
+    {
+      "id": "comic",
+      "label": {
+        "zh": "连环画",
+        "en": "Comics"
+      }
+    },
+    {
+      "id": "ui",
+      "label": {
+        "zh": "界面",
+        "en": "UI"
+      }
+    },
+    {
+      "id": "illustration",
+      "label": {
+        "zh": "插画",
+        "en": "Illustration"
+      }
+    },
+    {
+      "id": "education",
+      "label": {
+        "zh": "教学图解",
+        "en": "Education"
+      }
+    },
+    {
+      "id": "advertising",
+      "label": {
+        "zh": "广告",
+        "en": "Advertising"
+      }
+    },
+    {
+      "id": "photography",
+      "label": {
+        "zh": "摄影",
+        "en": "Photography"
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "nano-banana-2",
+      "label": {
+        "zh": "Nano Banana 2",
+        "en": "Nano Banana 2"
+      }
+    },
+    {
+      "id": "nano-banana-pro",
+      "label": {
+        "zh": "Nano Banana Pro",
+        "en": "Nano Banana Pro"
+      }
+    },
+    {
+      "id": "nano-banana-2.1",
+      "label": {
+        "zh": "Nano Banana 2.1",
+        "en": "Nano Banana 2.1"
+      }
+    },
+    {
+      "id": "gpt-image-2",
+      "label": {
+        "zh": "GPT Image 2",
+        "en": "GPT Image 2"
+      }
+    },
+    {
+      "id": "sora-2",
+      "label": {
+        "zh": "Sora 2",
+        "en": "Sora 2"
+      }
+    }
+  ],
+  "legacy_collections": [
+    {
+      "id": "nano-banana",
+      "title": {
+        "zh": "Nano Banana 精选图集",
+        "en": "Nano Banana gallery"
+      },
+      "href": "../text-to-image/nano-banana/awesome-nano-banana-images/",
+      "href_en": "../text-to-image/nano-banana/awesome-nano-banana-images/",
+      "model": "nano-banana",
+      "note": {
+        "zh": "既有 Markdown 合集，未迁移正文。",
+        "en": "Existing Markdown collection, left in place."
+      }
+    },
+    {
+      "id": "nano-banana-pro",
+      "title": {
+        "zh": "Nano Banana Pro 精选图集",
+        "en": "Nano Banana Pro gallery"
+      },
+      "href": "../text-to-image/nano-banana/awesome-nano-banana-pro-images/",
+      "href_en": "../text-to-image/nano-banana/awesome-nano-banana-pro-images/",
+      "model": "nano-banana-pro",
+      "note": {
+        "zh": "既有 Markdown 合集，未迁移正文。",
+        "en": "Existing Markdown collection, left in place."
+      }
+    },
+    {
+      "id": "gpt-4o",
+      "title": {
+        "zh": "GPT-4o 精选图集",
+        "en": "GPT-4o gallery"
+      },
+      "href": "../text-to-image/gpt/awesome-gpt4o-images/",
+      "href_en": "../text-to-image/gpt/awesome-gpt4o-images/",
+      "model": "gpt-4o",
+      "note": {
+        "zh": "既有 Markdown 合集，未迁移正文。",
+        "en": "Existing Markdown collection, left in place."
+      }
+    },
+    {
+      "id": "gpt-image-1",
+      "title": {
+        "zh": "gpt-image-1 精选案例",
+        "en": "gpt-image-1 cases"
+      },
+      "href": "../text-to-image/gpt/gpt-image-1/",
+      "href_en": "../text-to-image/gpt/gpt-image-1/",
+      "model": "gpt-image-1",
+      "note": {
+        "zh": "既有 Markdown 合集，未迁移正文。",
+        "en": "Existing Markdown collection, left in place."
+      }
+    },
+    {
+      "id": "sora-2-archive",
+      "title": {
+        "zh": "Sora 2 提示词大全",
+        "en": "Sora 2 prompt archive"
+      },
+      "href": "../text-to-video/awesome-sora2/",
+      "href_en": "../text-to-video/awesome-sora2/",
+      "model": "sora-2",
+      "note": {
+        "zh": "既有 Markdown 合集，未迁移正文。",
+        "en": "Existing Markdown collection, left in place."
+      }
+    },
+    {
+      "id": "hunyuan",
+      "title": {
+        "zh": "混元图像 3.0 案例",
+        "en": "Hunyuan Image 3.0 cases"
+      },
+      "href": "../text-to-image/hunyuan-image-3-0/",
+      "href_en": "../text-to-image/hunyuan-image-3-0/",
+      "model": "hunyuan-image-3",
+      "note": {
+        "zh": "既有 Markdown 合集，未迁移正文。",
+        "en": "Existing Markdown collection, left in place."
+      }
+    }
+  ],
+  "cases": [
+    {
+      "id": "nb2-magazine-cover",
+      "title": {
+        "en": "Glossy magazine cover",
+        "zh": "杂志封面文字"
+      },
+      "description": {
+        "en": "Official Nano Banana 2 example of a store-shelf magazine with exact cover lines and a portrait.",
+        "zh": "Nano Banana 2 官方示例：货架上的杂志封面，封面文字和人像同时出现。"
+      },
+      "tips": {
+        "en": "Put exact words in quotes, name the typeface, and say where the issue number, date, and barcode sit.",
+        "zh": "把必须出现的文字放进引号，写明字体，并指定期号、日期和条码的位置。"
+      },
+      "category": "typography",
+      "tags": [
+        "text-rendering",
+        "editorial",
+        "product"
+      ],
+      "model": "nano-banana-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A photo of a glossy magazine cover, the minimal blue cover has the large bold words Nano Banana. The text is in a serif font and fills the view. No other text. In front of the text there is a portrait of a person in a sleek and minimal dress. She is playfully holding the number 2, which is the focal point. Put the issue number and \"Feb 2026\" date in the corner along with a barcode. The magazine is on a shelf against an orange plastered wall, within a designer store.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一张光面杂志封面的照片。极简的蓝色封面上有巨大的粗体文字 “Nano Banana”。文字使用衬线字体，并占满画面。不要其他文字。文字前方是一位身穿利落极简连衣裙的人像，她俏皮地举着数字 2，这是视觉焦点。把期号和日期 “Feb 2026” 放在角落，并配上条码。杂志放在设计师商店里、一面橙色抹灰墙前的货架上。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb2-magazine-cover-output.webp",
+          "alt": {
+            "en": "Magazine cover result",
+            "zh": "杂志封面结果"
+          },
+          "width": 960,
+          "height": 644
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana 2 — magazine cover",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nbpro-london-isometric",
+      "title": {
+        "en": "Isometric London weather miniature",
+        "zh": "伦敦等距天气微缩"
+      },
+      "description": {
+        "en": "Official Nano Banana Pro example: a 45-degree miniature of London with weather, date, and temperature text.",
+        "zh": "Nano Banana Pro 官方示例：45 度俯视的伦敦微缩场景，带天气、日期和温度文字。"
+      },
+      "tips": {
+        "en": "Specify the camera angle, materials, what real-world data to integrate, and the exact text hierarchy.",
+        "zh": "写明机位角度、材质、要融入的真实信息，以及标题、图标、日期、温度的字号层级。"
+      },
+      "category": "figurine",
+      "tags": [
+        "3d",
+        "infographic",
+        "search-grounding",
+        "text-rendering"
+      ],
+      "model": "nano-banana-pro",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Present a clear, 45° top-down isometric miniature 3D cartoon scene of London, featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood. Use a clean, minimalistic composition with a soft, solid-colored background. At the top-center, place the title \"London\" in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text). All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "呈现一个清晰的、45 度俯视等距微缩 3D 卡通伦敦场景，包含最有代表性的地标和建筑元素。使用柔和精致的纹理、写实的 PBR 材质，以及自然的光照和阴影。把当前天气直接融入城市环境，形成沉浸的氛围。构图干净极简，背景是柔和的纯色。顶部居中放置大号粗体标题 “London”，其下是醒目的天气图标，然后是小号日期和中号温度。所有文字居中、间距一致，可以轻微压住建筑顶部。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nbpro-london-isometric-output.webp",
+          "alt": {
+            "en": "Isometric London result",
+            "zh": "伦敦等距结果"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana Pro — London isometric",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb2-quetzal-wallpaper",
+      "title": {
+        "en": "Search-grounded quetzal wallpaper",
+        "zh": "检索接地的绿咬鹃壁纸"
+      },
+      "description": {
+        "en": "Official Nano Banana 2 example that asks image search for an accurate resplendent quetzal, then a minimal wallpaper.",
+        "zh": "Nano Banana 2 官方示例：先用图像搜索核对凤尾绿咬鹃，再生成极简壁纸。"
+      },
+      "tips": {
+        "en": "Ask the model to look up the subject before drawing it when species accuracy matters, and set the aspect ratio.",
+        "zh": "物种准确性重要时，先要求检索再作画，并写明宽高比。"
+      },
+      "category": "photography",
+      "tags": [
+        "search-grounding",
+        "wildlife"
+      ],
+      "model": "nano-banana-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Use image search to find accurate images of a resplendent quetzal bird. Create a beautiful 3:2 wallpaper of this bird, with a natural top to bottom gradient and minimal composition.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "用图像搜索查找凤尾绿咬鹃的准确图像。创作一张漂亮的 3:2 壁纸，画面是这只鸟，带有自上而下的自然渐变和极简构图。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb2-quetzal-wallpaper-output.webp",
+          "alt": {
+            "en": "Quetzal wallpaper",
+            "zh": "绿咬鹃壁纸"
+          },
+          "width": 960,
+          "height": 644
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana 2 — quetzal wallpaper",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nbpro-banana-perfume",
+      "title": {
+        "en": "Logo locked onto a perfume bottle",
+        "zh": "标志贴合香水瓶"
+      },
+      "description": {
+        "en": "Official Nano Banana Pro edit that places a supplied logo onto a banana-scented perfume advertisement.",
+        "zh": "Nano Banana Pro 官方编辑示例：把提供的标志贴进香蕉香味香水广告。"
+      },
+      "tips": {
+        "en": "Say that the logo must stay intact and describe how it meets the product surface.",
+        "zh": "说明标志必须保持完整，并描述它如何贴合产品表面。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "logo",
+        "advertising"
+      ],
+      "model": "nano-banana-pro",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Put this logo on a high-end ad for a banana scented perfume. The logo is perfectly integrated into the bottle.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把这个标志放到一则高端香蕉香味香水广告上。标志要完美融入瓶身。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nbpro-banana-perfume-output.webp",
+          "alt": {
+            "en": "Perfume ad result",
+            "zh": "香水广告结果"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana Pro — perfume logo",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nbpro-cafe-mixed-media",
+      "title": {
+        "en": "One cafe, three media",
+        "zh": "同一咖啡馆的三种画法"
+      },
+      "description": {
+        "en": "Official Nano Banana Pro example mixing anime, pencil sketch, and claymation people in one breakfast cafe.",
+        "zh": "Nano Banana Pro 官方示例：同一早餐咖啡馆里同时出现动漫、铅笔素描和黏土动画人物。"
+      },
+      "tips": {
+        "en": "Name each medium and which person it applies to, instead of asking for a vague mixed style.",
+        "zh": "写明每一种媒介以及它作用在哪个人物上，而不是只说“混合风格”。"
+      },
+      "category": "style-transfer",
+      "tags": [
+        "style-transfer",
+        "photography"
+      ],
+      "model": "nano-banana-pro",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A photo of an everyday scene at a busy cafe serving breakfast. In the foreground is an anime man with blue hair, one of the people is a pencil sketch, another is a claymation person",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一张忙碌咖啡馆供应早餐的日常场景照片。前景是一位蓝发动漫男子，其中一个人是铅笔素描，另一个是黏土动画人物。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nbpro-cafe-mixed-media-output.webp",
+          "alt": {
+            "en": "Mixed-media cafe",
+            "zh": "混合媒介咖啡馆"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana Pro — cafe",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nbpro-launch-article",
+      "title": {
+        "en": "Search, then a magazine article photo",
+        "zh": "先检索再拍杂志内页"
+      },
+      "description": {
+        "en": "Official Nano Banana Pro example: research a product launch, write a short article, and photograph it as a folded glossy page.",
+        "zh": "Nano Banana Pro 官方示例：检索产品发布反响，写成短文，再拍成折起的光面杂志内页。"
+      },
+      "tips": {
+        "en": "Separate the research step, the writing constraints, and the physical presentation of the page.",
+        "zh": "把检索、写作约束和页面的实物呈现分成三步写清。"
+      },
+      "category": "typography",
+      "tags": [
+        "search-grounding",
+        "text-rendering",
+        "editorial"
+      ],
+      "model": "nano-banana-pro",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Use search to find how the Gemini 3 Flash launch has been received. Use this information to write a short article about it (with headings). Return a photo of the article as it appeared in a design focused glossy magazine. It is a photo of a single folded over page, showing the article about Gemini 3 Flash. One hero photo. Headline in serif.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "用搜索了解 Gemini 3 Flash 发布后的反响。用这些信息写一篇带小标题的短文。把这篇文章做成设计向光面杂志中的一页，并返回这页的照片。照片是单独折起的一页，展示关于 Gemini 3 Flash 的文章。有一张主图。标题使用衬线字体。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nbpro-launch-article-output.webp",
+          "alt": {
+            "en": "Magazine article photo",
+            "zh": "杂志文章照片"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana Pro — launch article",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nbpro-dog-icon",
+      "title": {
+        "en": "Tactile 3D dog icon",
+        "zh": "可触摸的 3D 小狗图标"
+      },
+      "description": {
+        "en": "Official Nano Banana Pro icon example: one cute dog, colorful 3D, white background, no text.",
+        "zh": "Nano Banana Pro 官方图标示例：一只可爱的狗，彩色立体，白底，无文字。"
+      },
+      "tips": {
+        "en": "For icons, forbid text explicitly and describe the material feel, not just the subject.",
+        "zh": "做图标时明确禁止文字，并描述材质手感，而不只是主体。"
+      },
+      "category": "figurine",
+      "tags": [
+        "3d",
+        "icon"
+      ],
+      "model": "nano-banana-pro",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "An icon representing a cute dog. The background is white. Make the icons in a colorful and tactile 3D style. No text.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一个代表可爱小狗的图标。背景为白色。图标采用彩色、有触感的 3D 风格。不要文字。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nbpro-dog-icon-output.webp",
+          "alt": {
+            "en": "3D dog icon",
+            "zh": "3D 小狗图标"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana Pro — dog icon",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb2-isometric-garden",
+      "title": {
+        "en": "Isometric garden photograph",
+        "zh": "等距花园照片"
+      },
+      "description": {
+        "en": "Official Nano Banana 2 example that asks for a real photograph which happens to be perfectly isometric, with a pool shaped like 2.",
+        "zh": "Nano Banana 2 官方示例：一张恰好完全等距的实拍花园，泳池呈数字 2 的形状。"
+      },
+      "tips": {
+        "en": "If you do not want a miniature, say so. Put rendered words in quotes or as an exact phrase.",
+        "zh": "如果不想要微缩模型，要直接说。需要渲染的文字写成原句。"
+      },
+      "category": "photography",
+      "tags": [
+        "text-rendering",
+        "photography"
+      ],
+      "model": "nano-banana-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Make a photo that is perfectly isometric. It is not a miniature, it is a captured photo that just happened to be perfectly isometric. It is a photo of a beautiful modern garden. There's a large 2 shaped pool and the words: Nano Banana 2.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "做一张完全等距的照片。它不是微缩模型，而是一张碰巧完全等距的实拍照片。照片内容是一座漂亮的现代花园。有一个巨大的、呈数字 2 形状的泳池，以及文字：Nano Banana 2。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb2-isometric-garden-output.webp",
+          "alt": {
+            "en": "Isometric garden",
+            "zh": "等距花园"
+          },
+          "width": 960,
+          "height": 644
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generated by Nano Banana 2 — isometric garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-photosynthesis",
+      "title": {
+        "en": "Photosynthesis as a recipe",
+        "zh": "把光合作用做成食谱"
+      },
+      "description": {
+        "en": "Official Nano Banana 2.1 infographic that explains photosynthesis like a children's cookbook page.",
+        "zh": "Nano Banana 2.1 官方信息图：用儿童食谱的方式解释光合作用。"
+      },
+      "tips": {
+        "en": "Name the audience, the metaphor, the ingredients, and the visual format in one brief.",
+        "zh": "在同一段提示里写明读者、比喻、要出现的原料和版式。"
+      },
+      "category": "infographic",
+      "tags": [
+        "infographic",
+        "education",
+        "text-rendering"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a vibrant infographic that explains photosynthesis as if it were a recipe for a plant's favorite food. Show the \"ingredients\" (sunlight, water, CO2) and the \"finished dish\" (sugar/energy). The style should be like a page from a colorful kids' cookbook, suitable for a 4th grader.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张色彩鲜明的信息图，把光合作用解释成植物最喜欢的食物的食谱。展示“原料”（阳光、水、二氧化碳）和“成品”（糖/能量）。风格像一本彩色儿童食谱中的一页，适合四年级学生。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-photosynthesis-output.webp",
+          "alt": {
+            "en": "Photosynthesis infographic",
+            "zh": "光合作用信息图"
+          },
+          "width": 512,
+          "height": 279
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Prompts for generating images — photosynthesis infographic",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-photosynthesis-es",
+      "title": {
+        "en": "Translate the infographic to Spanish",
+        "zh": "把信息图译成西班牙语"
+      },
+      "description": {
+        "en": "Official follow-up edit: change only the language of the photosynthesis infographic.",
+        "zh": "官方后续编辑：只把光合作用信息图的语言改成西班牙语。"
+      },
+      "tips": {
+        "en": "For localization, say what must stay identical. Do not ask for a redesign.",
+        "zh": "做本地化时写明哪些东西必须保持不变，不要要求重新设计。"
+      },
+      "category": "editing",
+      "tags": [
+        "localization",
+        "editing",
+        "text-rendering"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Update this infographic to be in Spanish. Do not change any other elements of the image.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把这张信息图改成西班牙语。不要改变图像中的任何其他元素。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-photosynthesis-es-input.webp",
+          "alt": {
+            "en": "English infographic",
+            "zh": "英文信息图"
+          },
+          "width": 512,
+          "height": 279
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-photosynthesis-es-output.webp",
+          "alt": {
+            "en": "Spanish infographic",
+            "zh": "西班牙语信息图"
+          },
+          "width": 512,
+          "height": 279
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Multi-turn edit — Spanish infographic",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-office-faces",
+      "title": {
+        "en": "Office group with funny faces",
+        "zh": "办公室搞怪合影"
+      },
+      "description": {
+        "en": "Official multi-reference example: one group photo of supplied people, all making funny faces.",
+        "zh": "官方多参考图示例：把提供的几个人合成一张办公室合影，大家都在做鬼脸。"
+      },
+      "tips": {
+        "en": "State that every referenced person must appear, and describe the shared setting in one sentence.",
+        "zh": "说明每位参考人物都要入镜，并用一句话写共同场景。"
+      },
+      "category": "portrait",
+      "tags": [
+        "reference-image",
+        "portrait"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "An office group photo of these people, they are making funny faces.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一张这些人的办公室合影，他们正在做鬼脸。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-office-faces-output.webp",
+          "alt": {
+            "en": "Office group photo",
+            "zh": "办公室合影"
+          },
+          "width": 960,
+          "height": 536
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Use up to 14 reference images — office group",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "aspect_ratio 5:4, image_size 2K, up to five reference images"
+    },
+    {
+      "id": "nb21-sf-weather",
+      "title": {
+        "en": "Five-day San Francisco wear chart",
+        "zh": "旧金山五日穿衣图"
+      },
+      "description": {
+        "en": "Official grounded example: a modern five-day San Francisco forecast plus what to wear.",
+        "zh": "官方检索接地示例：现代风格的旧金山五日预报，并标出每天该穿什么。"
+      },
+      "tips": {
+        "en": "Ask for the live fact first, then the chart style and the extra decision the viewer should make.",
+        "zh": "先要求使用实时信息，再写图表风格和读者需要做的决定。"
+      },
+      "category": "infographic",
+      "tags": [
+        "search-grounding",
+        "infographic"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Visualize the current weather forecast for the next 5 days in San Francisco as a clean, modern weather chart. Add a visual on what I should wear each day",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把旧金山未来 5 天的当前天气预报画成一张干净、现代的天气图。再加上每天我该穿什么的视觉说明。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-sf-weather-output.webp",
+          "alt": {
+            "en": "San Francisco weather chart",
+            "zh": "旧金山天气图"
+          },
+          "width": 512,
+          "height": 279
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Grounding with Google Search — weather chart",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-video-poster",
+      "title": {
+        "en": "Poster from a video",
+        "zh": "由视频生成海报"
+      },
+      "description": {
+        "en": "Official video-to-image example. The documented reference video is a YouTube URL passed beside this prompt.",
+        "zh": "官方视频生图示例。文档中的参考视频是与这条提示一起传入的 YouTube 链接。"
+      },
+      "tips": {
+        "en": "Pass the video as context and ask for one still that captures themes, with an aspect ratio.",
+        "zh": "把视频作为上下文传入，要求一张概括主题的静帧，并指定宽高比。"
+      },
+      "category": "video",
+      "tags": [
+        "video",
+        "poster"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "video-to-image",
+      "requires_reference": true,
+      "prompt": "Generate a poster image that captures the key themes of this video.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "生成一张海报图像，抓住这段视频的关键主题。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-video-poster-output.webp",
+          "alt": {
+            "en": "Poster from the reference video",
+            "zh": "参考视频海报"
+          },
+          "width": 960,
+          "height": 524
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Video-to-image — poster",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "reference video https://www.youtube.com/watch?v=UTdfxFyOQTI ; aspect_ratio 16:9"
+    },
+    {
+      "id": "nb21-butterfly-sketch",
+      "title": {
+        "en": "Da Vinci butterfly study",
+        "zh": "达芬奇式蝴蝶解剖"
+      },
+      "description": {
+        "en": "Official 4K-capable example: an anatomical monarch butterfly study with English notes on parchment.",
+        "zh": "官方高分辨率示例：羊皮纸上的帝王蝶解剖研究，附英文笔记。"
+      },
+      "tips": {
+        "en": "Name the medium, the parts that must be drawn, and the language of any notes.",
+        "zh": "写明媒介、必须画出的部位，以及笔记使用的语言。"
+      },
+      "category": "education",
+      "tags": [
+        "education",
+        "illustration",
+        "text-rendering"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Da Vinci style anatomical sketch of a dissected Monarch butterfly. Detailed drawings of the head, wings, and legs on textured parchment with notes in English.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "达芬奇风格的解剖素描：一只被解剖的帝王蝶。在有纹理的羊皮纸上详细画出头部、翅膀和腿，并用英文作注。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-butterfly-sketch-output.webp",
+          "alt": {
+            "en": "Butterfly anatomical sketch",
+            "zh": "蝴蝶解剖素描"
+          },
+          "width": 512,
+          "height": 279
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Generate images up to 4K — butterfly",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "aspect_ratio 1:1, image_size 1K in the documented request"
+    },
+    {
+      "id": "nb21-red-panda-sticker",
+      "title": {
+        "en": "Kawaii red panda sticker",
+        "zh": "可爱小熊猫贴纸"
+      },
+      "description": {
+        "en": "Official sticker formula filled in: subject, action, line quality, shading, palette, and a white background.",
+        "zh": "官方贴纸公式的填空示例：主体、动作、线条、上色、配色和白底。"
+      },
+      "tips": {
+        "en": "Use the template: a [style] of a [subject] doing [activity], then line, shading, and background.",
+        "zh": "套用模板：某种风格的主体正在做某件事，再写线条、上色和背景。"
+      },
+      "category": "illustration",
+      "tags": [
+        "illustration",
+        "sticker"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A kawaii-style sticker of a happy red panda wearing a tiny bamboo hat. It's munching on a green bamboo leaf. The design features bold, clean outlines, simple cel-shading, and a vibrant color palette. The background must be white.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一张可爱风格贴纸：一只快乐的小熊猫戴着小小的竹叶帽，正在嚼一片绿竹叶。设计有粗而干净的轮廓、简单的赛璐珞上色和鲜艳配色。背景必须是白色。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-red-panda-sticker-output.webp",
+          "alt": {
+            "en": "Red panda sticker",
+            "zh": "小熊猫贴纸"
+          },
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Stylized illustrations and stickers",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-daily-grind-logo",
+      "title": {
+        "en": "The Daily Grind logo",
+        "zh": "The Daily Grind 标志"
+      },
+      "description": {
+        "en": "Official logo example with a shop name, type style, two colors, a circular lockup, and a coffee-bean idea.",
+        "zh": "官方标志示例：店名、字体、黑白两色、圆形锁定，以及咖啡豆的巧思。"
+      },
+      "tips": {
+        "en": "Quote the name, describe the type, limit the colors, and give one concrete symbol idea.",
+        "zh": "用引号写出名称，描述字体，限制颜色，并给出一个具体的符号想法。"
+      },
+      "category": "logo",
+      "tags": [
+        "logo",
+        "text-rendering"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a modern, minimalist logo for a coffee shop called 'The Daily Grind'. The text should be in a clean, bold, sans-serif font. The color scheme is black and white. Put the logo in a circle. Use a coffee bean in a clever way.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "为一间名为 “The Daily Grind” 的咖啡馆设计一个现代极简标志。文字使用干净、粗体、无衬线字体。配色为黑白。把标志放进圆形。用一种巧妙的方式使用咖啡豆。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-daily-grind-logo-output.webp",
+          "alt": {
+            "en": "Coffee shop logo",
+            "zh": "咖啡馆标志"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Accurate text in images — logo",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-ceramic-mug",
+      "title": {
+        "en": "Matte black mug, three-point light",
+        "zh": "三点布光的哑光黑杯"
+      },
+      "description": {
+        "en": "Official product-shot example: material, surface, lighting setup, camera angle, and a sharp steam detail.",
+        "zh": "官方产品摄影示例：材质、台面、布光、机位，以及清晰的蒸汽。"
+      },
+      "tips": {
+        "en": "Write it like a studio order: product, surface, light, lens angle, and the one detail that must be sharp.",
+        "zh": "像下摄影订单一样写：产品、台面、灯光、角度，以及必须清晰的那一个细节。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "photography"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A high-resolution, studio-lit product photograph of a minimalist ceramic coffee mug in matte black, presented on a polished concrete surface. The lighting is a three-point softbox setup designed to create soft, diffused highlights and eliminate harsh shadows. The camera angle is a slightly elevated 45-degree shot to showcase its clean lines. Ultra-realistic, with sharp focus on the steam rising from the coffee. Square image.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一张高分辨率、影棚布光的产品照片：一只极简哑光黑陶瓷咖啡杯，放在抛光混凝土台面上。灯光是三点柔光箱，用来制造柔和的漫射高光并消除硬阴影。机位是略微抬高的 45 度，以展示干净的线条。超写实，咖啡升起的蒸汽清晰对焦。方形画面。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-ceramic-mug-output.webp",
+          "alt": {
+            "en": "Black mug product shot",
+            "zh": "黑杯产品照"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Product mockups and commercial photography",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-maple-leaf",
+      "title": {
+        "en": "Maple leaf and empty space",
+        "zh": "枫叶与留白"
+      },
+      "description": {
+        "en": "Official minimal-composition example with one subject, a stated corner, and room left for later text.",
+        "zh": "官方极简构图示例：单一主体、明确的角落，以及留给后期文字的空白。"
+      },
+      "tips": {
+        "en": "Say where the subject sits and why the empty area exists, so the model does not center everything.",
+        "zh": "写明主体在哪个角落，以及留白是为了什么，避免模型把所有东西都居中。"
+      },
+      "category": "photography",
+      "tags": [
+        "photography",
+        "minimal"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A minimalist composition featuring a single, delicate red maple leaf positioned in the bottom-right of the frame. The background is a vast, empty off-white canvas, creating significant negative space for text. Soft, diffused lighting from the top left. Square image.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "极简构图：一片精致的红枫叶位于画面右下角。背景是大片空的米白色，留出明显的负空间给文字。柔和漫射光来自左上方。方形画面。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-maple-leaf-output.webp",
+          "alt": {
+            "en": "Maple leaf composition",
+            "zh": "枫叶构图"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Minimalist compositions",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-noir-comic",
+      "title": {
+        "en": "Three-panel noir comic",
+        "zh": "三格黑色漫画"
+      },
+      "description": {
+        "en": "Official sequential-art example. The published prompt keeps the source spelling “humurous”.",
+        "zh": "官方连环画示例。公开提示词保留了原文拼写 “humurous”。"
+      },
+      "tips": {
+        "en": "Give the panel count, the ink style, and the reference character. Let the scene stay short.",
+        "zh": "给出格数、油墨风格和参考角色。场景描述保持简短。"
+      },
+      "category": "comic",
+      "tags": [
+        "comic",
+        "reference-image"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Make a 3 panel comic in a gritty, noir art style with high-contrast black and white inks. Put the character in a humurous scene.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "做一套 3 格漫画，采用粗砺的黑色电影画风和高对比黑白油墨。把这个角色放进一个幽默场景。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-noir-comic-input.webp",
+          "alt": {
+            "en": "Reference portrait",
+            "zh": "参考人像"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-noir-comic-output.webp",
+          "alt": {
+            "en": "Noir comic panels",
+            "zh": "黑色漫画分格"
+          },
+          "width": 960,
+          "height": 644
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Sequential art — comic panel",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-arsenal-score",
+      "title": {
+        "en": "Grounded match graphic",
+        "zh": "检索接地的比赛图"
+      },
+      "description": {
+        "en": "Official search-tool example for a simple match graphic. The Python sample spells Champion's with an apostrophe.",
+        "zh": "官方搜索工具示例：一张简单的比赛图。Python 示例里的 Champion's 带撇号，此处保持原文。"
+      },
+      "tips": {
+        "en": "Turn on search grounding when the score must come from the world, and ask for a simple graphic rather than a photograph of the match.",
+        "zh": "比分必须来自真实世界时打开搜索接地，并要求一张简单的图，而不是比赛现场照片。"
+      },
+      "category": "infographic",
+      "tags": [
+        "search-grounding",
+        "infographic",
+        "text-rendering"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Make a simple but stylish graphic of last night's Arsenal game in the Champion's League",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "做一张简单但有风格的图，内容是昨晚阿森纳的欧冠比赛。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-arsenal-score-output.webp",
+          "alt": {
+            "en": "Match graphic",
+            "zh": "比赛图"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Grounding — Arsenal graphic",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-cat-wizard-hat",
+      "title": {
+        "en": "Add a knitted wizard hat",
+        "zh": "给猫加上针织巫师帽"
+      },
+      "description": {
+        "en": "Official add-an-element edit. The runnable sample asks for the hat to sit comfortably and not fall off.",
+        "zh": "官方“添加元素”编辑。可运行示例要求帽子戴得舒服、不会掉下来。"
+      },
+      "tips": {
+        "en": "Name the object, where it attaches, and that lighting should match. Do not redescribe the whole photo.",
+        "zh": "写出要加的物体、它附着的位置，以及光线要匹配。不要把整张照片重写一遍。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "reference-image"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Using the provided image of my cat, please add a small, knitted wizard hat on its head. Make it look like it's sitting comfortably and not falling off.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "使用我提供的猫的照片，请在它头上加一顶小小的针织巫师帽。让帽子看起来戴得很舒服，不会掉下来。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-cat-wizard-hat-input.webp",
+          "alt": {
+            "en": "Original cat photo",
+            "zh": "原猫照片"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-cat-wizard-hat-output.webp",
+          "alt": {
+            "en": "Cat with wizard hat",
+            "zh": "戴巫师帽的猫"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Adding and removing elements — cat hat",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-chesterfield-sofa",
+      "title": {
+        "en": "Swap only the sofa",
+        "zh": "只换掉沙发"
+      },
+      "description": {
+        "en": "Official inpainting-style edit: the blue sofa becomes a brown leather chesterfield; pillows and light stay.",
+        "zh": "官方局部编辑：蓝色沙发换成棕色皮革切斯特菲尔德，靠垫和光线保持不变。"
+      },
+      "tips": {
+        "en": "Use “change only” and then list the things that must not move.",
+        "zh": "使用“只改变”，然后列出不能动的东西。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "product"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Using the provided image of a living room, change only the blue sofa to be a vintage, brown leather chesterfield sofa. Keep the rest of the room, including the pillows on the sofa and the lighting, unchanged.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "使用提供的客厅照片，只把蓝色沙发换成复古的棕色皮革切斯特菲尔德沙发。房间的其余部分保持不变，包括沙发上的靠垫和光线。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-chesterfield-sofa-input.webp",
+          "alt": {
+            "en": "Original living room",
+            "zh": "原客厅"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-chesterfield-sofa-output.webp",
+          "alt": {
+            "en": "Room with chesterfield",
+            "zh": "换沙发后的房间"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Inpainting — sofa swap",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-vangogh-street",
+      "title": {
+        "en": "Night street as Starry Night",
+        "zh": "夜街变成星月夜"
+      },
+      "description": {
+        "en": "Official style transfer: keep the street layout, repaint it with impasto swirls in blue and yellow.",
+        "zh": "官方风格迁移：保留街道布局，用蓝黄厚涂旋涡重绘。"
+      },
+      "tips": {
+        "en": "Separate what is preserved (composition) from what changes (brushwork and palette).",
+        "zh": "把要保留的（构图）和要改变的（笔触和配色）分开写。"
+      },
+      "category": "style-transfer",
+      "tags": [
+        "style-transfer",
+        "editing"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Transform the provided photograph of a modern city street at night into the artistic style of Vincent van Gogh's 'Starry Night'. Preserve the original composition of buildings and cars, but render all elements with swirling, impasto brushstrokes and a dramatic palette of deep blues and bright yellows.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把提供的现代城市夜街照片转换成文森特·梵高《星月夜》的艺术风格。保留建筑和车辆的原始构图，但用旋涡状的厚涂笔触，以及深蓝与亮黄的戏剧性配色来绘制所有元素。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-vangogh-street-input.webp",
+          "alt": {
+            "en": "Night street photo",
+            "zh": "夜街照片"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-vangogh-street-output.webp",
+          "alt": {
+            "en": "Starry Night street",
+            "zh": "星月夜风格街道"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Style transfer — city street",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-floral-tryon",
+      "title": {
+        "en": "Dress the model in the floral dress",
+        "zh": "让模特穿上碎花裙"
+      },
+      "description": {
+        "en": "Official two-image composite for an outdoor e-commerce fashion photo.",
+        "zh": "官方双图合成：户外电商时尚全身照。"
+      },
+      "tips": {
+        "en": "Number the references: which image is the garment, which is the person, and what the final shot is.",
+        "zh": "给参考图编号：哪张是衣服，哪张是人，以及最终镜头是什么。"
+      },
+      "category": "fashion",
+      "tags": [
+        "fashion",
+        "reference-image",
+        "product"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Create a professional e-commerce fashion photo. Take the blue floral dress from the first image and let the woman from the second image wear it. Generate a realistic, full-body shot of the woman wearing the dress, with the lighting and shadows adjusted to match the outdoor environment.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张专业的电商时尚照片。从第一张图取出蓝色碎花连衣裙，让第二张图中的女性穿上它。生成一张写实的全身照，光线和阴影要调整到与户外环境一致。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-floral-tryon-input.webp",
+          "alt": {
+            "en": "Floral dress reference",
+            "zh": "碎花裙参考"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-floral-tryon-output.webp",
+          "alt": {
+            "en": "Try-on result",
+            "zh": "试穿结果"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Advanced composition — fashion photo",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-logo-on-shirt",
+      "title": {
+        "en": "Print a logo on the shirt",
+        "zh": "把标志印到 T 恤上"
+      },
+      "description": {
+        "en": "Official identity-preservation edit: the face stays, and the second image's logo follows the shirt folds.",
+        "zh": "官方身份保持编辑：面部不变，第二张图的标志顺着 T 恤褶皱贴合。"
+      },
+      "tips": {
+        "en": "Describe the face you must not change, then how the graphic should behave on fabric.",
+        "zh": "先描述不能改变的面部，再说明图形在布料上应如何跟随褶皱。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "logo",
+        "fashion"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Take the first image of the woman with brown hair, blue eyes, and a neutral expression. Add the logo from the second image onto her black t-shirt. Ensure the woman's face and features remain completely unchanged. The logo should look like it's naturally printed on the fabric, following the folds of the shirt.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "使用第一张图：棕色头发、蓝色眼睛、表情中性的女性。把第二张图中的标志加到她的黑色 T 恤上。确保她的脸和五官完全不变。标志要看起来自然地印在布料上，并顺着衣服的褶皱。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-logo-on-shirt-input.webp",
+          "alt": {
+            "en": "Portrait reference",
+            "zh": "人像参考"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-logo-on-shirt-output.webp",
+          "alt": {
+            "en": "Logo printed on shirt",
+            "zh": "印上标志的 T 恤"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Preserve details — logo on shirt",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-car-sketch",
+      "title": {
+        "en": "Pencil car to showroom photo",
+        "zh": "铅笔跑车变成展厅照片"
+      },
+      "description": {
+        "en": "Official sketch-to-photo example: keep the low sleek lines, add metallic blue paint and neon rims.",
+        "zh": "官方草图转照片示例：保留低矮流畅的线条，加上金属蓝漆和霓虹轮圈。"
+      },
+      "tips": {
+        "en": "List the sketch features that are locked, then the materials you are allowed to add.",
+        "zh": "列出草图里锁定的特征，再写允许添加的材质。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "product",
+        "3d"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Turn this rough pencil sketch of a futuristic car into a polished photo of the finished concept car in a showroom. Keep the sleek lines and low profile from the sketch but add metallic blue paint and neon rim lighting.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把这张未来汽车的粗略铅笔草图变成展厅里成品概念车的精修照片。保留草图中流畅的线条和低矮车身，但加上金属蓝漆和霓虹轮圈灯光。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-car-sketch-input.webp",
+          "alt": {
+            "en": "Car sketch",
+            "zh": "汽车草图"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-car-sketch-output.webp",
+          "alt": {
+            "en": "Showroom concept car",
+            "zh": "展厅概念车"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Bring something to life — car sketch",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "nb21-profile-right",
+      "title": {
+        "en": "Same person, profile right",
+        "zh": "同一人，右侧面"
+      },
+      "description": {
+        "en": "Official character-consistency turnaround. A separate forward-facing result is shown on the source page without its own prompt, so it is not included.",
+        "zh": "官方角色一致性转面示例。来源页还有一张正面结果，但没有单独的提示词，因此未收录。"
+      },
+      "tips": {
+        "en": "Reuse the same identity image and change only the angle and backdrop.",
+        "zh": "重复使用同一张身份图，只改角度和背景。"
+      },
+      "category": "portrait",
+      "tags": [
+        "portrait",
+        "reference-image"
+      ],
+      "model": "nano-banana-2.1",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "A studio portrait of this man against white, in profile looking right",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "这个男人的影棚人像，白色背景，右侧面。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/nb21-profile-right-input.webp",
+          "alt": {
+            "en": "Original portrait",
+            "zh": "原人像"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/nb21-profile-right-output.webp",
+          "alt": {
+            "en": "Profile looking right",
+            "zh": "右侧面"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "Google",
+        "author_url": "https://ai.google.dev/",
+        "title": "Nano Banana image generation",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation",
+        "section": "Character consistency — profile right",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px) for page weight. Prompt text is unchanged.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "gpt2-coffee-infographic",
+      "title": {
+        "en": "Automatic coffee machine flow",
+        "zh": "全自动咖啡机流程"
+      },
+      "description": {
+        "en": "OpenAI cookbook example of a technical infographic, from bean basket through the boiler.",
+        "zh": "OpenAI Cookbook 示例：从豆仓到锅炉的技术信息图。"
+      },
+      "tips": {
+        "en": "Ask for both the technical flow and the visual flow. Dense text works better at higher quality.",
+        "zh": "同时要求技术流程和视觉流程。文字密的图适合更高的 quality。"
+      },
+      "category": "infographic",
+      "tags": [
+        "infographic",
+        "product",
+        "education"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. \nFrom bean basket, to grinding, to scale, water tank, boiler, etc. \nI'd like to understand technically and visually the flow.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张详细信息图，说明一台类似 Jura 的全自动咖啡机如何工作、物料如何流动。\n从豆仓，到研磨，到称重、水箱、锅炉等。\n我希望从技术和视觉上理解这个流程。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-coffee-infographic-output.webp",
+          "alt": {
+            "en": "Coffee machine infographic",
+            "zh": "咖啡机信息图"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.1 Infographics",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-coffee-spanish",
+      "title": {
+        "en": "Translate the machine diagram",
+        "zh": "翻译咖啡机图解"
+      },
+      "description": {
+        "en": "OpenAI edit that localizes the coffee-machine infographic into Spanish without redesigning it.",
+        "zh": "OpenAI 编辑示例：把咖啡机信息图本地化为西班牙语，不重新设计。"
+      },
+      "tips": {
+        "en": "Say the translation is the only change. Keep type, placement, and imagery in the preserve list.",
+        "zh": "说明翻译是唯一改动。把字体、位置和图像放进保留清单。"
+      },
+      "category": "editing",
+      "tags": [
+        "localization",
+        "editing",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把信息图中的文字翻译成西班牙语。不要改变图像的任何其他方面。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-coffee-spanish-input.webp",
+          "alt": {
+            "en": "English diagram",
+            "zh": "英文图解"
+          },
+          "width": 640,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-coffee-spanish-output.webp",
+          "alt": {
+            "en": "Spanish diagram",
+            "zh": "西班牙文图解"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.2 Translation in Images",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, edit of the coffee infographic, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-sailor-portrait",
+      "title": {
+        "en": "Unposed sailor on a boat",
+        "zh": "船上未摆拍的水手"
+      },
+      "description": {
+        "en": "OpenAI photorealism example: weathered skin, a dog, 35mm language, and no glamor retouching.",
+        "zh": "OpenAI 写实示例：风化的皮肤、一只狗、35mm 摄影语言，以及不要美颜。"
+      },
+      "tips": {
+        "en": "Ask for a real photograph in the moment, name the lens, and forbid studio polish.",
+        "zh": "要求一张当下的真实照片，写明镜头，并禁止影棚式修饰。"
+      },
+      "category": "portrait",
+      "tags": [
+        "portrait",
+        "photoreal"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat. \nHe has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms. \nHe is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens. \nSoft coastal daylight, shallow depth of field, subtle film grain, natural color balance. \nThe image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张写实的抓拍照片：一位年长水手站在小渔船上。\n他的皮肤饱经风霜，皱纹、毛孔和日晒纹理可见，手臂上有几处褪色的传统水手纹身。\n他平静地整理渔网，狗坐在附近的甲板上。像 35mm 胶片照片，平视中近景，50mm 镜头。\n柔和的海岸日光，浅景深，细腻胶片颗粒，自然色彩。\n画面应诚实、未摆拍，有真实皮肤纹理、磨损的材料和日常细节。不要美化，不要重度修图。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-sailor-portrait-output.webp",
+          "alt": {
+            "en": "Sailor photograph",
+            "zh": "水手照片"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.3 Photorealistic Images",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-woodstock",
+      "title": {
+        "en": "Bethel, August 16, 1969",
+        "zh": "1969 年 8 月 16 日的贝塞尔"
+      },
+      "description": {
+        "en": "OpenAI world-knowledge example. The prompt never says Woodstock; it only gives the place and date.",
+        "zh": "OpenAI 世界知识示例。提示词没有写出伍德斯托克，只给了地点和日期。"
+      },
+      "tips": {
+        "en": "When the model should infer an event, give the place and date and ask for period-accurate clothing.",
+        "zh": "希望模型推断事件时，给出地点和日期，并要求服装符合时代。"
+      },
+      "category": "photography",
+      "tags": [
+        "photoreal",
+        "world-knowledge"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.\nPhotorealistic, period-accurate clothing, staging, and environment.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张写实的户外人群场景：1969 年 8 月 16 日，纽约州贝塞尔。\n照片级真实，服装、场面和环境都要符合那个年代。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-woodstock-output.webp",
+          "alt": {
+            "en": "1969 crowd scene",
+            "zh": "1969 年人群场景"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.4 World knowledge",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-field-flour-logo",
+      "title": {
+        "en": "Field & Flour bakery mark",
+        "zh": "Field & Flour 烘焙标志"
+      },
+      "description": {
+        "en": "OpenAI logo example for an original bakery mark on a transparent background. The cookbook saves four variations; this case uses the first.",
+        "zh": "OpenAI 标志示例：原创烘焙品牌，透明背景。Cookbook 保存了四个变体，本案例使用第一张。"
+      },
+      "tips": {
+        "en": "Describe personality, silhouette, and negative space. Ask for transparent PNG and forbid a checkerboard.",
+        "zh": "描述个性、轮廓和负空间。要求透明 PNG，并禁止棋盘格背景。"
+      },
+      "category": "logo",
+      "tags": [
+        "logo",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery. \nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space. \nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential. \nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "为一家名为 Field & Flour 的本地烘焙店创作原创、不侵权的标志。\n标志应温暖、简单、经典。使用干净的矢量感形状、有力的轮廓和平衡的负空间。\n宁简勿繁，以便在小尺寸和大尺寸都清晰。扁平设计，笔画极少，除非必要否则不要渐变。\n完全透明的背景。交付一个居中的标志，留出充足边距，alpha 边缘干净，不要实底、场景、棋盘格或水印。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-field-flour-logo-output.webp",
+          "alt": {
+            "en": "Field & Flour logo option 1",
+            "zh": "Field & Flour 标志方案 1"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.5 Logo Generation",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium, background transparent, output_format png, n=4"
+    },
+    {
+      "id": "gpt2-thread-ad",
+      "title": {
+        "en": "Thread streetwear campaign",
+        "zh": "Thread 街头服饰广告"
+      },
+      "description": {
+        "en": "OpenAI ad example written as a creative brief, with the tagline quoted once.",
+        "zh": "OpenAI 广告示例，按创意简报来写，标语只出现一次并加引号。"
+      },
+      "tips": {
+        "en": "Include brand, audience, scene, and the exact tagline. Forbid extra text and watermarks.",
+        "zh": "写上品牌、受众、场景和确切标语。禁止额外文字和水印。"
+      },
+      "category": "advertising",
+      "tags": [
+        "advertising",
+        "fashion",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Give me a cool in culture ad / fashion shot for a brand called Thread. \nIt's a hip young street brand. The ad shows a group of friends hanging out together with the tagline \"Yours to Create.\"\nMake it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.\nUse clean composition, strong color direction, natural poses, and premium fashion photography cues.\nRender the tagline exactly once, clearly and legibly, integrated into the ad layout.\nNo extra text, no watermarks, no unrelated logos.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "给一个叫 Thread 的品牌做一张有文化感的酷广告 / 时尚照片。\n它是一个年轻的街头品牌。广告里一群朋友聚在一起，标语是 “Yours to Create.”\n让它像一张面向年轻街头服饰受众的精致战役图：时髦、当代、有活力、有品味。\n使用干净的构图、明确的色彩方向、自然的姿势，以及高端时尚摄影的线索。\n标语只渲染一次，清晰可读，并融入广告版式。\n不要额外文字、水印或无关标志。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-thread-ad-output.webp",
+          "alt": {
+            "en": "Thread campaign image",
+            "zh": "Thread 广告图"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.6 Ads Generation",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-pet-comic",
+      "title": {
+        "en": "Four-panel pet reel",
+        "zh": "四格宠物短漫画"
+      },
+      "description": {
+        "en": "OpenAI story-to-comic example: four equal panels, one action beat each.",
+        "zh": "OpenAI 故事转漫画示例：四格等大，每格一个动作。"
+      },
+      "tips": {
+        "en": "Number the panels and describe only the visible action in each one.",
+        "zh": "给格子编号，每格只写看得见的动作。"
+      },
+      "category": "comic",
+      "tags": [
+        "comic",
+        "storyboard"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a short vertical comic-style reel with 4 equal-sized panels.\nPanel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.\nPanel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.\nPanel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.\nPanel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一条竖向四格等大的短漫画。\n第 1 格：主人从前门离开。宠物被框在他们身后的窗户里，在玻璃上显得很小，眼睛睁大，爪子高高贴着，房子突然安静。\n第 2 格：门咔哒关上。寂静被打破。宠物慢慢转向空房子，姿态改变，眼神因为可能性而锐利。\n第 3 格：房子变了样。宠物摊在沙发上，像房子的主人，旁边有碎屑，阳光像聚光灯一样切过房间。\n第 4 格：门开了。宠物端正地坐在入口，警觉而镇定，好像什么都没发生。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-pet-comic-output.webp",
+          "alt": {
+            "en": "Four-panel comic",
+            "zh": "四格漫画"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.7 Story-to-Comic Strip",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-farmers-ui",
+      "title": {
+        "en": "Farmers market app in a phone",
+        "zh": "手机里的农贸市场应用"
+      },
+      "description": {
+        "en": "OpenAI UI mockup example: a practical market app inside an iPhone frame.",
+        "zh": "OpenAI 界面示例：iPhone 框里一个实用的市场应用。"
+      },
+      "tips": {
+        "en": "Describe the product as if it already ships: header, list, specials, hours, and the device frame.",
+        "zh": "把产品写成已经上线的样子：顶栏、列表、特价、营业时间，以及设备外框。"
+      },
+      "category": "ui",
+      "tags": [
+        "ui",
+        "product"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a realistic mobile app UI mockup for a local farmers market. \nShow today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours. \nDesign it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration. \nIt should look like a real, well-designed, beautiful app for a small local market. \nPlace the UI mockup in an iPhone frame.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "为一个本地农贸市场创作真实的移动应用界面样机。\n展示今天的市场：简单的顶栏，带小照片和品类的短摊主列表，一小块“今日特价”，以及地点和营业时间。\n设计要实用、好用。白底，轻微的自然强调色，清晰的字体，装饰极少。\n它应该看起来像一个真实、设计良好、漂亮的小型本地市场应用。\n把界面样机放进 iPhone 外框。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-farmers-ui-output.webp",
+          "alt": {
+            "en": "Farmers market UI",
+            "zh": "农贸市场界面"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.8 UI Mockups",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-cellular-respiration",
+      "title": {
+        "en": "Cellular respiration handout",
+        "zh": "细胞呼吸讲义"
+      },
+      "description": {
+        "en": "OpenAI classroom diagram with a required title and a required molecule list.",
+        "zh": "OpenAI 课堂图解，指定了标题和必须标注的分子。"
+      },
+      "tips": {
+        "en": "List every label that must appear, the audience, and what decoration to avoid. Use high quality for small text.",
+        "zh": "列出必须出现的标签、读者，以及要避免的装饰。小字使用 high quality。"
+      },
+      "category": "education",
+      "tags": [
+        "education",
+        "infographic",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "为高中生创作一张简单的生物图，标题为 “Cellular Respiration at a Glance”。\n\n展示葡萄糖如何在细胞内变成能量。包含糖酵解、克雷布斯循环和电子传递链。\n用箭头连接步骤，并标注主要分子：glucose、pyruvate、ATP、NADH、FADH2、CO2、O2 和 H2O。\n让它像一张干净的课堂讲义或幻灯片，白底、简单图标、清晰标签、易读文字。\n\n避免过小的文字、额外装饰，或任何让图解难懂的东西。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-cellular-respiration-output.webp",
+          "alt": {
+            "en": "Cellular respiration diagram",
+            "zh": "细胞呼吸图解"
+          },
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.9 Scientific / Educational Visuals",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1536x1024, quality high"
+    },
+    {
+      "id": "gpt2-market-slide",
+      "title": {
+        "en": "Series A market slide",
+        "zh": "A 轮市场规模幻灯片"
+      },
+      "description": {
+        "en": "OpenAI slide example with TAM/SAM/SOM numbers, a bar chart, and footnotes written into the prompt.",
+        "zh": "OpenAI 幻灯片示例：提示词里写明 TAM/SAM/SOM 数字、柱状图和脚注。"
+      },
+      "tips": {
+        "en": "Put the real numbers and footnotes in the prompt. Ask for a landscape slide and forbid clip art.",
+        "zh": "把真实数字和脚注写进提示词。要求横向幻灯片，并禁止剪贴画。"
+      },
+      "category": "infographic",
+      "tags": [
+        "infographic",
+        "ui",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张路演幻灯片，标题为 **“Market Opportunity”**，感觉像一家 YC 背景初创公司真实的 A 轮融资页。\n\n使用干净的白底、类似 Inter 的现代无衬线字体，以及清爽的极简版式。幻灯片应包含：\n\n* 蓝灰低饱和的 TAM/SAM/SOM 同心圆\n* 具体、可信的市场规模数字：\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* 下方一张干净的柱状图，展示 **2021 到 2026** 的市场增长，趋势轻微向上\n* 小脚注：**“AGI Research, 2024”** 和 **“Internal analysis”**\n* 右下角一个公司标志占位\n\n设计应像真正融到钱的演示文稿：文字高度可读，数据层级清楚，间距讲究，视觉语言是专业的创业公司风格。\n\n避免剪贴画、图库照片、渐变、阴影、装饰元素，或任何显得通用或过度设计的东西。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-market-slide-output.webp",
+          "alt": {
+            "en": "Market opportunity slide",
+            "zh": "市场机会幻灯片"
+          },
+          "width": 960,
+          "height": 540
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "4.10 Slides, Diagrams, Charts",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1536x864, quality high"
+    },
+    {
+      "id": "gpt2-pixel-motorcycle",
+      "title": {
+        "en": "Pixel style, new subject",
+        "zh": "像素风格，新主体"
+      },
+      "description": {
+        "en": "OpenAI style transfer: keep the input style, draw a man riding a motorcycle on white.",
+        "zh": "OpenAI 风格迁移：保留输入图的风格，在白底上画一个骑摩托车的人。"
+      },
+      "tips": {
+        "en": "Say which image owns the style and what the new subject and background are.",
+        "zh": "说明哪张图提供风格，以及新的主体和背景是什么。"
+      },
+      "category": "style-transfer",
+      "tags": [
+        "style-transfer",
+        "editing"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Use the same style from the input image and generate a man riding a motorcycle on a white background.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "使用输入图像的同一种风格，在白色背景上生成一个骑摩托车的人。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-pixel-motorcycle-input.webp",
+          "alt": {
+            "en": "Pixel style reference",
+            "zh": "像素风格参考"
+          },
+          "width": 640,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-pixel-motorcycle-output.webp",
+          "alt": {
+            "en": "Motorcycle in the same style",
+            "zh": "同风格的摩托车"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.1 Style Transfer",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-virtual-tryon",
+      "title": {
+        "en": "Lock the person, change the clothes",
+        "zh": "锁住人，只换衣服"
+      },
+      "description": {
+        "en": "OpenAI virtual try-on. The cookbook attaches a portrait plus garment references; this card shows the result.",
+        "zh": "OpenAI 虚拟试穿。Cookbook 附上人像和服装参考；此卡片展示结果。"
+      },
+      "tips": {
+        "en": "Lock face, body, pose, hair, expression, background, and camera. Allow only garment changes and realistic drape.",
+        "zh": "锁定脸、体型、姿势、头发、表情、背景和机位。只允许换衣服和真实的垂坠。"
+      },
+      "category": "fashion",
+      "tags": [
+        "fashion",
+        "editing",
+        "reference-image"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "编辑图像，用提供的服装图片给这位女性穿衣服。不要以任何方式改变她的脸、五官、肤色、体型、姿势或身份。保持她的相貌、表情、发型和比例完全一致。只替换服装，让衣服自然贴合她现有的姿势和身体几何，并有真实的面料表现。让光线、阴影和色温与原照片一致，使服装看起来是真实穿上的，而不是贴上去的。不要改变背景、机位、取景或画质，也不要添加配饰、文字、标志或水印。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-virtual-tryon-output.webp",
+          "alt": {
+            "en": "Try-on result",
+            "zh": "试穿结果"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.2 Virtual Clothing Try-On",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, references woman_in_museum.png plus garment images, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-sketch-valley",
+      "title": {
+        "en": "Drawing to a photograph",
+        "zh": "素描变成照片"
+      },
+      "description": {
+        "en": "OpenAI sketch render that must preserve layout, proportion, and perspective.",
+        "zh": "OpenAI 草图渲染，必须保留布局、比例和透视。"
+      },
+      "tips": {
+        "en": "Forbid new elements and text so the model does not invent a different scene.",
+        "zh": "禁止新元素和文字，避免模型另起一个场景。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "photoreal"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把这张素描变成一张写实照片。\n保留完全相同的布局、比例和透视。\n选择与素描意图一致的真实材质和光线。\n不要添加新元素或文字。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-sketch-valley-input.webp",
+          "alt": {
+            "en": "Input drawing",
+            "zh": "输入素描"
+          },
+          "width": 960,
+          "height": 640
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-sketch-valley-output.webp",
+          "alt": {
+            "en": "Rendered valley",
+            "zh": "渲染后的山谷"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.3 Drawing to Image",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-shampoo-cutout",
+      "title": {
+        "en": "Cut the product onto transparency",
+        "zh": "把产品抠到透明底"
+      },
+      "description": {
+        "en": "OpenAI product extraction. The label and geometry stay; the background goes.",
+        "zh": "OpenAI 产品提取。标签和几何保持，背景去掉。"
+      },
+      "tips": {
+        "en": "Request a transparent PNG, crisp edges, and no checkerboard, shadow, or restyle.",
+        "zh": "要求透明 PNG、清晰边缘，不要棋盘格、阴影或重绘产品。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "editing"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "从输入图像中提取产品，并把它隔离在完全透明的背景上。\n输出：居中的产品，轮廓清晰，没有光晕或溢边。\n精确保留产品几何和标签可读性。\n只做轻微修整。不要添加实底、棋盘格、场景或阴影。\n不要重绘产品；去掉背景并保留干净的 alpha 透明。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-shampoo-cutout-input.webp",
+          "alt": {
+            "en": "Shampoo photo",
+            "zh": "洗发水照片"
+          },
+          "width": 960,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-shampoo-cutout-output.webp",
+          "alt": {
+            "en": "Transparent product cutout",
+            "zh": "透明产品抠图"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.4 Product Mockups",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-shampoo-billboard",
+      "title": {
+        "en": "Sunset billboard, exact line",
+        "zh": "日落广告牌上的原句"
+      },
+      "description": {
+        "en": "OpenAI marketing edit. The only allowed billboard text is the quoted line.",
+        "zh": "OpenAI 营销编辑。广告牌上唯一允许的文字是引号里的那一句。"
+      },
+      "tips": {
+        "en": "Quote the line, say it appears once, and describe the type and the scene separately.",
+        "zh": "给句子加引号，说明只出现一次，并把字体和场景分开写。"
+      },
+      "category": "advertising",
+      "tags": [
+        "advertising",
+        "text-rendering",
+        "product"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张写实的广告牌样机：日落时的公路场景中出现这瓶洗发水。\n广告牌文字（精确、逐字、不要额外字符）：\n“Fresh and clean”\n字体：粗体无衬线，高对比，居中，字距干净。\n确保文字只出现一次并且完全可读。\n不要水印，不要标志。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-shampoo-billboard-output.webp",
+          "alt": {
+            "en": "Sunset billboard",
+            "zh": "日落广告牌"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.5 Marketing Creatives with Real Text",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, input shampoo.png, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-billboard-winter",
+      "title": {
+        "en": "Same billboard, winter evening",
+        "zh": "同一块广告牌，冬夜"
+      },
+      "description": {
+        "en": "OpenAI lighting edit. Only the season and time of day change.",
+        "zh": "OpenAI 光线编辑。只改变季节和时段。"
+      },
+      "tips": {
+        "en": "Keep the prompt to the environmental change when the previous image should stay recognizable.",
+        "zh": "希望上一张图仍然可辨认时，提示词只写环境变化。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "lighting"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Make it look like a winter evening with snowfall.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "让它看起来像一个下雪的冬日傍晚。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-billboard-winter-input.webp",
+          "alt": {
+            "en": "Original billboard",
+            "zh": "原广告牌"
+          },
+          "width": 640,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-billboard-winter-output.webp",
+          "alt": {
+            "en": "Winter billboard",
+            "zh": "冬日广告牌"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.6 Lighting and Weather Transformation",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, input_fidelity high, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-remove-flower",
+      "title": {
+        "en": "Remove the flower, keep the rest",
+        "zh": "去掉花，其余不动"
+      },
+      "description": {
+        "en": "OpenAI object-removal example. The input file in the cookbook is man_with_blue_hat.png.",
+        "zh": "OpenAI 物体移除示例。Cookbook 中的输入文件是 man_with_blue_hat.png。"
+      },
+      "tips": {
+        "en": "Name the object and add “do not change anything else.”",
+        "zh": "点名要移除的物体，并加上“不要改变其他任何东西”。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Remove the flower from man's hand. Do not change anything else.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "去掉这个男人手里的花。不要改变其他任何东西。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-remove-flower-input.webp",
+          "alt": {
+            "en": "Man holding a flower",
+            "zh": "拿着花的男人"
+          },
+          "width": 640,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-remove-flower-output.webp",
+          "alt": {
+            "en": "Flower removed",
+            "zh": "花已去掉"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.7 Object Removal",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, input_fidelity high, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-yosemite-bear",
+      "title": {
+        "en": "Place her in a Yosemite campsite",
+        "zh": "把她放进优胜美地营地"
+      },
+      "description": {
+        "en": "OpenAI person-in-scene edit. The reference is woman_in_museum.png; the prompt asks for an unstyled photograph.",
+        "zh": "OpenAI 人物入景编辑。参考图是 woman_in_museum.png；提示词要求一张不风格化的照片。"
+      },
+      "tips": {
+        "en": "Describe the action and place, then explicitly reject cinematic grading if you want a snapshot.",
+        "zh": "写明动作和地点，如果想要抓拍感，就明确拒绝电影调色。"
+      },
+      "category": "photography",
+      "tags": [
+        "photoreal",
+        "reference-image",
+        "portrait"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.\nShe is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.\nThe campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "生成一个高度写实的动作场景：这个人正在逃离一只正在袭击营地的、写实的大棕熊。图像应像某人可能拍到的真实照片，而不是过度增强的电影海报。\n她位于画面中央，但看向镜头之外，穿着户外露营服装，脸上有尘土，衣服有撕裂。她明显害怕，但专注于逃跑，熊在她身后破坏营地。\n营地在优胜美地国家公园，自然细节可信。时间是黄昏，自然光和真实色彩。一切应接地、真实、不风格化，像被真实瞬间捕捉。避免电影布光、戏剧性调色或风格化构图。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-yosemite-bear-output.webp",
+          "alt": {
+            "en": "Campsite scene",
+            "zh": "营地场景"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.8 Insert the Person Into a Scene",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, input_fidelity high, reference woman_in_museum.png, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-dog-composite",
+      "title": {
+        "en": "Move the dog into her photo",
+        "zh": "把狗放进她的照片"
+      },
+      "description": {
+        "en": "OpenAI two-image composite. The dog from the second image stands next to the woman in the first.",
+        "zh": "OpenAI 双图合成。第二张图里的狗站到第一张图的女人身边。"
+      },
+      "tips": {
+        "en": "Say which element moves, where it lands, and that lighting and background stay with the destination photo.",
+        "zh": "说明哪个元素移动、落到哪里，以及光线和背景跟目的地照片走。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "reference-image"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把第二张图中的狗放进第一张图的场景里，就在女人身边，使用相同的光线、构图和背景。不要改变其他任何东西。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-dog-composite-output.webp",
+          "alt": {
+            "en": "Woman with the added dog",
+            "zh": "加入狗之后"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "5.9 Multi-Image Referencing and Compositing",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, input_fidelity high, images test_woman.png and test_woman_2.png, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-kitchen-chairs",
+      "title": {
+        "en": "Replace only the white chairs",
+        "zh": "只换掉白色椅子"
+      },
+      "description": {
+        "en": "OpenAI interior swap. The cookbook prompt says “replace ONLY white with chairs made of wood.”",
+        "zh": "OpenAI 室内替换。Cookbook 提示词原文是 “replace ONLY white with chairs made of wood.”"
+      },
+      "tips": {
+        "en": "Name the single object class to replace and preserve camera, light, and shadows.",
+        "zh": "点名只替换的那一类物体，并保留机位、光线和阴影。"
+      },
+      "category": "editing",
+      "tags": [
+        "editing",
+        "product"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "In this room photo, replace ONLY white with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "在这张房间照片里，只把白色的换成木制椅子。\n保留机位、房间光线、地面阴影和周围物体。\n图像的所有其他方面保持不变。\n接触阴影和织物纹理要写实。"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-kitchen-chairs-input.webp",
+          "alt": {
+            "en": "Kitchen before",
+            "zh": "厨房原图"
+          },
+          "width": 960,
+          "height": 720
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-kitchen-chairs-output.webp",
+          "alt": {
+            "en": "Wooden chairs",
+            "zh": "木椅结果"
+          },
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "6.1 Interior design swap",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1536x1024, quality medium"
+    },
+    {
+      "id": "gpt2-christmas-card",
+      "title": {
+        "en": "Holiday card with one sentence",
+        "zh": "只有一句话的节日卡"
+      },
+      "description": {
+        "en": "OpenAI holiday-card example. The only permitted text is the quoted sentence.",
+        "zh": "OpenAI 节日卡示例。唯一允许的文字是引号中的那一句。"
+      },
+      "tips": {
+        "en": "Describe the physical scene, then constrain the card to one verbatim line and no logos.",
+        "zh": "先写实物场景，再把卡片限制成一句逐字文字，并且不要标志。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "text-rendering",
+        "photography"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting, realistic textures, shallow depth of field, tasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张圣诞节日卡插画。\n\n场景：\n温馨的圣诞场景，一只旧泰迪熊坐在纪念品盒子里，毛发略有磨损，有柔软的缝补，放在窗边，窗外下雪。场景暗示孩子已经长大，但记忆还在。\n\n情绪：\n温暖、怀旧、温柔、有感情。\n\n风格：\n高端节日卡摄影，柔和的电影光，真实纹理，浅景深，得体的光斑，适合印刷的构图。\n\n约束：\n- 仅原创画面\n- 不要商标\n- 不要水印\n- 不要标志\n\n卡片上只包含这句文字（逐字）：\n“Merry Christmas — some memories never fade.”"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-christmas-card-output.webp",
+          "alt": {
+            "en": "Holiday card",
+            "zh": "节日卡"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "6.2 Holiday card",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-toy-airplane",
+      "title": {
+        "en": "Blister-packed toy airplane",
+        "zh": "吸塑包装的玩具飞机"
+      },
+      "description": {
+        "en": "OpenAI collectible example: an original propeller plane with one packaging line.",
+        "zh": "OpenAI 收藏品示例：原创螺旋桨飞机，包装上只有一行字。"
+      },
+      "tips": {
+        "en": "Describe materials and packaging, mark the design as original, and quote the only label text.",
+        "zh": "描述材质和包装，标明设计必须原创，并引用唯一的标签文字。"
+      },
+      "category": "figurine",
+      "tags": [
+        "3d",
+        "product",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes children used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures, studio lighting, shallow depth of field, sharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一个收藏级可动玩具：复古风格的玩具螺旋桨飞机，圆润的机翼，机头有正在旋转的螺旋桨，漆边略有磨损，经典的童年比例，作为怀旧节日收藏品，放在吸塑包装里。\n\n概念：\n受孩子们冬天玩的简单玩具飞机启发的怀旧节日收藏品。\n唤起温暖、想象和童年的惊奇。\n\n风格：\n高端玩具摄影，真实的塑料和喷漆金属纹理，影棚光，浅景深，标签印刷锐利，高端零售陈列。\n\n约束：\n- 仅原创设计\n- 不要商标\n- 不要水印\n- 不要标志\n\n包装上只包含这句文字（逐字）：\n“Christmas Memories Edition”"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-toy-airplane-output.webp",
+          "alt": {
+            "en": "Packaged toy airplane",
+            "zh": "包装玩具飞机"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "6.3 Collectible Action Figure",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-forest-hero",
+      "title": {
+        "en": "Forest hero character anchor",
+        "zh": "森林主角的定妆"
+      },
+      "description": {
+        "en": "OpenAI children's-book anchor. The character is original and the image has no text.",
+        "zh": "OpenAI 儿童书角色定妆。角色是原创的，画面没有文字。"
+      },
+      "tips": {
+        "en": "Lock outfit, proportions, personality, and palette in the first image so later pages can refer to it.",
+        "zh": "在第一张图锁定服装、比例、性格和配色，后面的页面才能引用它。"
+      },
+      "category": "illustration",
+      "tags": [
+        "illustration",
+        "character"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create a children’s book illustration introducing a main character.\n\nCharacter:\nA young, storybook-style hero inspired by a little forest outlaw, wearing a simple green hooded tunic, soft brown boots, and a small belt pouch. The character has a kind expression, gentle eyes, and a brave but warm demeanor. Carries a small wooden bow used only for helping, never harming.\n\nTheme:\nThe character protects and rescues small forest animals like squirrels, birds, and rabbits.\n\nStyle:\nChildren’s book illustration, hand-painted watercolor look, soft outlines, warm earthy colors, whimsical and friendly. Proportions suitable for picture books (slightly oversized head, expressive face).\n\nConstraints:\n- Original character (no copyrighted characters)\n- No text\n- No watermarks\n- Plain forest background to clearly showcase the character",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张儿童书插画，介绍主角。\n\n角色：\n一个年轻的绘本式英雄，灵感来自小小的森林侠客，穿着简单的绿色连帽短袍、柔软的棕色靴子，以及一个小腰包。角色表情善良，眼睛温和，勇敢但温暖。携带一把小木弓，只用于帮助，从不伤害。\n\n主题：\n这个角色保护和拯救松鼠、鸟和兔子这样的小森林动物。\n\n风格：\n儿童书插画，手绘水彩感，柔和轮廓，温暖的大地色，奇幻而友好。适合绘本的比例（头稍大，表情丰富）。\n\n约束：\n- 原创角色（不要版权角色）\n- 不要文字\n- 不要水印\n- 朴素的森林背景，以便清楚地展示角色"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-forest-hero-output.webp",
+          "alt": {
+            "en": "Character anchor",
+            "zh": "角色定妆"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "6.4 Children’s book — character anchor",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-forest-sequel",
+      "title": {
+        "en": "Same hero, next page",
+        "zh": "同一个英雄，下一页"
+      },
+      "description": {
+        "en": "OpenAI continuation edit. The first illustration is the reference, and the prompt forbids a redesign.",
+        "zh": "OpenAI 续页编辑。第一张插画是参考，提示词禁止重新设计角色。"
+      },
+      "tips": {
+        "en": "Repeat the outfit and face invariants on every later page.",
+        "zh": "每一页后续都重复服装和面部的不变项。"
+      },
+      "category": "illustration",
+      "tags": [
+        "illustration",
+        "character",
+        "editing"
+      ],
+      "model": "gpt-image-2",
+      "modality": "image-editing",
+      "requires_reference": true,
+      "prompt": "Continue the children’s book story using the same character.\n\nScene:\nThe same young forest hero is gently helping a frightened squirrel out of a fallen tree after a winter storm. The character kneels beside the squirrel, offering reassurance.\n\nCharacter Consistency:\n- Same green hooded tunic\n- Same facial features, proportions, and color palette\n- Same gentle, heroic personality\n\nStyle:\nChildren’s book watercolor illustration, soft lighting, snowy forest environment, warm and comforting mood.\n\nConstraints:\n- Do not redesign the character\n- No text\n- No watermarks",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "用同一个角色继续这本儿童书。\n\n场景：\n同一个年轻的森林英雄正在冬季风暴后，轻轻帮助一只受惊的松鼠离开倒下的树。角色跪在松鼠旁边，给予安慰。\n\n角色一致性：\n- 同一件绿色连帽短袍\n- 相同的五官、比例和配色\n- 相同的温和、英勇性格\n\n风格：\n儿童书水彩插画，柔和光线，下雪的森林，温暖安慰的情绪。\n\n约束：\n- 不要重新设计角色\n- 不要文字\n- 不要水印"
+      },
+      "images": [
+        {
+          "role": "input",
+          "src": "/images/cases/gpt2-forest-sequel-input.webp",
+          "alt": {
+            "en": "Previous page",
+            "zh": "上一页"
+          },
+          "width": 640,
+          "height": 960
+        },
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-forest-sequel-output.webp",
+          "alt": {
+            "en": "Next page",
+            "zh": "下一页"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "GPT Image Generation Models Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+        "section": "6.4 Children’s book — story continuation",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "model gpt-image-2, reference childrens_book_illustration_1, size 1024x1536, quality medium"
+    },
+    {
+      "id": "sora2-turn-and-smile",
+      "title": {
+        "en": "She turns, smiles, and leaves",
+        "zh": "她转身、微笑、离开"
+      },
+      "description": {
+        "en": "Sora 2 image-input example. The still is the first frame; the prompt is only the motion.",
+        "zh": "Sora 2 图像输入示例。静帧是第一帧，提示词只写动作。"
+      },
+      "tips": {
+        "en": "Match the reference image to the video size, then describe one action.",
+        "zh": "参考图要和视频尺寸一致，然后只描述一个动作。"
+      },
+      "category": "video",
+      "tags": [
+        "video",
+        "reference-image"
+      ],
+      "model": "sora-2",
+      "modality": "text-to-video",
+      "requires_reference": true,
+      "prompt": "She turns around and smiles, then slowly walks out of the frame.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "她转过身来微笑，然后慢慢走出画面。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "https://cdn.openai.com/API/docs/images/sora/sora_woman_skyline_video.gif",
+          "remote": true,
+          "alt": {
+            "en": "Sora result GIF",
+            "zh": "Sora 结果 GIF"
+          }
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Sora 2 Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "section": "Use image input for more control",
+        "license": "MIT (prompt text); result media hotlinked, not redistributed",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Prompt text is reproduced from the MIT-licensed OpenAI Cookbook. The result GIF is hotlinked from OpenAI's CDN and is not copied into this repository.",
+        "retrieved": "2026-10-14"
+      },
+      "parameters": "image input as input_reference; size must match the image"
+    },
+    {
+      "id": "sora2-fridge-monster",
+      "title": {
+        "en": "A monster steps out of the fridge",
+        "zh": "怪物从冰箱里出来"
+      },
+      "description": {
+        "en": "Sora 2 image-input example. The prompt adds the action on top of the supplied fridge frame.",
+        "zh": "Sora 2 图像输入示例。提示词在给定的冰箱画面上增加动作。"
+      },
+      "tips": {
+        "en": "Keep the action to one beat when the first frame already defines the set.",
+        "zh": "第一帧已经定义了场景时，动作只写一个节拍。"
+      },
+      "category": "video",
+      "tags": [
+        "video",
+        "reference-image"
+      ],
+      "model": "sora-2",
+      "modality": "text-to-video",
+      "requires_reference": true,
+      "prompt": "The fridge door opens. A cute, chubby purple monster comes out of it.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "冰箱门打开。一只可爱、胖乎乎的紫色怪物从里面出来。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "https://cdn.openai.com/API/docs/images/sora/sora_monster_original.gif",
+          "remote": true,
+          "alt": {
+            "en": "Monster exits the fridge",
+            "zh": "怪物走出冰箱"
+          }
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Sora 2 Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "section": "Use image input for more control",
+        "license": "MIT (prompt text); result media hotlinked, not redistributed",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Prompt text is reproduced from the MIT-licensed OpenAI Cookbook. The result GIF is hotlinked from OpenAI's CDN and is not copied into this repository.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "sora2-monster-orange",
+      "title": {
+        "en": "Recolor the monster",
+        "zh": "给怪物换颜色"
+      },
+      "description": {
+        "en": "Sora 2 video-edit example. One attribute changes; the shot stays.",
+        "zh": "Sora 2 视频编辑示例。只改一个属性，镜头保持。"
+      },
+      "tips": {
+        "en": "Edit one thing at a time and say that the shot otherwise stays.",
+        "zh": "一次只改一件事，并说明镜头其余部分保持。"
+      },
+      "category": "video",
+      "tags": [
+        "video",
+        "editing"
+      ],
+      "model": "sora-2",
+      "modality": "text-to-video",
+      "requires_reference": true,
+      "prompt": "Change the color of the monster to orange",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "把怪物的颜色改成橙色。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "https://cdn.openai.com/API/docs/images/sora/sora_monster_orange.gif",
+          "remote": true,
+          "alt": {
+            "en": "Orange monster edit",
+            "zh": "橙色怪物编辑"
+          }
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Sora 2 Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "section": "Iterate with video edits",
+        "license": "MIT (prompt text); result media hotlinked, not redistributed",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Prompt text is reproduced from the MIT-licensed OpenAI Cookbook. The result GIF is hotlinked from OpenAI's CDN and is not copied into this repository.",
+        "retrieved": "2026-10-14"
+      }
+    },
+    {
+      "id": "sora2-second-monster",
+      "title": {
+        "en": "A second monster follows",
+        "zh": "第二只怪物跟着出来"
+      },
+      "description": {
+        "en": "Sora 2 video-edit example that adds one more action to the fridge shot.",
+        "zh": "Sora 2 视频编辑示例：在冰箱镜头上再加一个动作。"
+      },
+      "tips": {
+        "en": "When the first edit works, add the next beat instead of rewriting the scene.",
+        "zh": "第一次编辑有效后，加上下一个节拍，而不是重写整个场景。"
+      },
+      "category": "video",
+      "tags": [
+        "video",
+        "editing"
+      ],
+      "model": "sora-2",
+      "modality": "text-to-video",
+      "requires_reference": true,
+      "prompt": "A second monster comes out right after",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "紧接着第二只怪物出来。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "https://cdn.openai.com/API/docs/images/sora/sora_monster_2monsters.gif",
+          "remote": true,
+          "alt": {
+            "en": "Two monsters",
+            "zh": "两只怪物"
+          }
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Sora 2 Prompting Guide",
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "section": "Iterate with video edits",
+        "license": "MIT (prompt text); result media hotlinked, not redistributed",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Prompt text is reproduced from the MIT-licensed OpenAI Cookbook. The result GIF is hotlinked from OpenAI's CDN and is not copied into this repository.",
+        "retrieved": "2026-10-14"
+      }
+    }
+  ]
+}
