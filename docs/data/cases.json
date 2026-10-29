@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14",
+  "updated": "2026-10-29",
   "categories": [
     {
       "id": "portrait",
@@ -3058,6 +3058,377 @@
         "retrieved": "2026-10-14"
       },
       "parameters": "model gpt-image-2, reference childrens_book_illustration_1, size 1024x1536, quality medium"
+    },
+    {
+      "id": "gpt2-amber-parfum",
+      "title": {
+        "en": "Honey-amber perfume on alpha",
+        "zh": "蜜琥珀香水的透明底"
+      },
+      "description": {
+        "en": "OpenAI campaign product. The faceted bottle, sheer ribbon, and glass refraction are generated with a real alpha channel.",
+        "zh": "OpenAI 活动产品图。多面瓶身、轻薄丝带和玻璃折射直接带真实 alpha 通道。"
+      },
+      "tips": {
+        "en": "Ask for an isolated subject and explicit transparent alpha; describing a backdrop can override background=transparent.",
+        "zh": "要求孤立的主体和明确的透明 alpha；提示词里如果描写了背景，会盖过 background=transparent。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "transparent",
+        "photography"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A sculptural substantial clear honey-amber faceted glass eau-de-parfum bottle, slender rectangular body with softly rounded shoulders, heavy clear crystal cap, a small delicate sheer ivory organza ribbon loosely tied around the brushed brass neck with one translucent airy tail floating naturally; visible golden fragrance liquid and beautifully realistic glass refraction. One object from STILLROOM, an understated luxury botanical home-fragrance atelier: artisanal warm amber and honey-tinted hand-blown glass, subtle brushed brass hardware, natural ivory cotton cord, quiet Japanese-Scandinavian restraint, warm side-lit editorial studio photography, photorealistic micro-detail, immaculate premium campaign quality. Full object completely visible and generously padded. Preserve every natural transparency, refraction, translucent layer and fine material edge. Output an isolated object on actual fully transparent alpha; no backdrop, no rectangle, no plinth, no cast shadow, no readable writing, no label text, no watermark.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一只有雕塑感、厚实、清澈的蜜琥珀色多面玻璃淡香水瓶，修长的矩形瓶身，肩部柔和圆润，厚重的透明水晶瓶盖；一条小巧轻薄的象牙色欧根纱丝带松松系在拉丝黄铜瓶颈上，一端半透明、轻盈的尾梢自然飘起；可见金色香液，以及真实而漂亮的玻璃折射。一件来自 STILLROOM 的单品。STILLROOM 是一家克制的奢华植物家居香氛工坊：手工的暖琥珀与蜜色吹制玻璃，含蓄的拉丝黄铜配件，天然象牙色棉绳，安静的日式与斯堪的纳维亚式克制，暖色侧光的编辑级棚拍，照片级微细节，无可挑剔的高端广告品质。整个物体完整可见，并在四周留出充裕空白。保留每一处自然的透明、折射、半透明层次和精细的材质边缘。输出为真正完全透明 alpha 上的孤立物体；不要背景、不要矩形底、不要底座、不要投影、不要可读文字、不要标签文字、不要水印。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-amber-parfum-output.webp",
+          "alt": {
+            "en": "Amber perfume bottle",
+            "zh": "琥珀香水瓶"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 1 — Seasonal e-commerce campaigns (amber-parfum)",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality high, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-reed-diffuser",
+      "title": {
+        "en": "Diffuser reeds and pampas wisps",
+        "zh": "香薰藤条与蒲苇须"
+      },
+      "description": {
+        "en": "OpenAI campaign product. Thin rattan reeds and hairlike pampas stay in the alpha instead of being clipped.",
+        "zh": "OpenAI 活动产品图。细藤条和发丝般的蒲苇留在 alpha 里，而不是被剪掉。"
+      },
+      "tips": {
+        "en": "Call out thin reeds and pampas fibers; those edges are what conventional background removal often clips.",
+        "zh": "点名细藤条和蒲苇纤维；这些边缘正是常规去背常常剪掉的地方。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "transparent",
+        "photography"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "A rounded low smoked-amber translucent glass home-fragrance diffuser vessel containing warm golden scented oil, topped by five naturally splayed very thin blonde rattan reeds and one extraordinarily delicate feathery dried pampas grass stem with fine hairlike wisps extending outward; realistic transparent glass and botanical fibers. One object from STILLROOM, an understated luxury botanical home-fragrance atelier: artisanal warm amber and honey-tinted hand-blown glass, subtle brushed brass hardware, natural ivory cotton cord, quiet Japanese-Scandinavian restraint, warm side-lit editorial studio photography, photorealistic micro-detail, immaculate premium campaign quality. Full object completely visible and generously padded. Preserve every natural transparency, refraction, translucent layer and fine material edge. Output an isolated object on actual fully transparent alpha; no backdrop, no rectangle, no plinth, no cast shadow, no readable writing, no label text, no watermark.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "一只低矮圆润的烟熏琥珀色半透明玻璃家居香薰容器，内盛温暖的金色香油，上方是五支自然散开的极细金发色藤条，以及一根格外纤细、羽毛般的干蒲苇茎，细如发丝的须向外伸展；玻璃与植物纤维都要真实、透明。一件来自 STILLROOM 的单品。STILLROOM 是一家克制的奢华植物家居香氛工坊：手工的暖琥珀与蜜色吹制玻璃，含蓄的拉丝黄铜配件，天然象牙色棉绳，安静的日式与斯堪的纳维亚式克制，暖色侧光的编辑级棚拍，照片级微细节，无可挑剔的高端广告品质。整个物体完整可见，并在四周留出充裕空白。保留每一处自然的透明、折射、半透明层次和精细的材质边缘。输出为真正完全透明 alpha 上的孤立物体；不要背景、不要矩形底、不要底座、不要投影、不要可读文字、不要标签文字、不要水印。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-reed-diffuser-output.webp",
+          "alt": {
+            "en": "Reed diffuser",
+            "zh": "藤条香薰"
+          },
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 1 — reed-diffuser",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1024x1536, quality high, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-revenue-chart",
+      "title": {
+        "en": "Navy-slide revenue bars",
+        "zh": "海军蓝幻灯片上的营收柱"
+      },
+      "description": {
+        "en": "OpenAI presentation chart. White labels and four ascending bars sit on a transparent plot area for a dark navy slide.",
+        "zh": "OpenAI 演示图表。白色标签和四根递增的柱落在透明绘图区上，供深海军蓝幻灯片使用。"
+      },
+      "tips": {
+        "en": "Request transparent plot area and white labels for dark themes; verify rendered numbers against source data.",
+        "zh": "深色主题要透明的绘图区和白色标签；对照源数据核对画面上的数字。"
+      },
+      "category": "infographic",
+      "tags": [
+        "infographic",
+        "transparent",
+        "text-rendering"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create one polished enterprise bar chart on a genuinely transparent background for a dark navy PowerPoint slide. Use exactly four ascending bars with these values: Q1 = $42M, Q2 = $51M, Q3 = $63M, Q4 = $78M. Use cobalt blue, bright blue, electric azure, and turquoise bars. Add white quarter labels below each bar and white dollar-value labels above each bar. Add a subtle turquoise upward-trend arrow. Keep the plot area, grid, and space between bars transparent. Do not add a background, filled panel, frame, title, or card.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "为深海军蓝的 PowerPoint 幻灯片创作一张精致的企业柱状图，背景必须是真正透明的。恰好使用四根递增的柱，数值如下：Q1 = $42M，Q2 = $51M，Q3 = $63M，Q4 = $78M。柱的颜色依次为钴蓝色、亮蓝色、电光青蓝色和绿松石色。每根柱下方加上白色的季度标签，上方加上白色的金额标签。加上一支含蓄的绿松石色上升趋势箭头。绘图区、网格以及柱与柱之间的空隙保持透明。不要添加背景、填充面板、边框、标题或卡片。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-revenue-chart-output.webp",
+          "alt": {
+            "en": "Quarterly revenue chart",
+            "zh": "季度营收图"
+          },
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 2 — Branded enterprise presentations (quarterly revenue)",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1536x1024, quality high, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-design-app-icon",
+      "title": {
+        "en": "Folded-paper bird app icon",
+        "zh": "折纸鸟应用图标"
+      },
+      "description": {
+        "en": "OpenAI template asset. Only the rounded icon tile is opaque; the area outside it stays transparent.",
+        "zh": "OpenAI 模板素材。只有圆角图标方块是不透明的，方块以外保持透明。"
+      },
+      "tips": {
+        "en": "Keep everything outside the rounded icon tile transparent, and forbid text, shadows, and a background.",
+        "zh": "圆角图标方块以外全部保持透明，并禁止文字、阴影和背景。"
+      },
+      "category": "ui",
+      "tags": [
+        "ui",
+        "transparent",
+        "icon"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create one premium rounded-square app icon with an abstract folded paper bird in cobalt blue, lavender, and peach. Keep everything outside the rounded icon tile transparent. No text, watermark, shadows, or background.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一枚高端的圆角方形应用图标，图案是一只抽象的折纸鸟，配色为钴蓝色、薰衣草色和桃色。圆角图标方块以外的一切保持透明。不要文字、水印、阴影或背景。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-design-app-icon-output.webp",
+          "alt": {
+            "en": "Folded-paper app icon",
+            "zh": "折纸鸟应用图标"
+          },
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 3 — Design-template assets (app icon)",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1024x1024, quality high, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-design-sticker",
+      "title": {
+        "en": "Strawberry die-cut sticker",
+        "zh": "草莓模切贴纸"
+      },
+      "description": {
+        "en": "OpenAI template asset. The cream die-cut border is the sticker edge, and the canvas outside it is alpha.",
+        "zh": "OpenAI 模板素材。奶油色模切边就是贴纸边缘，边框以外是 alpha。"
+      },
+      "tips": {
+        "en": "Keep everything outside the die-cut border transparent so the sticker can sit on any template.",
+        "zh": "模切边以外全部保持透明，贴纸才能放到任意模板上。"
+      },
+      "category": "illustration",
+      "tags": [
+        "illustration",
+        "sticker",
+        "transparent"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create one illustrated strawberry character sticker with rich coral-red fruit, sage-green leaves, and a close-fitting cream die-cut border. Keep everything outside the sticker border transparent. No text, watermark, shadows, or background.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一张插画风格的草莓角色贴纸：饱满的珊瑚红果实、鼠尾草绿的叶子，以及一圈贴合的奶油色模切边。贴纸边框以外的一切保持透明。不要文字、水印、阴影或背景。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-design-sticker-output.webp",
+          "alt": {
+            "en": "Strawberry sticker",
+            "zh": "草莓贴纸"
+          },
+          "width": 900,
+          "height": 960
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 3 — sticker",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1024x1024, quality high, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-merchandise-design",
+      "title": {
+        "en": "Screen-print circle, open gaps",
+        "zh": "丝网印圆形，空隙透明"
+      },
+      "description": {
+        "en": "OpenAI print artwork. Mountains, pines, and a river form a compact circle with transparent gaps between the elements.",
+        "zh": "OpenAI 印花图案。山、松和河流排成紧凑圆形，元素之间的空隙是透明的。"
+      },
+      "tips": {
+        "en": "Ask for transparent gaps between the graphic elements, not only around the outer shape, and forbid a badge or white rectangle.",
+        "zh": "要求图形元素之间的空隙也透明，而不只是外轮廓以外；禁止徽章和白色矩形。"
+      },
+      "category": "illustration",
+      "tags": [
+        "illustration",
+        "transparent",
+        "product"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create one premium outdoors-inspired apparel illustration with an amber setting sun, slate-blue mountains, evergreen pine trees, a pale turquoise river, and small coral wildflowers. Arrange the elements into an organic compact circular composition with subtle screen-print texture. Keep the surrounding area and open spaces between the graphic elements transparent. No text, bounding badge, white rectangle, garment, or background.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一幅高端、以户外为灵感的服饰插画：琥珀色的落日、石板蓝的山脉、常绿的松树、淡绿松石色的河流，以及小朵珊瑚红野花。把这些元素排成有机、紧凑的圆形构图，带一点丝网印刷的质感。图形周围以及图形元素之间的空隙保持透明。不要文字、外框徽章、白色矩形、服装或背景。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-merchandise-design-output.webp",
+          "alt": {
+            "en": "Apparel print",
+            "zh": "服饰印花"
+          },
+          "width": 960,
+          "height": 917
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 4 — Print-on-demand merchandise (print design)",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1024x1024, quality high, background transparent, output_format png"
+    },
+    {
+      "id": "gpt2-blank-tshirt",
+      "title": {
+        "en": "Blank ivory crew-neck",
+        "zh": "象牙色空白圆领衫"
+      },
+      "description": {
+        "en": "OpenAI garment base. The ivory T-shirt is flat, front-facing, and blank so a separate print can sit on the chest.",
+        "zh": "OpenAI 服装底图。象牙色 T 恤平铺、正面、胸口留白，另一张印花可以叠在胸口。"
+      },
+      "tips": {
+        "en": "Show the shirt flat and front-facing, leave the chest blank, and keep everything outside the silhouette transparent.",
+        "zh": "衣服平铺、正面，胸口留白，轮廓以外全部保持透明。"
+      },
+      "category": "product",
+      "tags": [
+        "product",
+        "transparent",
+        "fashion"
+      ],
+      "model": "gpt-image-2",
+      "modality": "text-to-image",
+      "requires_reference": false,
+      "prompt": "Create one photorealistic premium unisex ivory crew-neck T-shirt shown completely flat, front-facing, and centered. Leave the chest completely blank for a print design and keep everything outside the garment silhouette transparent. No person, hanger, mannequin, logos, graphics, shadows, or background.",
+      "prompt_language": "en",
+      "prompt_translations": {
+        "zh": "创作一件照片级的高端中性象牙色圆领 T 恤，完全平铺、正面朝前、居中。胸口完全留白，以便放置印花，服装轮廓以外的一切保持透明。不要人物、衣架、人台、标志、图案、阴影或背景。"
+      },
+      "images": [
+        {
+          "role": "output",
+          "src": "/images/cases/gpt2-blank-tshirt-output.webp",
+          "alt": {
+            "en": "Blank ivory T-shirt",
+            "zh": "象牙色空白 T 恤"
+          },
+          "width": 960,
+          "height": 877
+        }
+      ],
+      "source": {
+        "author": "OpenAI",
+        "author_url": "https://openai.com/",
+        "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+        "url": "https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations",
+        "section": "Use case 4 — blank T-shirt",
+        "license": "MIT",
+        "license_url": "https://github.com/openai/openai-cookbook/blob/main/LICENSE",
+        "changes": "Resized and re-encoded as WebP (longest edge 960px). Prompt text is unchanged. Upstream images and notebook text are from the MIT-licensed OpenAI Cookbook, copyright 2025 OpenAI. Cookbook notes assets were retained from the GPT Image 2 version.",
+        "retrieved": "2026-10-29"
+      },
+      "parameters": "model gpt-image-2, size 1024x1024, quality high, background transparent, output_format png"
     },
     {
       "id": "sora2-turn-and-smile",
